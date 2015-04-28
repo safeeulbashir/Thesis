@@ -3,7 +3,7 @@ This codebase is the work of my masters thesis. I am working on biological compu
 Melanie Moses. My goal is to propose a model for foraging of social insects like ants. My research focuses on role of 
 pheromone(a chemical released by ants to communicate with other ants about resources) in foraging. 
 This iAnt code for Argos Simulator is a model where we observe the behavior of ants. I am one of the contributor to the iAnt
-code of Argos Simulator. The python scripts in the pyscript directory are developed my me to analyse the behaviours of ants. 
+code of Argos Simulator. The python scripts in the pyscript directory are developed by me to analyze the behaviours of ants. 
 Details about how to run argos and iAnt is given bellow.
 
 #iAnt-ARGoS
