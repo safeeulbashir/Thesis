@@ -1,0 +1,46 @@
+length 3600 256 seeds, 4x8x8 powerRank 4 | 6 robots
+1st default settings 10 10
+2nd pheromoneRate 0 siteFidelity 20
+3rd pheromoneRate 20 siteFidelity 0
+4th pheromoneRate 20 siteFidelity 10
+5th pheromoneRate 10 siteFidelity 20
+
+seed 100 
+random	cluster	powerlaw
+184	208	200
+169	200	202
+171	208	184
+184	205	193
+179	202	193
+
+seed 98123
+random	cluster	powerlaw
+177	212	214
+177	205	200
+173	214	194
+220	196	207
+180	205	200
+
+seed 3001233
+random	cluster	powerlaw
+161	177	189
+176	176	195
+168	177	195
+199	177	184
+156	176	202
+
+seed 745
+random	cluster	powerlaw
+171	205	197
+169	205	199
+183	201	205
+170	206	183
+186	208	202
+
+seed 866451
+random	cluster	powerlaw
+182	199	201
+195	178	201
+180	212	188
+201	192	198
+170	216	196
