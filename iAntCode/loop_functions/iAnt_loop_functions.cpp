@@ -1,4 +1,5 @@
 #include "iAnt_loop_functions.h"
+
 /******************************************************************************/
 /* Constructor */
 /******************************************************************************/
@@ -126,7 +127,7 @@ void iAnt_loop_functions::PreStep() {
 
             */
             else if(iAnts[i]->IsInTheNest() && iAnts[i]->IsHoldingFood()) {
-                pheromoneList = UpdatePheromoneList(iAnts[i], i);
+                pheromoneList = UpdatePheromoneList(iAnts[i]);
                 pheromonePositions = UpdatePheromonePositions(iAnts[i]);
             }
         }
@@ -184,18 +185,7 @@ void iAnt_loop_functions::PostExperiment() {
         dataInput.close();
     }
 
-	simCounter++;
-	std::ofstream dataOutputPosition("iAntFoodPosition.txt", std::ios::out);
-		dataOutputPosition
-				<< "Pile ID\tDistribution Type\tX-Position\tY-Position\tCollection Time\tAnt ID\n";
-		for (int i = 0; i < food_details.size(); i++) {
-			dataOutputPosition << food_details[i].getPileId() << "\t"
-					<< food_details[i].getDistributionType() << "\t"
-					<< food_details[i].getPosition().GetX() << "\t"
-					<< food_details[i].getPosition().GetY() << "\t"
-					<< food_details[i].getCollectionTime() << "\t"
-					<< food_details[i].getAntId() << "\n";
-		}
+    simCounter++;
 }
 
 
@@ -320,20 +310,29 @@ void iAnt_loop_functions::PowerLawFoodDistribution() {
     Real   foodOffset     = 3.0 * GetFoodRadius();
     size_t foodPlaced     = 0;
     size_t powerLawLength = 1;
-	iAnt_food_type food;
 
     vector<size_t> powerLawClusters;
     vector<size_t> clusterSides;
     CVector2       placementPosition;
 
     for(size_t i = 0; i < powerRank; i++) {
-        powerLawClusters.push_back(powerLawLength * powerLawLength);
-        powerLawLength *= 2;
+	if(powerRank==5 && i==3)
+		powerLawLength *= 2;
+	else{
+		//LOGERR<<powerLawLength * powerLawLength<<endl;
+        	powerLawClusters.push_back(powerLawLength * powerLawLength);
+        	powerLawLength *= 2;
+	}	
     }
 
     for(size_t i = 0; i < powerRank; i++) {
-        powerLawLength /= 2;
-        clusterSides.push_back(powerLawLength);
+	if(powerRank==5 && i==3)
+       		powerLawLength /= 2;
+	else{
+		powerLawLength /= 2;
+		//LOGERR<<powerLawLength<<endl;
+        	clusterSides.push_back(powerLawLength);
+	}
     }
 
     for(size_t h = 0; h < powerLawClusters.size(); h++) {
@@ -347,12 +346,6 @@ void iAnt_loop_functions::PowerLawFoodDistribution() {
             for(size_t j = 0; j < clusterSides[h]; j++) {
                 for(size_t k = 0; k < clusterSides[h]; k++) {
                     foodPlaced++;
-					food.setCollectionTime(-1);
-					food.setAntId(-1);
-					food.setPosition(placementPosition);
-					food.setDistributionType(powerLawClusters[h]);
-					food.setPileId(i);
-					food_details.push_back(food);
                     foodPositions.push_back(placementPosition);
                     placementPosition.SetX(placementPosition.GetX() + foodOffset);
                 }
@@ -427,22 +420,10 @@ Real iAnt_loop_functions::GetFoodRadius() {
     return sqrt(foodRadiusSquared);
 }
 
-vector<iAnt_pheromone> iAnt_loop_functions::UpdatePheromoneList(iAnt_controller *c, int antId) {
+vector<iAnt_pheromone> iAnt_loop_functions::UpdatePheromoneList(iAnt_controller *c) {
     vector<iAnt_pheromone> newPheromoneList;
 	double                 maxStrength      = 0.0;
-	argos::LOG << "Food is collected from: " << c->GetHoldingFoodPositions()
-			<< "\n";
-	/*Added By Safeeul Bashir Safee
-	 *Searching the food_details array with the position of the food that is in Robots hand.
-	 * */
-	size_t foodIdx;
-	for(foodIdx=0;foodIdx<food_details.size();foodIdx++)
-	{
-		if(food_details[foodIdx].getPosition()==c->GetHoldingFoodPositions())
-			break;
-	}
-	food_details[foodIdx].setCollectionTime(simTime);
-	food_details[foodIdx].setAntId(antId);
+
     c->DropOffFood();
 
 	for(size_t i = 0; i < pheromoneList.size(); i++) {
@@ -503,10 +484,8 @@ vector<CVector2> iAnt_loop_functions::UpdateFoodPositions(iAnt_controller *c) {
 
         if((p - f).SquareLength() < foodRadiusSquared) {
             c->PickupFood();
-            c->SetHoldingFoodPositions(f);
-        } else {
-        	newFoodPositions.push_back(f);
         }
+        else newFoodPositions.push_back(f);
     }
 
     if(c->GetSharedPheromone().IsActive() == true) {

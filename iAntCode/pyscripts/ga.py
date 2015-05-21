@@ -29,7 +29,7 @@ class ArgosRunException(Exception):
 
 class iAntGA(object):
     def __init__(self, pop_size=50, gens=20, elites=3,
-                 mut_rate=0.1, robots=6, length=7200,
+                 mut_rate=0.1, robots=10, length=5400,
                  system="linux", tests_per_gen=4):
         self.system = system
         self.pop_size = pop_size
@@ -169,11 +169,11 @@ if __name__ == "__main__":
 
     pop_size = 50
     gens = 20
-    elites = 1
+    elites = 2
     mut_rate = 0.1
-    robots = 6
+    robots = 10
     system = "linux"
-    length = 7200
+    length = 5400
     tests_per_gen=4
 
     args = parser.parse_args()

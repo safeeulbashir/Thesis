@@ -14,7 +14,7 @@ ARGOS_XML_DEFAULT = '''<?xml version="1.0"?>
 
     <framework>
         <system threads="0" />
-        <experiment length="3600" ticks_per_second="16" random_seed="100" />
+        <experiment length="5400" ticks_per_second="16" random_seed="100" />
     </framework>
 
     <controllers>
@@ -88,10 +88,10 @@ ARGOS_XML_DEFAULT = '''<?xml version="1.0"?>
 
 
 CPFA_LIMITS = {
-    "pheromoneRate": (0, 20),
+    "pheromoneRate": (20, 20),
     "pheromoneDecayRate": (0, 1),
     "travelGiveupProbability": (0, 1),
-    "siteFidelityRate": (0, 20),
+    "siteFidelityRate": (20, 20),
     "informedSearchDecay": (0, 1),
     "searchGiveupProbability": (0, 1),
     "uninformedSearchCorrelation": (0, 359)
@@ -204,8 +204,8 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     gen_file = args.gen_file
-    robots='6'
-    length='3600'
+    robots='10'
+    length='5400'
     sradius='1'
     system='linux'
 
