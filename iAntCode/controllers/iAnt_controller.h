@@ -55,11 +55,7 @@ class iAnt_controller : public CCI_Controller {
     void SetFoodRadiusSquared(Real frs);
     void SetTargetPheromone(iAnt_pheromone tp);
     void SetForageRange(CRange<Real> x, CRange<Real> y);
-    /*Added By Safeeul Bashir Safee
-      This function is declared to track down
-      from what position the seed is being collected
-    */
-    void SetHoldingFoodPositions(CVector2 fp);
+
     /***************************************************************************
     * Robot Getter Functions
     ***************************************************************************/
@@ -69,7 +65,6 @@ class iAnt_controller : public CCI_Controller {
     Real             GetNestRadius();
     Real             GetFoodRadius();
     vector<CVector2> GetFoodPositions();
-    CVector2         GetHoldingFoodPositions();
     vector<CVector2> GetPheromonePositions();
     vector<CVector2> GetFidelityPositions();
     iAnt_pheromone   GetSharedPheromone();
@@ -111,7 +106,6 @@ class iAnt_controller : public CCI_Controller {
     CVector2         targetPosition;
     CVector2         fidelityPosition;
     vector<CVector2> foodPositions;
-    CVector2 foodPosition;
     vector<CVector2> pheromonePositions;
     vector<CVector2> fidelityPositions;
     iAnt_pheromone   targetPheromone; // pheromone I'm following right now

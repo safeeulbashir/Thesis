@@ -250,14 +250,6 @@ void iAnt_controller::SetFoodPositions(vector<CVector2> fp) {
 }
 
 /*******************************************************************************
-* Update the the position of the food from where it is being collected
-* Added By Safeeul Bashir Safee
-*******************************************************************************/
-void iAnt_controller::SetHoldingFoodPositions(argos::CVector2 fp){
-	foodPosition=fp;
-}
-
-/*******************************************************************************
 * Update the list of all pheromone positions on the map. This list should
 * variably change in size from [0, max number of food items] depending upon
 * the number of robots and pheromone laying rate. This should be called by
@@ -389,13 +381,6 @@ vector<CVector2> iAnt_controller::GetFoodPositions() {
 }
 
 /*******************************************************************************
-* Return the Cartesian X,Y coordinates of the food that a robot collected
-*******************************************************************************/
-argos::CVector2 iAnt_controller::GetHoldingFoodPositions() {
-	return foodPosition;
-}
-
-/*******************************************************************************
 * Return the list of all available pheromone positions.
 *******************************************************************************/
 vector<CVector2> iAnt_controller::GetPheromonePositions() {
@@ -436,11 +421,6 @@ iAnt_loop_functions* iAnt_controller::GetLoopFunctions() {
 * controller is modeled after the Central Place Foraging Algorithm (CPFA).
 *******************************************************************************/
 void iAnt_controller::ControlStep() {
-    /* If all food is collected, return to the nest and shutdown. */
-    if(foodPositions.size() == 0 && !IsHoldingFood()) {
-        CPFA = SHUTDOWN;
-    }
-
     /* Run the CPFA based on the CPFA enumeration flag. */
     switch(CPFA) {
 	    case INACTIVE:
@@ -457,6 +437,11 @@ void iAnt_controller::ControlStep() {
             break;
         case SHUTDOWN:
             shutdown();
+    }
+
+    /* If all food is collected, return to the nest and shutdown. */
+    if(foodPositions.size() == 0 && !IsHoldingFood()) {
+        CPFA = SHUTDOWN;
     }
 }
 
@@ -709,6 +694,8 @@ void iAnt_controller::SetLocalResourceDensity()
 			resourceDensity++;
 		}
 	}
+
+    // LOG << resourceDensity << '\n';
 
     fidelityPosition = GetPosition();
 }
