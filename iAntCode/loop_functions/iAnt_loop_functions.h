@@ -7,7 +7,6 @@
 #include <argos3/core/simulator/loop_functions.h>
 #include <argos3/core/simulator/entity/floor_entity.h>
 #include <argos3/plugins/robots/foot-bot/simulator/footbot_entity.h>
-#include "iAnt_food_type.h"
 
 using namespace argos;
 using namespace std;
@@ -50,7 +49,7 @@ class iAnt_loop_functions : public CLoopFunctions {
         Real GetNestRadius();
         Real GetFoodRadius();
 
-        vector<iAnt_pheromone> UpdatePheromoneList(iAnt_controller *c, int antId);
+        vector<iAnt_pheromone> UpdatePheromoneList(iAnt_controller *c);
         vector<CVector2>       UpdatePheromonePositions(iAnt_controller *c);
         vector<CVector2>       UpdateFoodPositions(iAnt_controller *c);
         vector<CVector2>       UpdateFidelityPositions();
@@ -67,7 +66,6 @@ class iAnt_loop_functions : public CLoopFunctions {
 
         vector<iAnt_controller*> iAnts;
 		vector<CVector2>        foodPositions;      // food item positions on the field
-		vector<iAnt_food_type>        food_details;      // food item positions on the field
         vector<CVector2>        pheromonePositions; // pheromone positions on the field
         vector<CVector2>        fidelityPositions;  // fidelity positions on the field
 		vector<iAnt_pheromone>  pheromoneList;      // list of pheromones to share with iAnts
