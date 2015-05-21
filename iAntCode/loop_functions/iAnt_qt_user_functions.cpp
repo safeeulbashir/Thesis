@@ -1,8 +1,5 @@
 #include "iAnt_qt_user_functions.h"
 
-/* Define to 0 to use old argos version on linux */
-#define NEW_ARGOS 1
-
 // constructor
 iAnt_qt_user_functions::iAnt_qt_user_functions() :
     foodRadius(0.0),
@@ -30,7 +27,7 @@ void iAnt_qt_user_functions::DrawFood(CFootBotEntity& entity) {
     UpdateDrawInWorldData(c);
 
     if(c.IsHoldingFood() == true) {
-#ifdef NEW_ARGOS
+#ifdef __APPLE__
         DrawCylinder(CVector3(0.0f, 0.0f, 0.3f), CQuaternion(), 0.05f, 0.025f, CColor::BLACK);
 #else
         DrawCylinder(0.05f, 0.025f, CVector3(0.0f, 0.0f, 0.3f), CColor::BLACK);
@@ -46,12 +43,12 @@ void iAnt_qt_user_functions::DrawInWorld() {
     CVector3 np(nestPosition.GetX(), nestPosition.GetY(), 0.001f);
     Real height = foodRadius / 2.0;
 
-#ifdef NEW_ARGOS
+#ifdef __APPLE__
     CQuaternion q;
 #endif
 
     // draw the nest
-#ifdef NEW_ARGOS
+#ifdef __APPLE__
     DrawCircle(np, q, nestRadius, CColor::GRAY80);
 #else
     DrawCircle(nestRadius, np, CColor::GRAY80);
@@ -67,7 +64,7 @@ void iAnt_qt_user_functions::DrawInWorld() {
             y = foodPositions[i].GetY();
             p3d = CVector3(x, y, 0.0);
 
-#ifdef NEW_ARGOS
+#ifdef __APPLE__
             DrawCylinder(p3d, q, foodRadius, height, CColor::BLACK);
 #else
             DrawCylinder(foodRadius, height, p3d, CColor::BLACK);
@@ -81,10 +78,10 @@ void iAnt_qt_user_functions::DrawInWorld() {
                 y = pheromonePositions[i].GetY();
                 p3d = CVector3(x, y, 0.0);
 
-#ifdef NEW_ARGOS
+#ifdef __APPLE__
                 DrawCylinder(p3d, q, foodRadius, height, CColor::RED);
 #else
-                DrawCylinder(foodRadius, height, p3d, CColor::RED);
+//                DrawCylinder(foodRadius, height, p3d, CColor::RED);
 #endif
             }
         }
@@ -96,7 +93,7 @@ void iAnt_qt_user_functions::DrawInWorld() {
                 y = fidelityPositions[i].GetY();
                 p3d = CVector3(x, y, 0.0);
 
-#ifdef NEW_ARGOS
+#ifdef __APPLE__
                 DrawCylinder(p3d, q, foodRadius, height, CColor::BLUE);
 #else
                 DrawCylinder(foodRadius, height, p3d, CColor::BLUE);
