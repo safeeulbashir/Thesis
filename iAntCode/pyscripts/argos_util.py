@@ -88,7 +88,7 @@ ARGOS_XML_DEFAULT = '''<?xml version="1.0"?>
 
 
 CPFA_LIMITS = {
-    "pheromoneRate": (20, 20),
+    "pheromoneRate": (0, 20),
     "pheromoneDecayRate": (0, 1),
     "travelGiveupProbability": (0, 1),
     "siteFidelityRate": (20, 20),
