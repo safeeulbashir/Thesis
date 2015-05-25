@@ -1,0 +1,55 @@
+<argos-configuration>
+
+    <framework>
+        <system threads="0"/>
+        <experiment length="3600" ticks_per_second="16" random_seed="1200"/>
+    </framework>
+
+    <controllers>
+        <iAnt_controller id="iAnt_c" library="build/controllers/libiAnt_controller.so">
+            <actuators>
+                <differential_steering implementation="default"/>
+            </actuators>
+            <sensors>
+                <footbot_proximity implementation="default" show_rays="false"/>
+                <positioning implementation="default"/>
+            </sensors>
+            <params>
+                <CPFA pheromoneRate="0.389776720947" pheromoneDecayRate="1" travelGiveupProbability="0.112344660594" siteFidelityRate="17.0101330293" informedSearchDecay="0.10188973522" searchRadius="1" searchStepSize="0.08" distanceTolerance="0.1" searchGiveupProbability="0.00111928248383" angleTolerance="22.5" maxRobotSpeed="16.0" uninformedSearchCorrelation="144.067251548" fitness="350.0" seed="304036786"/>
+            </params>
+        </iAnt_controller>
+    </controllers>
+
+    <loop_functions library="build/loop_functions/libiAnt_loop_functions.so" label="iAnt_loop_functions">
+
+        <simulation_settings variableSeed="0" outputData="1" nestPosition="0.0, 0.0" nestRadius="0.5" foodRadius="0.05" foodItemCount="256" foodDistribution="0"/>
+
+        <random_distribution_0/> <!-- no settings for this distribution -->
+        <cluster_distribution_1 numberOfClusters="6" clusterWidthX="6" clusterLengthY="6"/>
+        <powerLaw_distribution_2 powerRank="5"/>
+
+    </loop_functions>
+
+    <arena size="20.0, 20.0, 0.0" center="0.0, 0.0, 0.0">
+        <floor id="floor" source="loop_functions" pixels_per_meter="50"/>
+        <distribute>
+            <position method="uniform" min="-1, -1, 0" max="1, 1, 0"/>
+            <orientation method="gaussian" mean="0, 0, 0" std_dev="360, 0, 0"/>
+            <entity quantity="20" max_trials="200">
+                <foot-bot id="fb">
+                    <controller config="iAnt_c"/>
+                </foot-bot>
+            </entity>
+        </distribute>
+    </arena>
+
+    <physics_engines>
+        <dynamics2d id="dyn2d"/>
+    </physics_engines>
+
+    <media>
+        <led id="leds"/>
+    </media>
+
+</argos-configuration>
+

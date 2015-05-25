@@ -1,0 +1,3402 @@
+INFO:root:Starting generation: 0
+INFO:root:Seeds for generation: [1320354465]
+INFO:root:pop 0 at test 0 with seed 1320354465
+INFO:root:partial fitness = 0
+INFO:root:pop 1 at test 0 with seed 1320354465
+INFO:root:partial fitness = 49
+INFO:root:pop 2 at test 0 with seed 1320354465
+INFO:root:partial fitness = 0
+INFO:root:pop 3 at test 0 with seed 1320354465
+INFO:root:partial fitness = 0
+INFO:root:pop 4 at test 0 with seed 1320354465
+INFO:root:partial fitness = 0
+INFO:root:pop 5 at test 0 with seed 1320354465
+INFO:root:partial fitness = 0
+INFO:root:pop 6 at test 0 with seed 1320354465
+INFO:root:partial fitness = 0
+INFO:root:pop 7 at test 0 with seed 1320354465
+INFO:root:partial fitness = 56
+INFO:root:pop 8 at test 0 with seed 1320354465
+INFO:root:partial fitness = 0
+INFO:root:pop 9 at test 0 with seed 1320354465
+INFO:root:partial fitness = 0
+INFO:root:pop 10 at test 0 with seed 1320354465
+INFO:root:partial fitness = 0
+INFO:root:pop 11 at test 0 with seed 1320354465
+INFO:root:partial fitness = 0
+INFO:root:pop 12 at test 0 with seed 1320354465
+INFO:root:partial fitness = 23
+INFO:root:pop 13 at test 0 with seed 1320354465
+INFO:root:partial fitness = 0
+INFO:root:pop 14 at test 0 with seed 1320354465
+INFO:root:partial fitness = 0
+INFO:root:pop 15 at test 0 with seed 1320354465
+INFO:root:partial fitness = 0
+INFO:root:pop 16 at test 0 with seed 1320354465
+INFO:root:partial fitness = 0
+INFO:root:pop 17 at test 0 with seed 1320354465
+INFO:root:partial fitness = 8
+INFO:root:pop 18 at test 0 with seed 1320354465
+INFO:root:partial fitness = 0
+INFO:root:pop 19 at test 0 with seed 1320354465
+INFO:root:partial fitness = 0
+INFO:root:pop 20 at test 0 with seed 1320354465
+INFO:root:partial fitness = 0
+INFO:root:pop 21 at test 0 with seed 1320354465
+INFO:root:partial fitness = 0
+INFO:root:pop 22 at test 0 with seed 1320354465
+INFO:root:partial fitness = 0
+INFO:root:pop 23 at test 0 with seed 1320354465
+INFO:root:partial fitness = 0
+INFO:root:pop 24 at test 0 with seed 1320354465
+INFO:root:partial fitness = 0
+INFO:root:pop 25 at test 0 with seed 1320354465
+INFO:root:partial fitness = 74
+INFO:root:pop 26 at test 0 with seed 1320354465
+INFO:root:partial fitness = 0
+INFO:root:pop 27 at test 0 with seed 1320354465
+INFO:root:partial fitness = 0
+INFO:root:pop 28 at test 0 with seed 1320354465
+INFO:root:partial fitness = 0
+INFO:root:pop 29 at test 0 with seed 1320354465
+INFO:root:partial fitness = 0
+INFO:root:pop 30 at test 0 with seed 1320354465
+INFO:root:partial fitness = 0
+INFO:root:pop 31 at test 0 with seed 1320354465
+INFO:root:partial fitness = 0
+INFO:root:pop 32 at test 0 with seed 1320354465
+INFO:root:partial fitness = 1
+INFO:root:pop 33 at test 0 with seed 1320354465
+INFO:root:partial fitness = 0
+INFO:root:pop 34 at test 0 with seed 1320354465
+INFO:root:partial fitness = 1
+INFO:root:pop 35 at test 0 with seed 1320354465
+INFO:root:partial fitness = 0
+INFO:root:pop 36 at test 0 with seed 1320354465
+INFO:root:partial fitness = 93
+INFO:root:pop 37 at test 0 with seed 1320354465
+INFO:root:partial fitness = 7
+INFO:root:pop 38 at test 0 with seed 1320354465
+INFO:root:partial fitness = 2
+INFO:root:pop 39 at test 0 with seed 1320354465
+INFO:root:partial fitness = 16
+INFO:root:pop 0 total fitness = 0
+INFO:root:pop 0 avg fitness = 0
+INFO:root:pop 1 total fitness = 49
+INFO:root:pop 1 avg fitness = 49
+INFO:root:pop 2 total fitness = 0
+INFO:root:pop 2 avg fitness = 0
+INFO:root:pop 3 total fitness = 0
+INFO:root:pop 3 avg fitness = 0
+INFO:root:pop 4 total fitness = 0
+INFO:root:pop 4 avg fitness = 0
+INFO:root:pop 5 total fitness = 0
+INFO:root:pop 5 avg fitness = 0
+INFO:root:pop 6 total fitness = 0
+INFO:root:pop 6 avg fitness = 0
+INFO:root:pop 7 total fitness = 56
+INFO:root:pop 7 avg fitness = 56
+INFO:root:pop 8 total fitness = 0
+INFO:root:pop 8 avg fitness = 0
+INFO:root:pop 9 total fitness = 0
+INFO:root:pop 9 avg fitness = 0
+INFO:root:pop 10 total fitness = 0
+INFO:root:pop 10 avg fitness = 0
+INFO:root:pop 11 total fitness = 0
+INFO:root:pop 11 avg fitness = 0
+INFO:root:pop 12 total fitness = 23
+INFO:root:pop 12 avg fitness = 23
+INFO:root:pop 13 total fitness = 0
+INFO:root:pop 13 avg fitness = 0
+INFO:root:pop 14 total fitness = 0
+INFO:root:pop 14 avg fitness = 0
+INFO:root:pop 15 total fitness = 0
+INFO:root:pop 15 avg fitness = 0
+INFO:root:pop 16 total fitness = 0
+INFO:root:pop 16 avg fitness = 0
+INFO:root:pop 17 total fitness = 8
+INFO:root:pop 17 avg fitness = 8
+INFO:root:pop 18 total fitness = 0
+INFO:root:pop 18 avg fitness = 0
+INFO:root:pop 19 total fitness = 0
+INFO:root:pop 19 avg fitness = 0
+INFO:root:pop 20 total fitness = 0
+INFO:root:pop 20 avg fitness = 0
+INFO:root:pop 21 total fitness = 0
+INFO:root:pop 21 avg fitness = 0
+INFO:root:pop 22 total fitness = 0
+INFO:root:pop 22 avg fitness = 0
+INFO:root:pop 23 total fitness = 0
+INFO:root:pop 23 avg fitness = 0
+INFO:root:pop 24 total fitness = 0
+INFO:root:pop 24 avg fitness = 0
+INFO:root:pop 25 total fitness = 74
+INFO:root:pop 25 avg fitness = 74
+INFO:root:pop 26 total fitness = 0
+INFO:root:pop 26 avg fitness = 0
+INFO:root:pop 27 total fitness = 0
+INFO:root:pop 27 avg fitness = 0
+INFO:root:pop 28 total fitness = 0
+INFO:root:pop 28 avg fitness = 0
+INFO:root:pop 29 total fitness = 0
+INFO:root:pop 29 avg fitness = 0
+INFO:root:pop 30 total fitness = 0
+INFO:root:pop 30 avg fitness = 0
+INFO:root:pop 31 total fitness = 0
+INFO:root:pop 31 avg fitness = 0
+INFO:root:pop 32 total fitness = 1
+INFO:root:pop 32 avg fitness = 1
+INFO:root:pop 33 total fitness = 0
+INFO:root:pop 33 avg fitness = 0
+INFO:root:pop 34 total fitness = 1
+INFO:root:pop 34 avg fitness = 1
+INFO:root:pop 35 total fitness = 0
+INFO:root:pop 35 avg fitness = 0
+INFO:root:pop 36 total fitness = 93
+INFO:root:pop 36 avg fitness = 93
+INFO:root:pop 37 total fitness = 7
+INFO:root:pop 37 avg fitness = 7
+INFO:root:pop 38 total fitness = 2
+INFO:root:pop 38 avg fitness = 2
+INFO:root:pop 39 total fitness = 16
+INFO:root:pop 39 avg fitness = 16
+INFO:root:Starting generation: 1
+INFO:root:Seeds for generation: [3673487341]
+INFO:root:pop 0 at test 0 with seed 3673487341
+INFO:root:partial fitness = 105
+INFO:root:pop 1 at test 0 with seed 3673487341
+INFO:root:partial fitness = 78
+INFO:root:pop 2 at test 0 with seed 3673487341
+INFO:root:partial fitness = 47
+INFO:root:pop 3 at test 0 with seed 3673487341
+INFO:root:partial fitness = 36
+INFO:root:pop 4 at test 0 with seed 3673487341
+INFO:root:partial fitness = 22
+INFO:root:pop 5 at test 0 with seed 3673487341
+INFO:root:partial fitness = 74
+INFO:root:pop 6 at test 0 with seed 3673487341
+INFO:root:partial fitness = 0
+INFO:root:pop 7 at test 0 with seed 3673487341
+INFO:root:partial fitness = 0
+INFO:root:pop 8 at test 0 with seed 3673487341
+INFO:root:partial fitness = 4
+INFO:root:pop 9 at test 0 with seed 3673487341
+INFO:root:partial fitness = 294
+INFO:root:pop 10 at test 0 with seed 3673487341
+INFO:root:partial fitness = 0
+INFO:root:pop 11 at test 0 with seed 3673487341
+INFO:root:partial fitness = 165
+INFO:root:pop 12 at test 0 with seed 3673487341
+INFO:root:partial fitness = 4
+INFO:root:pop 13 at test 0 with seed 3673487341
+INFO:root:partial fitness = 1
+INFO:root:pop 14 at test 0 with seed 3673487341
+INFO:root:partial fitness = 0
+INFO:root:pop 15 at test 0 with seed 3673487341
+INFO:root:partial fitness = 0
+INFO:root:pop 16 at test 0 with seed 3673487341
+INFO:root:partial fitness = 5
+INFO:root:pop 17 at test 0 with seed 3673487341
+INFO:root:partial fitness = 0
+INFO:root:pop 18 at test 0 with seed 3673487341
+INFO:root:partial fitness = 6
+INFO:root:pop 19 at test 0 with seed 3673487341
+INFO:root:partial fitness = 2
+INFO:root:pop 20 at test 0 with seed 3673487341
+INFO:root:partial fitness = 41
+INFO:root:pop 21 at test 0 with seed 3673487341
+INFO:root:partial fitness = 7
+INFO:root:pop 22 at test 0 with seed 3673487341
+INFO:root:partial fitness = 5
+INFO:root:pop 23 at test 0 with seed 3673487341
+INFO:root:partial fitness = 2
+INFO:root:pop 24 at test 0 with seed 3673487341
+INFO:root:partial fitness = 0
+INFO:root:pop 25 at test 0 with seed 3673487341
+INFO:root:partial fitness = 93
+INFO:root:pop 26 at test 0 with seed 3673487341
+INFO:root:partial fitness = 11
+INFO:root:pop 27 at test 0 with seed 3673487341
+INFO:root:partial fitness = 72
+INFO:root:pop 28 at test 0 with seed 3673487341
+INFO:root:partial fitness = 118
+INFO:root:pop 29 at test 0 with seed 3673487341
+INFO:root:partial fitness = 4
+INFO:root:pop 30 at test 0 with seed 3673487341
+INFO:root:partial fitness = 29
+INFO:root:pop 31 at test 0 with seed 3673487341
+INFO:root:partial fitness = 81
+INFO:root:pop 32 at test 0 with seed 3673487341
+INFO:root:partial fitness = 15
+INFO:root:pop 33 at test 0 with seed 3673487341
+INFO:root:partial fitness = 0
+INFO:root:pop 34 at test 0 with seed 3673487341
+INFO:root:partial fitness = 5
+INFO:root:pop 35 at test 0 with seed 3673487341
+INFO:root:partial fitness = 4
+INFO:root:pop 36 at test 0 with seed 3673487341
+INFO:root:partial fitness = 4
+INFO:root:pop 37 at test 0 with seed 3673487341
+INFO:root:partial fitness = 18
+INFO:root:pop 38 at test 0 with seed 3673487341
+INFO:root:partial fitness = 34
+INFO:root:pop 39 at test 0 with seed 3673487341
+INFO:root:partial fitness = 0
+INFO:root:pop 0 total fitness = 105
+INFO:root:pop 0 avg fitness = 105
+INFO:root:pop 1 total fitness = 78
+INFO:root:pop 1 avg fitness = 78
+INFO:root:pop 2 total fitness = 47
+INFO:root:pop 2 avg fitness = 47
+INFO:root:pop 3 total fitness = 36
+INFO:root:pop 3 avg fitness = 36
+INFO:root:pop 4 total fitness = 22
+INFO:root:pop 4 avg fitness = 22
+INFO:root:pop 5 total fitness = 74
+INFO:root:pop 5 avg fitness = 74
+INFO:root:pop 6 total fitness = 0
+INFO:root:pop 6 avg fitness = 0
+INFO:root:pop 7 total fitness = 0
+INFO:root:pop 7 avg fitness = 0
+INFO:root:pop 8 total fitness = 4
+INFO:root:pop 8 avg fitness = 4
+INFO:root:pop 9 total fitness = 294
+INFO:root:pop 9 avg fitness = 294
+INFO:root:pop 10 total fitness = 0
+INFO:root:pop 10 avg fitness = 0
+INFO:root:pop 11 total fitness = 165
+INFO:root:pop 11 avg fitness = 165
+INFO:root:pop 12 total fitness = 4
+INFO:root:pop 12 avg fitness = 4
+INFO:root:pop 13 total fitness = 1
+INFO:root:pop 13 avg fitness = 1
+INFO:root:pop 14 total fitness = 0
+INFO:root:pop 14 avg fitness = 0
+INFO:root:pop 15 total fitness = 0
+INFO:root:pop 15 avg fitness = 0
+INFO:root:pop 16 total fitness = 5
+INFO:root:pop 16 avg fitness = 5
+INFO:root:pop 17 total fitness = 0
+INFO:root:pop 17 avg fitness = 0
+INFO:root:pop 18 total fitness = 6
+INFO:root:pop 18 avg fitness = 6
+INFO:root:pop 19 total fitness = 2
+INFO:root:pop 19 avg fitness = 2
+INFO:root:pop 20 total fitness = 41
+INFO:root:pop 20 avg fitness = 41
+INFO:root:pop 21 total fitness = 7
+INFO:root:pop 21 avg fitness = 7
+INFO:root:pop 22 total fitness = 5
+INFO:root:pop 22 avg fitness = 5
+INFO:root:pop 23 total fitness = 2
+INFO:root:pop 23 avg fitness = 2
+INFO:root:pop 24 total fitness = 0
+INFO:root:pop 24 avg fitness = 0
+INFO:root:pop 25 total fitness = 93
+INFO:root:pop 25 avg fitness = 93
+INFO:root:pop 26 total fitness = 11
+INFO:root:pop 26 avg fitness = 11
+INFO:root:pop 27 total fitness = 72
+INFO:root:pop 27 avg fitness = 72
+INFO:root:pop 28 total fitness = 118
+INFO:root:pop 28 avg fitness = 118
+INFO:root:pop 29 total fitness = 4
+INFO:root:pop 29 avg fitness = 4
+INFO:root:pop 30 total fitness = 29
+INFO:root:pop 30 avg fitness = 29
+INFO:root:pop 31 total fitness = 81
+INFO:root:pop 31 avg fitness = 81
+INFO:root:pop 32 total fitness = 15
+INFO:root:pop 32 avg fitness = 15
+INFO:root:pop 33 total fitness = 0
+INFO:root:pop 33 avg fitness = 0
+INFO:root:pop 34 total fitness = 5
+INFO:root:pop 34 avg fitness = 5
+INFO:root:pop 35 total fitness = 4
+INFO:root:pop 35 avg fitness = 4
+INFO:root:pop 36 total fitness = 4
+INFO:root:pop 36 avg fitness = 4
+INFO:root:pop 37 total fitness = 18
+INFO:root:pop 37 avg fitness = 18
+INFO:root:pop 38 total fitness = 34
+INFO:root:pop 38 avg fitness = 34
+INFO:root:pop 39 total fitness = 0
+INFO:root:pop 39 avg fitness = 0
+INFO:root:Starting generation: 2
+INFO:root:Seeds for generation: [971674313]
+INFO:root:pop 0 at test 0 with seed 971674313
+INFO:root:partial fitness = 261
+INFO:root:pop 1 at test 0 with seed 971674313
+INFO:root:partial fitness = 154
+INFO:root:pop 2 at test 0 with seed 971674313
+INFO:root:partial fitness = 151
+INFO:root:pop 3 at test 0 with seed 971674313
+INFO:root:partial fitness = 100
+INFO:root:pop 4 at test 0 with seed 971674313
+INFO:root:partial fitness = 159
+INFO:root:pop 5 at test 0 with seed 971674313
+INFO:root:partial fitness = 2
+INFO:root:pop 6 at test 0 with seed 971674313
+INFO:root:partial fitness = 23
+INFO:root:pop 7 at test 0 with seed 971674313
+INFO:root:partial fitness = 0
+INFO:root:pop 8 at test 0 with seed 971674313
+INFO:root:partial fitness = 189
+INFO:root:pop 9 at test 0 with seed 971674313
+INFO:root:partial fitness = 1
+INFO:root:pop 10 at test 0 with seed 971674313
+INFO:root:partial fitness = 27
+INFO:root:pop 11 at test 0 with seed 971674313
+INFO:root:partial fitness = 147
+INFO:root:pop 12 at test 0 with seed 971674313
+INFO:root:partial fitness = 150
+INFO:root:pop 13 at test 0 with seed 971674313
+INFO:root:partial fitness = 74
+INFO:root:pop 14 at test 0 with seed 971674313
+INFO:root:partial fitness = 2
+INFO:root:pop 15 at test 0 with seed 971674313
+INFO:root:partial fitness = 192
+INFO:root:pop 16 at test 0 with seed 971674313
+INFO:root:partial fitness = 0
+INFO:root:pop 17 at test 0 with seed 971674313
+INFO:root:partial fitness = 6
+INFO:root:pop 18 at test 0 with seed 971674313
+INFO:root:partial fitness = 2
+INFO:root:pop 19 at test 0 with seed 971674313
+INFO:root:partial fitness = 105
+INFO:root:pop 20 at test 0 with seed 971674313
+INFO:root:partial fitness = 136
+INFO:root:pop 21 at test 0 with seed 971674313
+INFO:root:partial fitness = 107
+INFO:root:pop 22 at test 0 with seed 971674313
+INFO:root:partial fitness = 33
+INFO:root:pop 23 at test 0 with seed 971674313
+INFO:root:partial fitness = 7
+INFO:root:pop 24 at test 0 with seed 971674313
+INFO:root:partial fitness = 128
+INFO:root:pop 25 at test 0 with seed 971674313
+INFO:root:partial fitness = 49
+INFO:root:pop 26 at test 0 with seed 971674313
+INFO:root:partial fitness = 39
+INFO:root:pop 27 at test 0 with seed 971674313
+INFO:root:partial fitness = 2
+INFO:root:pop 28 at test 0 with seed 971674313
+INFO:root:partial fitness = 47
+INFO:root:pop 29 at test 0 with seed 971674313
+INFO:root:partial fitness = 4
+INFO:root:pop 30 at test 0 with seed 971674313
+INFO:root:partial fitness = 146
+INFO:root:pop 31 at test 0 with seed 971674313
+INFO:root:partial fitness = 2
+INFO:root:pop 32 at test 0 with seed 971674313
+INFO:root:partial fitness = 2
+INFO:root:pop 33 at test 0 with seed 971674313
+INFO:root:partial fitness = 2
+INFO:root:pop 34 at test 0 with seed 971674313
+INFO:root:partial fitness = 162
+INFO:root:pop 35 at test 0 with seed 971674313
+INFO:root:partial fitness = 0
+INFO:root:pop 36 at test 0 with seed 971674313
+INFO:root:partial fitness = 0
+INFO:root:pop 37 at test 0 with seed 971674313
+INFO:root:partial fitness = 0
+INFO:root:pop 38 at test 0 with seed 971674313
+INFO:root:partial fitness = 212
+INFO:root:pop 39 at test 0 with seed 971674313
+INFO:root:partial fitness = 11
+INFO:root:pop 0 total fitness = 261
+INFO:root:pop 0 avg fitness = 261
+INFO:root:pop 1 total fitness = 154
+INFO:root:pop 1 avg fitness = 154
+INFO:root:pop 2 total fitness = 151
+INFO:root:pop 2 avg fitness = 151
+INFO:root:pop 3 total fitness = 100
+INFO:root:pop 3 avg fitness = 100
+INFO:root:pop 4 total fitness = 159
+INFO:root:pop 4 avg fitness = 159
+INFO:root:pop 5 total fitness = 2
+INFO:root:pop 5 avg fitness = 2
+INFO:root:pop 6 total fitness = 23
+INFO:root:pop 6 avg fitness = 23
+INFO:root:pop 7 total fitness = 0
+INFO:root:pop 7 avg fitness = 0
+INFO:root:pop 8 total fitness = 189
+INFO:root:pop 8 avg fitness = 189
+INFO:root:pop 9 total fitness = 1
+INFO:root:pop 9 avg fitness = 1
+INFO:root:pop 10 total fitness = 27
+INFO:root:pop 10 avg fitness = 27
+INFO:root:pop 11 total fitness = 147
+INFO:root:pop 11 avg fitness = 147
+INFO:root:pop 12 total fitness = 150
+INFO:root:pop 12 avg fitness = 150
+INFO:root:pop 13 total fitness = 74
+INFO:root:pop 13 avg fitness = 74
+INFO:root:pop 14 total fitness = 2
+INFO:root:pop 14 avg fitness = 2
+INFO:root:pop 15 total fitness = 192
+INFO:root:pop 15 avg fitness = 192
+INFO:root:pop 16 total fitness = 0
+INFO:root:pop 16 avg fitness = 0
+INFO:root:pop 17 total fitness = 6
+INFO:root:pop 17 avg fitness = 6
+INFO:root:pop 18 total fitness = 2
+INFO:root:pop 18 avg fitness = 2
+INFO:root:pop 19 total fitness = 105
+INFO:root:pop 19 avg fitness = 105
+INFO:root:pop 20 total fitness = 136
+INFO:root:pop 20 avg fitness = 136
+INFO:root:pop 21 total fitness = 107
+INFO:root:pop 21 avg fitness = 107
+INFO:root:pop 22 total fitness = 33
+INFO:root:pop 22 avg fitness = 33
+INFO:root:pop 23 total fitness = 7
+INFO:root:pop 23 avg fitness = 7
+INFO:root:pop 24 total fitness = 128
+INFO:root:pop 24 avg fitness = 128
+INFO:root:pop 25 total fitness = 49
+INFO:root:pop 25 avg fitness = 49
+INFO:root:pop 26 total fitness = 39
+INFO:root:pop 26 avg fitness = 39
+INFO:root:pop 27 total fitness = 2
+INFO:root:pop 27 avg fitness = 2
+INFO:root:pop 28 total fitness = 47
+INFO:root:pop 28 avg fitness = 47
+INFO:root:pop 29 total fitness = 4
+INFO:root:pop 29 avg fitness = 4
+INFO:root:pop 30 total fitness = 146
+INFO:root:pop 30 avg fitness = 146
+INFO:root:pop 31 total fitness = 2
+INFO:root:pop 31 avg fitness = 2
+INFO:root:pop 32 total fitness = 2
+INFO:root:pop 32 avg fitness = 2
+INFO:root:pop 33 total fitness = 2
+INFO:root:pop 33 avg fitness = 2
+INFO:root:pop 34 total fitness = 162
+INFO:root:pop 34 avg fitness = 162
+INFO:root:pop 35 total fitness = 0
+INFO:root:pop 35 avg fitness = 0
+INFO:root:pop 36 total fitness = 0
+INFO:root:pop 36 avg fitness = 0
+INFO:root:pop 37 total fitness = 0
+INFO:root:pop 37 avg fitness = 0
+INFO:root:pop 38 total fitness = 212
+INFO:root:pop 38 avg fitness = 212
+INFO:root:pop 39 total fitness = 11
+INFO:root:pop 39 avg fitness = 11
+INFO:root:Starting generation: 3
+INFO:root:Seeds for generation: [1034965674]
+INFO:root:pop 0 at test 0 with seed 1034965674
+INFO:root:partial fitness = 259
+INFO:root:pop 1 at test 0 with seed 1034965674
+INFO:root:partial fitness = 214
+INFO:root:pop 2 at test 0 with seed 1034965674
+INFO:root:partial fitness = 144
+INFO:root:pop 3 at test 0 with seed 1034965674
+INFO:root:partial fitness = 222
+INFO:root:pop 4 at test 0 with seed 1034965674
+INFO:root:partial fitness = 158
+INFO:root:pop 5 at test 0 with seed 1034965674
+INFO:root:partial fitness = 1
+INFO:root:pop 6 at test 0 with seed 1034965674
+INFO:root:partial fitness = 304
+INFO:root:pop 7 at test 0 with seed 1034965674
+INFO:root:partial fitness = 128
+INFO:root:pop 8 at test 0 with seed 1034965674
+INFO:root:partial fitness = 204
+INFO:root:pop 9 at test 0 with seed 1034965674
+INFO:root:partial fitness = 20
+INFO:root:pop 10 at test 0 with seed 1034965674
+INFO:root:partial fitness = 0
+INFO:root:pop 11 at test 0 with seed 1034965674
+INFO:root:partial fitness = 157
+INFO:root:pop 12 at test 0 with seed 1034965674
+INFO:root:partial fitness = 7
+INFO:root:pop 13 at test 0 with seed 1034965674
+INFO:root:partial fitness = 168
+INFO:root:pop 14 at test 0 with seed 1034965674
+INFO:root:partial fitness = 181
+INFO:root:pop 15 at test 0 with seed 1034965674
+INFO:root:partial fitness = 11
+INFO:root:pop 16 at test 0 with seed 1034965674
+INFO:root:partial fitness = 6
+INFO:root:pop 17 at test 0 with seed 1034965674
+INFO:root:partial fitness = 144
+INFO:root:pop 18 at test 0 with seed 1034965674
+INFO:root:partial fitness = 138
+INFO:root:pop 19 at test 0 with seed 1034965674
+INFO:root:partial fitness = 1
+INFO:root:pop 20 at test 0 with seed 1034965674
+INFO:root:partial fitness = 4
+INFO:root:pop 21 at test 0 with seed 1034965674
+INFO:root:partial fitness = 171
+INFO:root:pop 22 at test 0 with seed 1034965674
+INFO:root:partial fitness = 6
+INFO:root:pop 23 at test 0 with seed 1034965674
+INFO:root:partial fitness = 18
+INFO:root:pop 24 at test 0 with seed 1034965674
+INFO:root:partial fitness = 6
+INFO:root:pop 25 at test 0 with seed 1034965674
+INFO:root:partial fitness = 2
+INFO:root:pop 26 at test 0 with seed 1034965674
+INFO:root:partial fitness = 2
+INFO:root:pop 27 at test 0 with seed 1034965674
+INFO:root:partial fitness = 131
+INFO:root:pop 28 at test 0 with seed 1034965674
+INFO:root:partial fitness = 178
+INFO:root:pop 29 at test 0 with seed 1034965674
+INFO:root:partial fitness = 58
+INFO:root:pop 30 at test 0 with seed 1034965674
+INFO:root:partial fitness = 14
+INFO:root:pop 31 at test 0 with seed 1034965674
+INFO:root:partial fitness = 134
+INFO:root:pop 32 at test 0 with seed 1034965674
+INFO:root:partial fitness = 189
+INFO:root:pop 33 at test 0 with seed 1034965674
+INFO:root:partial fitness = 0
+INFO:root:pop 34 at test 0 with seed 1034965674
+INFO:root:partial fitness = 5
+INFO:root:pop 35 at test 0 with seed 1034965674
+INFO:root:partial fitness = 112
+INFO:root:pop 36 at test 0 with seed 1034965674
+INFO:root:partial fitness = 23
+INFO:root:pop 37 at test 0 with seed 1034965674
+INFO:root:partial fitness = 207
+INFO:root:pop 38 at test 0 with seed 1034965674
+INFO:root:partial fitness = 15
+INFO:root:pop 39 at test 0 with seed 1034965674
+INFO:root:partial fitness = 78
+INFO:root:pop 0 total fitness = 259
+INFO:root:pop 0 avg fitness = 259
+INFO:root:pop 1 total fitness = 214
+INFO:root:pop 1 avg fitness = 214
+INFO:root:pop 2 total fitness = 144
+INFO:root:pop 2 avg fitness = 144
+INFO:root:pop 3 total fitness = 222
+INFO:root:pop 3 avg fitness = 222
+INFO:root:pop 4 total fitness = 158
+INFO:root:pop 4 avg fitness = 158
+INFO:root:pop 5 total fitness = 1
+INFO:root:pop 5 avg fitness = 1
+INFO:root:pop 6 total fitness = 304
+INFO:root:pop 6 avg fitness = 304
+INFO:root:pop 7 total fitness = 128
+INFO:root:pop 7 avg fitness = 128
+INFO:root:pop 8 total fitness = 204
+INFO:root:pop 8 avg fitness = 204
+INFO:root:pop 9 total fitness = 20
+INFO:root:pop 9 avg fitness = 20
+INFO:root:pop 10 total fitness = 0
+INFO:root:pop 10 avg fitness = 0
+INFO:root:pop 11 total fitness = 157
+INFO:root:pop 11 avg fitness = 157
+INFO:root:pop 12 total fitness = 7
+INFO:root:pop 12 avg fitness = 7
+INFO:root:pop 13 total fitness = 168
+INFO:root:pop 13 avg fitness = 168
+INFO:root:pop 14 total fitness = 181
+INFO:root:pop 14 avg fitness = 181
+INFO:root:pop 15 total fitness = 11
+INFO:root:pop 15 avg fitness = 11
+INFO:root:pop 16 total fitness = 6
+INFO:root:pop 16 avg fitness = 6
+INFO:root:pop 17 total fitness = 144
+INFO:root:pop 17 avg fitness = 144
+INFO:root:pop 18 total fitness = 138
+INFO:root:pop 18 avg fitness = 138
+INFO:root:pop 19 total fitness = 1
+INFO:root:pop 19 avg fitness = 1
+INFO:root:pop 20 total fitness = 4
+INFO:root:pop 20 avg fitness = 4
+INFO:root:pop 21 total fitness = 171
+INFO:root:pop 21 avg fitness = 171
+INFO:root:pop 22 total fitness = 6
+INFO:root:pop 22 avg fitness = 6
+INFO:root:pop 23 total fitness = 18
+INFO:root:pop 23 avg fitness = 18
+INFO:root:pop 24 total fitness = 6
+INFO:root:pop 24 avg fitness = 6
+INFO:root:pop 25 total fitness = 2
+INFO:root:pop 25 avg fitness = 2
+INFO:root:pop 26 total fitness = 2
+INFO:root:pop 26 avg fitness = 2
+INFO:root:pop 27 total fitness = 131
+INFO:root:pop 27 avg fitness = 131
+INFO:root:pop 28 total fitness = 178
+INFO:root:pop 28 avg fitness = 178
+INFO:root:pop 29 total fitness = 58
+INFO:root:pop 29 avg fitness = 58
+INFO:root:pop 30 total fitness = 14
+INFO:root:pop 30 avg fitness = 14
+INFO:root:pop 31 total fitness = 134
+INFO:root:pop 31 avg fitness = 134
+INFO:root:pop 32 total fitness = 189
+INFO:root:pop 32 avg fitness = 189
+INFO:root:pop 33 total fitness = 0
+INFO:root:pop 33 avg fitness = 0
+INFO:root:pop 34 total fitness = 5
+INFO:root:pop 34 avg fitness = 5
+INFO:root:pop 35 total fitness = 112
+INFO:root:pop 35 avg fitness = 112
+INFO:root:pop 36 total fitness = 23
+INFO:root:pop 36 avg fitness = 23
+INFO:root:pop 37 total fitness = 207
+INFO:root:pop 37 avg fitness = 207
+INFO:root:pop 38 total fitness = 15
+INFO:root:pop 38 avg fitness = 15
+INFO:root:pop 39 total fitness = 78
+INFO:root:pop 39 avg fitness = 78
+INFO:root:Starting generation: 4
+INFO:root:Seeds for generation: [3700702854]
+INFO:root:pop 0 at test 0 with seed 3700702854
+INFO:root:partial fitness = 289
+INFO:root:pop 1 at test 0 with seed 3700702854
+INFO:root:partial fitness = 248
+INFO:root:pop 2 at test 0 with seed 3700702854
+INFO:root:partial fitness = 166
+INFO:root:pop 3 at test 0 with seed 3700702854
+INFO:root:partial fitness = 149
+INFO:root:pop 4 at test 0 with seed 3700702854
+INFO:root:partial fitness = 182
+INFO:root:pop 5 at test 0 with seed 3700702854
+INFO:root:partial fitness = 87
+INFO:root:pop 6 at test 0 with seed 3700702854
+INFO:root:partial fitness = 176
+INFO:root:pop 7 at test 0 with seed 3700702854
+INFO:root:partial fitness = 148
+INFO:root:pop 8 at test 0 with seed 3700702854
+INFO:root:partial fitness = 155
+INFO:root:pop 9 at test 0 with seed 3700702854
+INFO:root:partial fitness = 31
+INFO:root:pop 10 at test 0 with seed 3700702854
+INFO:root:partial fitness = 94
+INFO:root:pop 11 at test 0 with seed 3700702854
+INFO:root:partial fitness = 6
+INFO:root:pop 12 at test 0 with seed 3700702854
+INFO:root:partial fitness = 0
+INFO:root:pop 13 at test 0 with seed 3700702854
+INFO:root:partial fitness = 5
+INFO:root:pop 14 at test 0 with seed 3700702854
+INFO:root:partial fitness = 58
+INFO:root:pop 15 at test 0 with seed 3700702854
+INFO:root:partial fitness = 118
+INFO:root:pop 16 at test 0 with seed 3700702854
+INFO:root:partial fitness = 158
+INFO:root:pop 17 at test 0 with seed 3700702854
+INFO:root:partial fitness = 1
+INFO:root:pop 18 at test 0 with seed 3700702854
+INFO:root:partial fitness = 9
+INFO:root:pop 19 at test 0 with seed 3700702854
+INFO:root:partial fitness = 10
+INFO:root:pop 20 at test 0 with seed 3700702854
+INFO:root:partial fitness = 156
+INFO:root:pop 21 at test 0 with seed 3700702854
+INFO:root:partial fitness = 98
+INFO:root:pop 22 at test 0 with seed 3700702854
+INFO:root:partial fitness = 16
+INFO:root:pop 23 at test 0 with seed 3700702854
+INFO:root:partial fitness = 161
+INFO:root:pop 24 at test 0 with seed 3700702854
+INFO:root:partial fitness = 157
+INFO:root:pop 25 at test 0 with seed 3700702854
+INFO:root:partial fitness = 2
+INFO:root:pop 26 at test 0 with seed 3700702854
+INFO:root:partial fitness = 15
+INFO:root:pop 27 at test 0 with seed 3700702854
+INFO:root:partial fitness = 150
+INFO:root:pop 28 at test 0 with seed 3700702854
+INFO:root:partial fitness = 91
+INFO:root:pop 29 at test 0 with seed 3700702854
+INFO:root:partial fitness = 6
+INFO:root:pop 30 at test 0 with seed 3700702854
+INFO:root:partial fitness = 2
+INFO:root:pop 31 at test 0 with seed 3700702854
+INFO:root:partial fitness = 141
+INFO:root:pop 32 at test 0 with seed 3700702854
+INFO:root:partial fitness = 38
+INFO:root:pop 33 at test 0 with seed 3700702854
+INFO:root:partial fitness = 152
+INFO:root:pop 34 at test 0 with seed 3700702854
+INFO:root:partial fitness = 94
+INFO:root:pop 35 at test 0 with seed 3700702854
+INFO:root:partial fitness = 131
+INFO:root:pop 36 at test 0 with seed 3700702854
+INFO:root:partial fitness = 5
+INFO:root:pop 37 at test 0 with seed 3700702854
+INFO:root:partial fitness = 16
+INFO:root:pop 38 at test 0 with seed 3700702854
+INFO:root:partial fitness = 5
+INFO:root:pop 39 at test 0 with seed 3700702854
+INFO:root:partial fitness = 4
+INFO:root:pop 0 total fitness = 289
+INFO:root:pop 0 avg fitness = 289
+INFO:root:pop 1 total fitness = 248
+INFO:root:pop 1 avg fitness = 248
+INFO:root:pop 2 total fitness = 166
+INFO:root:pop 2 avg fitness = 166
+INFO:root:pop 3 total fitness = 149
+INFO:root:pop 3 avg fitness = 149
+INFO:root:pop 4 total fitness = 182
+INFO:root:pop 4 avg fitness = 182
+INFO:root:pop 5 total fitness = 87
+INFO:root:pop 5 avg fitness = 87
+INFO:root:pop 6 total fitness = 176
+INFO:root:pop 6 avg fitness = 176
+INFO:root:pop 7 total fitness = 148
+INFO:root:pop 7 avg fitness = 148
+INFO:root:pop 8 total fitness = 155
+INFO:root:pop 8 avg fitness = 155
+INFO:root:pop 9 total fitness = 31
+INFO:root:pop 9 avg fitness = 31
+INFO:root:pop 10 total fitness = 94
+INFO:root:pop 10 avg fitness = 94
+INFO:root:pop 11 total fitness = 6
+INFO:root:pop 11 avg fitness = 6
+INFO:root:pop 12 total fitness = 0
+INFO:root:pop 12 avg fitness = 0
+INFO:root:pop 13 total fitness = 5
+INFO:root:pop 13 avg fitness = 5
+INFO:root:pop 14 total fitness = 58
+INFO:root:pop 14 avg fitness = 58
+INFO:root:pop 15 total fitness = 118
+INFO:root:pop 15 avg fitness = 118
+INFO:root:pop 16 total fitness = 158
+INFO:root:pop 16 avg fitness = 158
+INFO:root:pop 17 total fitness = 1
+INFO:root:pop 17 avg fitness = 1
+INFO:root:pop 18 total fitness = 9
+INFO:root:pop 18 avg fitness = 9
+INFO:root:pop 19 total fitness = 10
+INFO:root:pop 19 avg fitness = 10
+INFO:root:pop 20 total fitness = 156
+INFO:root:pop 20 avg fitness = 156
+INFO:root:pop 21 total fitness = 98
+INFO:root:pop 21 avg fitness = 98
+INFO:root:pop 22 total fitness = 16
+INFO:root:pop 22 avg fitness = 16
+INFO:root:pop 23 total fitness = 161
+INFO:root:pop 23 avg fitness = 161
+INFO:root:pop 24 total fitness = 157
+INFO:root:pop 24 avg fitness = 157
+INFO:root:pop 25 total fitness = 2
+INFO:root:pop 25 avg fitness = 2
+INFO:root:pop 26 total fitness = 15
+INFO:root:pop 26 avg fitness = 15
+INFO:root:pop 27 total fitness = 150
+INFO:root:pop 27 avg fitness = 150
+INFO:root:pop 28 total fitness = 91
+INFO:root:pop 28 avg fitness = 91
+INFO:root:pop 29 total fitness = 6
+INFO:root:pop 29 avg fitness = 6
+INFO:root:pop 30 total fitness = 2
+INFO:root:pop 30 avg fitness = 2
+INFO:root:pop 31 total fitness = 141
+INFO:root:pop 31 avg fitness = 141
+INFO:root:pop 32 total fitness = 38
+INFO:root:pop 32 avg fitness = 38
+INFO:root:pop 33 total fitness = 152
+INFO:root:pop 33 avg fitness = 152
+INFO:root:pop 34 total fitness = 94
+INFO:root:pop 34 avg fitness = 94
+INFO:root:pop 35 total fitness = 131
+INFO:root:pop 35 avg fitness = 131
+INFO:root:pop 36 total fitness = 5
+INFO:root:pop 36 avg fitness = 5
+INFO:root:pop 37 total fitness = 16
+INFO:root:pop 37 avg fitness = 16
+INFO:root:pop 38 total fitness = 5
+INFO:root:pop 38 avg fitness = 5
+INFO:root:pop 39 total fitness = 4
+INFO:root:pop 39 avg fitness = 4
+INFO:root:Starting generation: 5
+INFO:root:Seeds for generation: [173271769]
+INFO:root:pop 0 at test 0 with seed 173271769
+INFO:root:partial fitness = 291
+INFO:root:pop 1 at test 0 with seed 173271769
+INFO:root:partial fitness = 236
+INFO:root:pop 2 at test 0 with seed 173271769
+INFO:root:partial fitness = 191
+INFO:root:pop 3 at test 0 with seed 173271769
+INFO:root:partial fitness = 189
+INFO:root:pop 4 at test 0 with seed 173271769
+INFO:root:partial fitness = 198
+INFO:root:pop 5 at test 0 with seed 173271769
+INFO:root:partial fitness = 73
+INFO:root:pop 6 at test 0 with seed 173271769
+INFO:root:partial fitness = 21
+INFO:root:pop 7 at test 0 with seed 173271769
+INFO:root:partial fitness = 29
+INFO:root:pop 8 at test 0 with seed 173271769
+INFO:root:partial fitness = 40
+INFO:root:pop 9 at test 0 with seed 173271769
+INFO:root:partial fitness = 5
+INFO:root:pop 10 at test 0 with seed 173271769
+INFO:root:partial fitness = 147
+INFO:root:pop 11 at test 0 with seed 173271769
+INFO:root:partial fitness = 11
+INFO:root:pop 12 at test 0 with seed 173271769
+INFO:root:partial fitness = 18
+INFO:root:pop 13 at test 0 with seed 173271769
+INFO:root:partial fitness = 13
+INFO:root:pop 14 at test 0 with seed 173271769
+INFO:root:partial fitness = 29
+INFO:root:pop 15 at test 0 with seed 173271769
+INFO:root:partial fitness = 111
+INFO:root:pop 16 at test 0 with seed 173271769
+INFO:root:partial fitness = 58
+INFO:root:pop 17 at test 0 with seed 173271769
+INFO:root:partial fitness = 184
+INFO:root:pop 18 at test 0 with seed 173271769
+INFO:root:partial fitness = 17
+INFO:root:pop 19 at test 0 with seed 173271769
+INFO:root:partial fitness = 94
+INFO:root:pop 20 at test 0 with seed 173271769
+INFO:root:partial fitness = 155
+INFO:root:pop 21 at test 0 with seed 173271769
+INFO:root:partial fitness = 165
+INFO:root:pop 22 at test 0 with seed 173271769
+INFO:root:partial fitness = 63
+INFO:root:pop 23 at test 0 with seed 173271769
+INFO:root:partial fitness = 204
+INFO:root:pop 24 at test 0 with seed 173271769
+INFO:root:partial fitness = 79
+INFO:root:pop 25 at test 0 with seed 173271769
+INFO:root:partial fitness = 108
+INFO:root:pop 26 at test 0 with seed 173271769
+INFO:root:partial fitness = 181
+INFO:root:pop 27 at test 0 with seed 173271769
+INFO:root:partial fitness = 163
+INFO:root:pop 28 at test 0 with seed 173271769
+INFO:root:partial fitness = 117
+INFO:root:pop 29 at test 0 with seed 173271769
+INFO:root:partial fitness = 223
+INFO:root:pop 30 at test 0 with seed 173271769
+INFO:root:partial fitness = 83
+INFO:root:pop 31 at test 0 with seed 173271769
+INFO:root:partial fitness = 9
+INFO:root:pop 32 at test 0 with seed 173271769
+INFO:root:partial fitness = 40
+INFO:root:pop 33 at test 0 with seed 173271769
+INFO:root:partial fitness = 29
+INFO:root:pop 34 at test 0 with seed 173271769
+INFO:root:partial fitness = 10
+INFO:root:pop 35 at test 0 with seed 173271769
+INFO:root:partial fitness = 36
+INFO:root:pop 36 at test 0 with seed 173271769
+INFO:root:partial fitness = 162
+INFO:root:pop 37 at test 0 with seed 173271769
+INFO:root:partial fitness = 98
+INFO:root:pop 38 at test 0 with seed 173271769
+INFO:root:partial fitness = 12
+INFO:root:pop 39 at test 0 with seed 173271769
+INFO:root:partial fitness = 56
+INFO:root:pop 0 total fitness = 291
+INFO:root:pop 0 avg fitness = 291
+INFO:root:pop 1 total fitness = 236
+INFO:root:pop 1 avg fitness = 236
+INFO:root:pop 2 total fitness = 191
+INFO:root:pop 2 avg fitness = 191
+INFO:root:pop 3 total fitness = 189
+INFO:root:pop 3 avg fitness = 189
+INFO:root:pop 4 total fitness = 198
+INFO:root:pop 4 avg fitness = 198
+INFO:root:pop 5 total fitness = 73
+INFO:root:pop 5 avg fitness = 73
+INFO:root:pop 6 total fitness = 21
+INFO:root:pop 6 avg fitness = 21
+INFO:root:pop 7 total fitness = 29
+INFO:root:pop 7 avg fitness = 29
+INFO:root:pop 8 total fitness = 40
+INFO:root:pop 8 avg fitness = 40
+INFO:root:pop 9 total fitness = 5
+INFO:root:pop 9 avg fitness = 5
+INFO:root:pop 10 total fitness = 147
+INFO:root:pop 10 avg fitness = 147
+INFO:root:pop 11 total fitness = 11
+INFO:root:pop 11 avg fitness = 11
+INFO:root:pop 12 total fitness = 18
+INFO:root:pop 12 avg fitness = 18
+INFO:root:pop 13 total fitness = 13
+INFO:root:pop 13 avg fitness = 13
+INFO:root:pop 14 total fitness = 29
+INFO:root:pop 14 avg fitness = 29
+INFO:root:pop 15 total fitness = 111
+INFO:root:pop 15 avg fitness = 111
+INFO:root:pop 16 total fitness = 58
+INFO:root:pop 16 avg fitness = 58
+INFO:root:pop 17 total fitness = 184
+INFO:root:pop 17 avg fitness = 184
+INFO:root:pop 18 total fitness = 17
+INFO:root:pop 18 avg fitness = 17
+INFO:root:pop 19 total fitness = 94
+INFO:root:pop 19 avg fitness = 94
+INFO:root:pop 20 total fitness = 155
+INFO:root:pop 20 avg fitness = 155
+INFO:root:pop 21 total fitness = 165
+INFO:root:pop 21 avg fitness = 165
+INFO:root:pop 22 total fitness = 63
+INFO:root:pop 22 avg fitness = 63
+INFO:root:pop 23 total fitness = 204
+INFO:root:pop 23 avg fitness = 204
+INFO:root:pop 24 total fitness = 79
+INFO:root:pop 24 avg fitness = 79
+INFO:root:pop 25 total fitness = 108
+INFO:root:pop 25 avg fitness = 108
+INFO:root:pop 26 total fitness = 181
+INFO:root:pop 26 avg fitness = 181
+INFO:root:pop 27 total fitness = 163
+INFO:root:pop 27 avg fitness = 163
+INFO:root:pop 28 total fitness = 117
+INFO:root:pop 28 avg fitness = 117
+INFO:root:pop 29 total fitness = 223
+INFO:root:pop 29 avg fitness = 223
+INFO:root:pop 30 total fitness = 83
+INFO:root:pop 30 avg fitness = 83
+INFO:root:pop 31 total fitness = 9
+INFO:root:pop 31 avg fitness = 9
+INFO:root:pop 32 total fitness = 40
+INFO:root:pop 32 avg fitness = 40
+INFO:root:pop 33 total fitness = 29
+INFO:root:pop 33 avg fitness = 29
+INFO:root:pop 34 total fitness = 10
+INFO:root:pop 34 avg fitness = 10
+INFO:root:pop 35 total fitness = 36
+INFO:root:pop 35 avg fitness = 36
+INFO:root:pop 36 total fitness = 162
+INFO:root:pop 36 avg fitness = 162
+INFO:root:pop 37 total fitness = 98
+INFO:root:pop 37 avg fitness = 98
+INFO:root:pop 38 total fitness = 12
+INFO:root:pop 38 avg fitness = 12
+INFO:root:pop 39 total fitness = 56
+INFO:root:pop 39 avg fitness = 56
+INFO:root:Starting generation: 6
+INFO:root:Seeds for generation: [3574755088]
+INFO:root:pop 0 at test 0 with seed 3574755088
+INFO:root:partial fitness = 325
+INFO:root:pop 1 at test 0 with seed 3574755088
+INFO:root:partial fitness = 319
+INFO:root:pop 2 at test 0 with seed 3574755088
+INFO:root:partial fitness = 196
+INFO:root:pop 3 at test 0 with seed 3574755088
+INFO:root:partial fitness = 223
+INFO:root:pop 4 at test 0 with seed 3574755088
+INFO:root:partial fitness = 265
+INFO:root:pop 5 at test 0 with seed 3574755088
+INFO:root:partial fitness = 155
+INFO:root:pop 6 at test 0 with seed 3574755088
+INFO:root:partial fitness = 255
+INFO:root:pop 7 at test 0 with seed 3574755088
+INFO:root:partial fitness = 0
+INFO:root:pop 8 at test 0 with seed 3574755088
+INFO:root:partial fitness = 37
+INFO:root:pop 9 at test 0 with seed 3574755088
+INFO:root:partial fitness = 255
+INFO:root:pop 10 at test 0 with seed 3574755088
+INFO:root:partial fitness = 40
+INFO:root:pop 11 at test 0 with seed 3574755088
+INFO:root:partial fitness = 289
+INFO:root:pop 12 at test 0 with seed 3574755088
+INFO:root:partial fitness = 53
+INFO:root:pop 13 at test 0 with seed 3574755088
+INFO:root:partial fitness = 151
+INFO:root:pop 14 at test 0 with seed 3574755088
+INFO:root:partial fitness = 22
+INFO:root:pop 15 at test 0 with seed 3574755088
+INFO:root:partial fitness = 48
+INFO:root:pop 16 at test 0 with seed 3574755088
+INFO:root:partial fitness = 285
+INFO:root:pop 17 at test 0 with seed 3574755088
+INFO:root:partial fitness = 148
+INFO:root:pop 18 at test 0 with seed 3574755088
+INFO:root:partial fitness = 209
+INFO:root:pop 19 at test 0 with seed 3574755088
+INFO:root:partial fitness = 159
+INFO:root:pop 20 at test 0 with seed 3574755088
+INFO:root:partial fitness = 208
+INFO:root:pop 21 at test 0 with seed 3574755088
+INFO:root:partial fitness = 204
+INFO:root:pop 22 at test 0 with seed 3574755088
+INFO:root:partial fitness = 228
+INFO:root:pop 23 at test 0 with seed 3574755088
+INFO:root:partial fitness = 246
+INFO:root:pop 24 at test 0 with seed 3574755088
+INFO:root:partial fitness = 55
+INFO:root:pop 25 at test 0 with seed 3574755088
+INFO:root:partial fitness = 17
+INFO:root:pop 26 at test 0 with seed 3574755088
+INFO:root:partial fitness = 147
+INFO:root:pop 27 at test 0 with seed 3574755088
+INFO:root:partial fitness = 0
+INFO:root:pop 28 at test 0 with seed 3574755088
+INFO:root:partial fitness = 67
+INFO:root:pop 29 at test 0 with seed 3574755088
+INFO:root:partial fitness = 240
+INFO:root:pop 30 at test 0 with seed 3574755088
+INFO:root:partial fitness = 202
+INFO:root:pop 31 at test 0 with seed 3574755088
+INFO:root:partial fitness = 197
+INFO:root:pop 32 at test 0 with seed 3574755088
+INFO:root:partial fitness = 138
+INFO:root:pop 33 at test 0 with seed 3574755088
+INFO:root:partial fitness = 218
+INFO:root:pop 34 at test 0 with seed 3574755088
+INFO:root:partial fitness = 0
+INFO:root:pop 35 at test 0 with seed 3574755088
+INFO:root:partial fitness = 235
+INFO:root:pop 36 at test 0 with seed 3574755088
+INFO:root:partial fitness = 202
+INFO:root:pop 37 at test 0 with seed 3574755088
+INFO:root:partial fitness = 156
+INFO:root:pop 38 at test 0 with seed 3574755088
+INFO:root:partial fitness = 135
+INFO:root:pop 39 at test 0 with seed 3574755088
+INFO:root:partial fitness = 33
+INFO:root:pop 0 total fitness = 325
+INFO:root:pop 0 avg fitness = 325
+INFO:root:pop 1 total fitness = 319
+INFO:root:pop 1 avg fitness = 319
+INFO:root:pop 2 total fitness = 196
+INFO:root:pop 2 avg fitness = 196
+INFO:root:pop 3 total fitness = 223
+INFO:root:pop 3 avg fitness = 223
+INFO:root:pop 4 total fitness = 265
+INFO:root:pop 4 avg fitness = 265
+INFO:root:pop 5 total fitness = 155
+INFO:root:pop 5 avg fitness = 155
+INFO:root:pop 6 total fitness = 255
+INFO:root:pop 6 avg fitness = 255
+INFO:root:pop 7 total fitness = 0
+INFO:root:pop 7 avg fitness = 0
+INFO:root:pop 8 total fitness = 37
+INFO:root:pop 8 avg fitness = 37
+INFO:root:pop 9 total fitness = 255
+INFO:root:pop 9 avg fitness = 255
+INFO:root:pop 10 total fitness = 40
+INFO:root:pop 10 avg fitness = 40
+INFO:root:pop 11 total fitness = 289
+INFO:root:pop 11 avg fitness = 289
+INFO:root:pop 12 total fitness = 53
+INFO:root:pop 12 avg fitness = 53
+INFO:root:pop 13 total fitness = 151
+INFO:root:pop 13 avg fitness = 151
+INFO:root:pop 14 total fitness = 22
+INFO:root:pop 14 avg fitness = 22
+INFO:root:pop 15 total fitness = 48
+INFO:root:pop 15 avg fitness = 48
+INFO:root:pop 16 total fitness = 285
+INFO:root:pop 16 avg fitness = 285
+INFO:root:pop 17 total fitness = 148
+INFO:root:pop 17 avg fitness = 148
+INFO:root:pop 18 total fitness = 209
+INFO:root:pop 18 avg fitness = 209
+INFO:root:pop 19 total fitness = 159
+INFO:root:pop 19 avg fitness = 159
+INFO:root:pop 20 total fitness = 208
+INFO:root:pop 20 avg fitness = 208
+INFO:root:pop 21 total fitness = 204
+INFO:root:pop 21 avg fitness = 204
+INFO:root:pop 22 total fitness = 228
+INFO:root:pop 22 avg fitness = 228
+INFO:root:pop 23 total fitness = 246
+INFO:root:pop 23 avg fitness = 246
+INFO:root:pop 24 total fitness = 55
+INFO:root:pop 24 avg fitness = 55
+INFO:root:pop 25 total fitness = 17
+INFO:root:pop 25 avg fitness = 17
+INFO:root:pop 26 total fitness = 147
+INFO:root:pop 26 avg fitness = 147
+INFO:root:pop 27 total fitness = 0
+INFO:root:pop 27 avg fitness = 0
+INFO:root:pop 28 total fitness = 67
+INFO:root:pop 28 avg fitness = 67
+INFO:root:pop 29 total fitness = 240
+INFO:root:pop 29 avg fitness = 240
+INFO:root:pop 30 total fitness = 202
+INFO:root:pop 30 avg fitness = 202
+INFO:root:pop 31 total fitness = 197
+INFO:root:pop 31 avg fitness = 197
+INFO:root:pop 32 total fitness = 138
+INFO:root:pop 32 avg fitness = 138
+INFO:root:pop 33 total fitness = 218
+INFO:root:pop 33 avg fitness = 218
+INFO:root:pop 34 total fitness = 0
+INFO:root:pop 34 avg fitness = 0
+INFO:root:pop 35 total fitness = 235
+INFO:root:pop 35 avg fitness = 235
+INFO:root:pop 36 total fitness = 202
+INFO:root:pop 36 avg fitness = 202
+INFO:root:pop 37 total fitness = 156
+INFO:root:pop 37 avg fitness = 156
+INFO:root:pop 38 total fitness = 135
+INFO:root:pop 38 avg fitness = 135
+INFO:root:pop 39 total fitness = 33
+INFO:root:pop 39 avg fitness = 33
+INFO:root:Starting generation: 7
+INFO:root:Seeds for generation: [3831976057]
+INFO:root:pop 0 at test 0 with seed 3831976057
+INFO:root:partial fitness = 251
+INFO:root:pop 1 at test 0 with seed 3831976057
+INFO:root:partial fitness = 147
+INFO:root:pop 2 at test 0 with seed 3831976057
+INFO:root:partial fitness = 243
+INFO:root:pop 3 at test 0 with seed 3831976057
+INFO:root:partial fitness = 193
+INFO:root:pop 4 at test 0 with seed 3831976057
+INFO:root:partial fitness = 186
+INFO:root:pop 5 at test 0 with seed 3831976057
+INFO:root:partial fitness = 192
+INFO:root:pop 6 at test 0 with seed 3831976057
+INFO:root:partial fitness = 173
+INFO:root:pop 7 at test 0 with seed 3831976057
+INFO:root:partial fitness = 123
+INFO:root:pop 8 at test 0 with seed 3831976057
+INFO:root:partial fitness = 285
+INFO:root:pop 9 at test 0 with seed 3831976057
+INFO:root:partial fitness = 26
+INFO:root:pop 10 at test 0 with seed 3831976057
+INFO:root:partial fitness = 64
+INFO:root:pop 11 at test 0 with seed 3831976057
+INFO:root:partial fitness = 123
+INFO:root:pop 12 at test 0 with seed 3831976057
+INFO:root:partial fitness = 20
+INFO:root:pop 13 at test 0 with seed 3831976057
+INFO:root:partial fitness = 169
+INFO:root:pop 14 at test 0 with seed 3831976057
+INFO:root:partial fitness = 21
+INFO:root:pop 15 at test 0 with seed 3831976057
+INFO:root:partial fitness = 147
+INFO:root:pop 16 at test 0 with seed 3831976057
+INFO:root:partial fitness = 204
+INFO:root:pop 17 at test 0 with seed 3831976057
+INFO:root:partial fitness = 180
+INFO:root:pop 18 at test 0 with seed 3831976057
+INFO:root:partial fitness = 188
+INFO:root:pop 19 at test 0 with seed 3831976057
+INFO:root:partial fitness = 48
+INFO:root:pop 20 at test 0 with seed 3831976057
+INFO:root:partial fitness = 232
+INFO:root:pop 21 at test 0 with seed 3831976057
+INFO:root:partial fitness = 196
+INFO:root:pop 22 at test 0 with seed 3831976057
+INFO:root:partial fitness = 32
+INFO:root:pop 23 at test 0 with seed 3831976057
+INFO:root:partial fitness = 23
+INFO:root:pop 24 at test 0 with seed 3831976057
+INFO:root:partial fitness = 25
+INFO:root:pop 25 at test 0 with seed 3831976057
+INFO:root:partial fitness = 174
+INFO:root:pop 26 at test 0 with seed 3831976057
+INFO:root:partial fitness = 244
+INFO:root:pop 27 at test 0 with seed 3831976057
+INFO:root:partial fitness = 182
+INFO:root:pop 28 at test 0 with seed 3831976057
+INFO:root:partial fitness = 13
+INFO:root:pop 29 at test 0 with seed 3831976057
+INFO:root:partial fitness = 189
+INFO:root:pop 30 at test 0 with seed 3831976057
+INFO:root:partial fitness = 151
+INFO:root:pop 31 at test 0 with seed 3831976057
+INFO:root:partial fitness = 114
+INFO:root:pop 32 at test 0 with seed 3831976057
+INFO:root:partial fitness = 112
+INFO:root:pop 33 at test 0 with seed 3831976057
+INFO:root:partial fitness = 35
+INFO:root:pop 34 at test 0 with seed 3831976057
+INFO:root:partial fitness = 221
+INFO:root:pop 35 at test 0 with seed 3831976057
+INFO:root:partial fitness = 188
+INFO:root:pop 36 at test 0 with seed 3831976057
+INFO:root:partial fitness = 198
+INFO:root:pop 37 at test 0 with seed 3831976057
+INFO:root:partial fitness = 13
+INFO:root:pop 38 at test 0 with seed 3831976057
+INFO:root:partial fitness = 53
+INFO:root:pop 39 at test 0 with seed 3831976057
+INFO:root:partial fitness = 174
+INFO:root:pop 0 total fitness = 251
+INFO:root:pop 0 avg fitness = 251
+INFO:root:pop 1 total fitness = 147
+INFO:root:pop 1 avg fitness = 147
+INFO:root:pop 2 total fitness = 243
+INFO:root:pop 2 avg fitness = 243
+INFO:root:pop 3 total fitness = 193
+INFO:root:pop 3 avg fitness = 193
+INFO:root:pop 4 total fitness = 186
+INFO:root:pop 4 avg fitness = 186
+INFO:root:pop 5 total fitness = 192
+INFO:root:pop 5 avg fitness = 192
+INFO:root:pop 6 total fitness = 173
+INFO:root:pop 6 avg fitness = 173
+INFO:root:pop 7 total fitness = 123
+INFO:root:pop 7 avg fitness = 123
+INFO:root:pop 8 total fitness = 285
+INFO:root:pop 8 avg fitness = 285
+INFO:root:pop 9 total fitness = 26
+INFO:root:pop 9 avg fitness = 26
+INFO:root:pop 10 total fitness = 64
+INFO:root:pop 10 avg fitness = 64
+INFO:root:pop 11 total fitness = 123
+INFO:root:pop 11 avg fitness = 123
+INFO:root:pop 12 total fitness = 20
+INFO:root:pop 12 avg fitness = 20
+INFO:root:pop 13 total fitness = 169
+INFO:root:pop 13 avg fitness = 169
+INFO:root:pop 14 total fitness = 21
+INFO:root:pop 14 avg fitness = 21
+INFO:root:pop 15 total fitness = 147
+INFO:root:pop 15 avg fitness = 147
+INFO:root:pop 16 total fitness = 204
+INFO:root:pop 16 avg fitness = 204
+INFO:root:pop 17 total fitness = 180
+INFO:root:pop 17 avg fitness = 180
+INFO:root:pop 18 total fitness = 188
+INFO:root:pop 18 avg fitness = 188
+INFO:root:pop 19 total fitness = 48
+INFO:root:pop 19 avg fitness = 48
+INFO:root:pop 20 total fitness = 232
+INFO:root:pop 20 avg fitness = 232
+INFO:root:pop 21 total fitness = 196
+INFO:root:pop 21 avg fitness = 196
+INFO:root:pop 22 total fitness = 32
+INFO:root:pop 22 avg fitness = 32
+INFO:root:pop 23 total fitness = 23
+INFO:root:pop 23 avg fitness = 23
+INFO:root:pop 24 total fitness = 25
+INFO:root:pop 24 avg fitness = 25
+INFO:root:pop 25 total fitness = 174
+INFO:root:pop 25 avg fitness = 174
+INFO:root:pop 26 total fitness = 244
+INFO:root:pop 26 avg fitness = 244
+INFO:root:pop 27 total fitness = 182
+INFO:root:pop 27 avg fitness = 182
+INFO:root:pop 28 total fitness = 13
+INFO:root:pop 28 avg fitness = 13
+INFO:root:pop 29 total fitness = 189
+INFO:root:pop 29 avg fitness = 189
+INFO:root:pop 30 total fitness = 151
+INFO:root:pop 30 avg fitness = 151
+INFO:root:pop 31 total fitness = 114
+INFO:root:pop 31 avg fitness = 114
+INFO:root:pop 32 total fitness = 112
+INFO:root:pop 32 avg fitness = 112
+INFO:root:pop 33 total fitness = 35
+INFO:root:pop 33 avg fitness = 35
+INFO:root:pop 34 total fitness = 221
+INFO:root:pop 34 avg fitness = 221
+INFO:root:pop 35 total fitness = 188
+INFO:root:pop 35 avg fitness = 188
+INFO:root:pop 36 total fitness = 198
+INFO:root:pop 36 avg fitness = 198
+INFO:root:pop 37 total fitness = 13
+INFO:root:pop 37 avg fitness = 13
+INFO:root:pop 38 total fitness = 53
+INFO:root:pop 38 avg fitness = 53
+INFO:root:pop 39 total fitness = 174
+INFO:root:pop 39 avg fitness = 174
+INFO:root:Starting generation: 8
+INFO:root:Seeds for generation: [84853324]
+INFO:root:pop 0 at test 0 with seed 84853324
+INFO:root:partial fitness = 195
+INFO:root:pop 1 at test 0 with seed 84853324
+INFO:root:partial fitness = 230
+INFO:root:pop 2 at test 0 with seed 84853324
+INFO:root:partial fitness = 169
+INFO:root:pop 3 at test 0 with seed 84853324
+INFO:root:partial fitness = 178
+INFO:root:pop 4 at test 0 with seed 84853324
+INFO:root:partial fitness = 205
+INFO:root:pop 5 at test 0 with seed 84853324
+INFO:root:partial fitness = 114
+INFO:root:pop 6 at test 0 with seed 84853324
+INFO:root:partial fitness = 104
+INFO:root:pop 7 at test 0 with seed 84853324
+INFO:root:partial fitness = 152
+INFO:root:pop 8 at test 0 with seed 84853324
+INFO:root:partial fitness = 83
+INFO:root:pop 9 at test 0 with seed 84853324
+INFO:root:partial fitness = 200
+INFO:root:pop 10 at test 0 with seed 84853324
+INFO:root:partial fitness = 102
+INFO:root:pop 11 at test 0 with seed 84853324
+INFO:root:partial fitness = 40
+INFO:root:pop 12 at test 0 with seed 84853324
+INFO:root:partial fitness = 46
+INFO:root:pop 13 at test 0 with seed 84853324
+INFO:root:partial fitness = 21
+INFO:root:pop 14 at test 0 with seed 84853324
+INFO:root:partial fitness = 182
+INFO:root:pop 15 at test 0 with seed 84853324
+INFO:root:partial fitness = 62
+INFO:root:pop 16 at test 0 with seed 84853324
+INFO:root:partial fitness = 162
+INFO:root:pop 17 at test 0 with seed 84853324
+INFO:root:partial fitness = 32
+INFO:root:pop 18 at test 0 with seed 84853324
+INFO:root:partial fitness = 103
+INFO:root:pop 19 at test 0 with seed 84853324
+INFO:root:partial fitness = 206
+INFO:root:pop 20 at test 0 with seed 84853324
+INFO:root:partial fitness = 32
+INFO:root:pop 21 at test 0 with seed 84853324
+INFO:root:partial fitness = 11
+INFO:root:pop 22 at test 0 with seed 84853324
+INFO:root:partial fitness = 280
+INFO:root:pop 23 at test 0 with seed 84853324
+INFO:root:partial fitness = 179
+INFO:root:pop 24 at test 0 with seed 84853324
+INFO:root:partial fitness = 209
+INFO:root:pop 25 at test 0 with seed 84853324
+INFO:root:partial fitness = 53
+INFO:root:pop 26 at test 0 with seed 84853324
+INFO:root:partial fitness = 120
+INFO:root:pop 27 at test 0 with seed 84853324
+INFO:root:partial fitness = 101
+INFO:root:pop 28 at test 0 with seed 84853324
+INFO:root:partial fitness = 179
+INFO:root:pop 29 at test 0 with seed 84853324
+INFO:root:partial fitness = 168
+INFO:root:pop 30 at test 0 with seed 84853324
+INFO:root:partial fitness = 165
+INFO:root:pop 31 at test 0 with seed 84853324
+INFO:root:partial fitness = 144
+INFO:root:pop 32 at test 0 with seed 84853324
+INFO:root:partial fitness = 150
+INFO:root:pop 33 at test 0 with seed 84853324
+INFO:root:partial fitness = 100
+INFO:root:pop 34 at test 0 with seed 84853324
+INFO:root:partial fitness = 0
+INFO:root:pop 35 at test 0 with seed 84853324
+INFO:root:partial fitness = 86
+INFO:root:pop 36 at test 0 with seed 84853324
+INFO:root:partial fitness = 193
+INFO:root:pop 37 at test 0 with seed 84853324
+INFO:root:partial fitness = 28
+INFO:root:pop 38 at test 0 with seed 84853324
+INFO:root:partial fitness = 129
+INFO:root:pop 39 at test 0 with seed 84853324
+INFO:root:partial fitness = 33
+INFO:root:pop 0 total fitness = 195
+INFO:root:pop 0 avg fitness = 195
+INFO:root:pop 1 total fitness = 230
+INFO:root:pop 1 avg fitness = 230
+INFO:root:pop 2 total fitness = 169
+INFO:root:pop 2 avg fitness = 169
+INFO:root:pop 3 total fitness = 178
+INFO:root:pop 3 avg fitness = 178
+INFO:root:pop 4 total fitness = 205
+INFO:root:pop 4 avg fitness = 205
+INFO:root:pop 5 total fitness = 114
+INFO:root:pop 5 avg fitness = 114
+INFO:root:pop 6 total fitness = 104
+INFO:root:pop 6 avg fitness = 104
+INFO:root:pop 7 total fitness = 152
+INFO:root:pop 7 avg fitness = 152
+INFO:root:pop 8 total fitness = 83
+INFO:root:pop 8 avg fitness = 83
+INFO:root:pop 9 total fitness = 200
+INFO:root:pop 9 avg fitness = 200
+INFO:root:pop 10 total fitness = 102
+INFO:root:pop 10 avg fitness = 102
+INFO:root:pop 11 total fitness = 40
+INFO:root:pop 11 avg fitness = 40
+INFO:root:pop 12 total fitness = 46
+INFO:root:pop 12 avg fitness = 46
+INFO:root:pop 13 total fitness = 21
+INFO:root:pop 13 avg fitness = 21
+INFO:root:pop 14 total fitness = 182
+INFO:root:pop 14 avg fitness = 182
+INFO:root:pop 15 total fitness = 62
+INFO:root:pop 15 avg fitness = 62
+INFO:root:pop 16 total fitness = 162
+INFO:root:pop 16 avg fitness = 162
+INFO:root:pop 17 total fitness = 32
+INFO:root:pop 17 avg fitness = 32
+INFO:root:pop 18 total fitness = 103
+INFO:root:pop 18 avg fitness = 103
+INFO:root:pop 19 total fitness = 206
+INFO:root:pop 19 avg fitness = 206
+INFO:root:pop 20 total fitness = 32
+INFO:root:pop 20 avg fitness = 32
+INFO:root:pop 21 total fitness = 11
+INFO:root:pop 21 avg fitness = 11
+INFO:root:pop 22 total fitness = 280
+INFO:root:pop 22 avg fitness = 280
+INFO:root:pop 23 total fitness = 179
+INFO:root:pop 23 avg fitness = 179
+INFO:root:pop 24 total fitness = 209
+INFO:root:pop 24 avg fitness = 209
+INFO:root:pop 25 total fitness = 53
+INFO:root:pop 25 avg fitness = 53
+INFO:root:pop 26 total fitness = 120
+INFO:root:pop 26 avg fitness = 120
+INFO:root:pop 27 total fitness = 101
+INFO:root:pop 27 avg fitness = 101
+INFO:root:pop 28 total fitness = 179
+INFO:root:pop 28 avg fitness = 179
+INFO:root:pop 29 total fitness = 168
+INFO:root:pop 29 avg fitness = 168
+INFO:root:pop 30 total fitness = 165
+INFO:root:pop 30 avg fitness = 165
+INFO:root:pop 31 total fitness = 144
+INFO:root:pop 31 avg fitness = 144
+INFO:root:pop 32 total fitness = 150
+INFO:root:pop 32 avg fitness = 150
+INFO:root:pop 33 total fitness = 100
+INFO:root:pop 33 avg fitness = 100
+INFO:root:pop 34 total fitness = 0
+INFO:root:pop 34 avg fitness = 0
+INFO:root:pop 35 total fitness = 86
+INFO:root:pop 35 avg fitness = 86
+INFO:root:pop 36 total fitness = 193
+INFO:root:pop 36 avg fitness = 193
+INFO:root:pop 37 total fitness = 28
+INFO:root:pop 37 avg fitness = 28
+INFO:root:pop 38 total fitness = 129
+INFO:root:pop 38 avg fitness = 129
+INFO:root:pop 39 total fitness = 33
+INFO:root:pop 39 avg fitness = 33
+INFO:root:Starting generation: 9
+INFO:root:Seeds for generation: [1545597794]
+INFO:root:pop 0 at test 0 with seed 1545597794
+INFO:root:partial fitness = 310
+INFO:root:pop 1 at test 0 with seed 1545597794
+INFO:root:partial fitness = 241
+INFO:root:pop 2 at test 0 with seed 1545597794
+INFO:root:partial fitness = 211
+INFO:root:pop 3 at test 0 with seed 1545597794
+INFO:root:partial fitness = 189
+INFO:root:pop 4 at test 0 with seed 1545597794
+INFO:root:partial fitness = 207
+INFO:root:pop 5 at test 0 with seed 1545597794
+INFO:root:partial fitness = 0
+INFO:root:pop 6 at test 0 with seed 1545597794
+INFO:root:partial fitness = 19
+INFO:root:pop 7 at test 0 with seed 1545597794
+INFO:root:partial fitness = 292
+INFO:root:pop 8 at test 0 with seed 1545597794
+INFO:root:partial fitness = 27
+INFO:root:pop 9 at test 0 with seed 1545597794
+INFO:root:partial fitness = 174
+INFO:root:pop 10 at test 0 with seed 1545597794
+INFO:root:partial fitness = 183
+INFO:root:pop 11 at test 0 with seed 1545597794
+INFO:root:partial fitness = 31
+INFO:root:pop 12 at test 0 with seed 1545597794
+INFO:root:partial fitness = 74
+INFO:root:pop 13 at test 0 with seed 1545597794
+INFO:root:partial fitness = 62
+INFO:root:pop 14 at test 0 with seed 1545597794
+INFO:root:partial fitness = 34
+INFO:root:pop 15 at test 0 with seed 1545597794
+INFO:root:partial fitness = 17
+INFO:root:pop 16 at test 0 with seed 1545597794
+INFO:root:partial fitness = 130
+INFO:root:pop 17 at test 0 with seed 1545597794
+INFO:root:partial fitness = 101
+INFO:root:pop 18 at test 0 with seed 1545597794
+INFO:root:partial fitness = 26
+INFO:root:pop 19 at test 0 with seed 1545597794
+INFO:root:partial fitness = 182
+INFO:root:pop 20 at test 0 with seed 1545597794
+INFO:root:partial fitness = 199
+INFO:root:pop 21 at test 0 with seed 1545597794
+INFO:root:partial fitness = 26
+INFO:root:pop 22 at test 0 with seed 1545597794
+INFO:root:partial fitness = 191
+INFO:root:pop 23 at test 0 with seed 1545597794
+INFO:root:partial fitness = 227
+INFO:root:pop 24 at test 0 with seed 1545597794
+INFO:root:partial fitness = 44
+INFO:root:pop 25 at test 0 with seed 1545597794
+INFO:root:partial fitness = 30
+INFO:root:pop 26 at test 0 with seed 1545597794
+INFO:root:partial fitness = 174
+INFO:root:pop 27 at test 0 with seed 1545597794
+INFO:root:partial fitness = 69
+INFO:root:pop 28 at test 0 with seed 1545597794
+INFO:root:partial fitness = 31
+INFO:root:pop 29 at test 0 with seed 1545597794
+INFO:root:partial fitness = 167
+INFO:root:pop 30 at test 0 with seed 1545597794
+INFO:root:partial fitness = 19
+INFO:root:pop 31 at test 0 with seed 1545597794
+INFO:root:partial fitness = 252
+INFO:root:pop 32 at test 0 with seed 1545597794
+INFO:root:partial fitness = 143
+INFO:root:pop 33 at test 0 with seed 1545597794
+INFO:root:partial fitness = 76
+INFO:root:pop 34 at test 0 with seed 1545597794
+INFO:root:partial fitness = 105
+INFO:root:pop 35 at test 0 with seed 1545597794
+INFO:root:partial fitness = 259
+INFO:root:pop 36 at test 0 with seed 1545597794
+INFO:root:partial fitness = 18
+INFO:root:pop 37 at test 0 with seed 1545597794
+INFO:root:partial fitness = 208
+INFO:root:pop 38 at test 0 with seed 1545597794
+INFO:root:partial fitness = 55
+INFO:root:pop 39 at test 0 with seed 1545597794
+INFO:root:partial fitness = 223
+INFO:root:pop 0 total fitness = 310
+INFO:root:pop 0 avg fitness = 310
+INFO:root:pop 1 total fitness = 241
+INFO:root:pop 1 avg fitness = 241
+INFO:root:pop 2 total fitness = 211
+INFO:root:pop 2 avg fitness = 211
+INFO:root:pop 3 total fitness = 189
+INFO:root:pop 3 avg fitness = 189
+INFO:root:pop 4 total fitness = 207
+INFO:root:pop 4 avg fitness = 207
+INFO:root:pop 5 total fitness = 0
+INFO:root:pop 5 avg fitness = 0
+INFO:root:pop 6 total fitness = 19
+INFO:root:pop 6 avg fitness = 19
+INFO:root:pop 7 total fitness = 292
+INFO:root:pop 7 avg fitness = 292
+INFO:root:pop 8 total fitness = 27
+INFO:root:pop 8 avg fitness = 27
+INFO:root:pop 9 total fitness = 174
+INFO:root:pop 9 avg fitness = 174
+INFO:root:pop 10 total fitness = 183
+INFO:root:pop 10 avg fitness = 183
+INFO:root:pop 11 total fitness = 31
+INFO:root:pop 11 avg fitness = 31
+INFO:root:pop 12 total fitness = 74
+INFO:root:pop 12 avg fitness = 74
+INFO:root:pop 13 total fitness = 62
+INFO:root:pop 13 avg fitness = 62
+INFO:root:pop 14 total fitness = 34
+INFO:root:pop 14 avg fitness = 34
+INFO:root:pop 15 total fitness = 17
+INFO:root:pop 15 avg fitness = 17
+INFO:root:pop 16 total fitness = 130
+INFO:root:pop 16 avg fitness = 130
+INFO:root:pop 17 total fitness = 101
+INFO:root:pop 17 avg fitness = 101
+INFO:root:pop 18 total fitness = 26
+INFO:root:pop 18 avg fitness = 26
+INFO:root:pop 19 total fitness = 182
+INFO:root:pop 19 avg fitness = 182
+INFO:root:pop 20 total fitness = 199
+INFO:root:pop 20 avg fitness = 199
+INFO:root:pop 21 total fitness = 26
+INFO:root:pop 21 avg fitness = 26
+INFO:root:pop 22 total fitness = 191
+INFO:root:pop 22 avg fitness = 191
+INFO:root:pop 23 total fitness = 227
+INFO:root:pop 23 avg fitness = 227
+INFO:root:pop 24 total fitness = 44
+INFO:root:pop 24 avg fitness = 44
+INFO:root:pop 25 total fitness = 30
+INFO:root:pop 25 avg fitness = 30
+INFO:root:pop 26 total fitness = 174
+INFO:root:pop 26 avg fitness = 174
+INFO:root:pop 27 total fitness = 69
+INFO:root:pop 27 avg fitness = 69
+INFO:root:pop 28 total fitness = 31
+INFO:root:pop 28 avg fitness = 31
+INFO:root:pop 29 total fitness = 167
+INFO:root:pop 29 avg fitness = 167
+INFO:root:pop 30 total fitness = 19
+INFO:root:pop 30 avg fitness = 19
+INFO:root:pop 31 total fitness = 252
+INFO:root:pop 31 avg fitness = 252
+INFO:root:pop 32 total fitness = 143
+INFO:root:pop 32 avg fitness = 143
+INFO:root:pop 33 total fitness = 76
+INFO:root:pop 33 avg fitness = 76
+INFO:root:pop 34 total fitness = 105
+INFO:root:pop 34 avg fitness = 105
+INFO:root:pop 35 total fitness = 259
+INFO:root:pop 35 avg fitness = 259
+INFO:root:pop 36 total fitness = 18
+INFO:root:pop 36 avg fitness = 18
+INFO:root:pop 37 total fitness = 208
+INFO:root:pop 37 avg fitness = 208
+INFO:root:pop 38 total fitness = 55
+INFO:root:pop 38 avg fitness = 55
+INFO:root:pop 39 total fitness = 223
+INFO:root:pop 39 avg fitness = 223
+INFO:root:Starting generation: 10
+INFO:root:Seeds for generation: [2969949763]
+INFO:root:pop 0 at test 0 with seed 2969949763
+INFO:root:partial fitness = 300
+INFO:root:pop 1 at test 0 with seed 2969949763
+INFO:root:partial fitness = 264
+INFO:root:pop 2 at test 0 with seed 2969949763
+INFO:root:partial fitness = 190
+INFO:root:pop 3 at test 0 with seed 2969949763
+INFO:root:partial fitness = 291
+INFO:root:pop 4 at test 0 with seed 2969949763
+INFO:root:partial fitness = 277
+INFO:root:pop 5 at test 0 with seed 2969949763
+INFO:root:partial fitness = 212
+INFO:root:pop 6 at test 0 with seed 2969949763
+INFO:root:partial fitness = 178
+INFO:root:pop 7 at test 0 with seed 2969949763
+INFO:root:partial fitness = 148
+INFO:root:pop 8 at test 0 with seed 2969949763
+INFO:root:partial fitness = 197
+INFO:root:pop 9 at test 0 with seed 2969949763
+INFO:root:partial fitness = 117
+INFO:root:pop 10 at test 0 with seed 2969949763
+INFO:root:partial fitness = 212
+INFO:root:pop 11 at test 0 with seed 2969949763
+INFO:root:partial fitness = 180
+INFO:root:pop 12 at test 0 with seed 2969949763
+INFO:root:partial fitness = 41
+INFO:root:pop 13 at test 0 with seed 2969949763
+INFO:root:partial fitness = 16
+INFO:root:pop 14 at test 0 with seed 2969949763
+INFO:root:partial fitness = 188
+INFO:root:pop 15 at test 0 with seed 2969949763
+INFO:root:partial fitness = 67
+INFO:root:pop 16 at test 0 with seed 2969949763
+INFO:root:partial fitness = 71
+INFO:root:pop 17 at test 0 with seed 2969949763
+INFO:root:partial fitness = 82
+INFO:root:pop 18 at test 0 with seed 2969949763
+INFO:root:partial fitness = 127
+INFO:root:pop 19 at test 0 with seed 2969949763
+INFO:root:partial fitness = 23
+INFO:root:pop 20 at test 0 with seed 2969949763
+INFO:root:partial fitness = 41
+INFO:root:pop 21 at test 0 with seed 2969949763
+INFO:root:partial fitness = 166
+INFO:root:pop 22 at test 0 with seed 2969949763
+INFO:root:partial fitness = 185
+INFO:root:pop 23 at test 0 with seed 2969949763
+INFO:root:partial fitness = 182
+INFO:root:pop 24 at test 0 with seed 2969949763
+INFO:root:partial fitness = 190
+INFO:root:pop 25 at test 0 with seed 2969949763
+INFO:root:partial fitness = 167
+INFO:root:pop 26 at test 0 with seed 2969949763
+INFO:root:partial fitness = 28
+INFO:root:pop 27 at test 0 with seed 2969949763
+INFO:root:partial fitness = 24
+INFO:root:pop 28 at test 0 with seed 2969949763
+INFO:root:partial fitness = 190
+INFO:root:pop 29 at test 0 with seed 2969949763
+INFO:root:partial fitness = 26
+INFO:root:pop 30 at test 0 with seed 2969949763
+INFO:root:partial fitness = 75
+INFO:root:pop 31 at test 0 with seed 2969949763
+INFO:root:partial fitness = 149
+INFO:root:pop 32 at test 0 with seed 2969949763
+INFO:root:partial fitness = 38
+INFO:root:pop 33 at test 0 with seed 2969949763
+INFO:root:partial fitness = 92
+INFO:root:pop 34 at test 0 with seed 2969949763
+INFO:root:partial fitness = 173
+INFO:root:pop 35 at test 0 with seed 2969949763
+INFO:root:partial fitness = 188
+INFO:root:pop 36 at test 0 with seed 2969949763
+INFO:root:partial fitness = 187
+INFO:root:pop 37 at test 0 with seed 2969949763
+INFO:root:partial fitness = 274
+INFO:root:pop 38 at test 0 with seed 2969949763
+INFO:root:partial fitness = 23
+INFO:root:pop 39 at test 0 with seed 2969949763
+INFO:root:partial fitness = 193
+INFO:root:pop 0 total fitness = 300
+INFO:root:pop 0 avg fitness = 300
+INFO:root:pop 1 total fitness = 264
+INFO:root:pop 1 avg fitness = 264
+INFO:root:pop 2 total fitness = 190
+INFO:root:pop 2 avg fitness = 190
+INFO:root:pop 3 total fitness = 291
+INFO:root:pop 3 avg fitness = 291
+INFO:root:pop 4 total fitness = 277
+INFO:root:pop 4 avg fitness = 277
+INFO:root:pop 5 total fitness = 212
+INFO:root:pop 5 avg fitness = 212
+INFO:root:pop 6 total fitness = 178
+INFO:root:pop 6 avg fitness = 178
+INFO:root:pop 7 total fitness = 148
+INFO:root:pop 7 avg fitness = 148
+INFO:root:pop 8 total fitness = 197
+INFO:root:pop 8 avg fitness = 197
+INFO:root:pop 9 total fitness = 117
+INFO:root:pop 9 avg fitness = 117
+INFO:root:pop 10 total fitness = 212
+INFO:root:pop 10 avg fitness = 212
+INFO:root:pop 11 total fitness = 180
+INFO:root:pop 11 avg fitness = 180
+INFO:root:pop 12 total fitness = 41
+INFO:root:pop 12 avg fitness = 41
+INFO:root:pop 13 total fitness = 16
+INFO:root:pop 13 avg fitness = 16
+INFO:root:pop 14 total fitness = 188
+INFO:root:pop 14 avg fitness = 188
+INFO:root:pop 15 total fitness = 67
+INFO:root:pop 15 avg fitness = 67
+INFO:root:pop 16 total fitness = 71
+INFO:root:pop 16 avg fitness = 71
+INFO:root:pop 17 total fitness = 82
+INFO:root:pop 17 avg fitness = 82
+INFO:root:pop 18 total fitness = 127
+INFO:root:pop 18 avg fitness = 127
+INFO:root:pop 19 total fitness = 23
+INFO:root:pop 19 avg fitness = 23
+INFO:root:pop 20 total fitness = 41
+INFO:root:pop 20 avg fitness = 41
+INFO:root:pop 21 total fitness = 166
+INFO:root:pop 21 avg fitness = 166
+INFO:root:pop 22 total fitness = 185
+INFO:root:pop 22 avg fitness = 185
+INFO:root:pop 23 total fitness = 182
+INFO:root:pop 23 avg fitness = 182
+INFO:root:pop 24 total fitness = 190
+INFO:root:pop 24 avg fitness = 190
+INFO:root:pop 25 total fitness = 167
+INFO:root:pop 25 avg fitness = 167
+INFO:root:pop 26 total fitness = 28
+INFO:root:pop 26 avg fitness = 28
+INFO:root:pop 27 total fitness = 24
+INFO:root:pop 27 avg fitness = 24
+INFO:root:pop 28 total fitness = 190
+INFO:root:pop 28 avg fitness = 190
+INFO:root:pop 29 total fitness = 26
+INFO:root:pop 29 avg fitness = 26
+INFO:root:pop 30 total fitness = 75
+INFO:root:pop 30 avg fitness = 75
+INFO:root:pop 31 total fitness = 149
+INFO:root:pop 31 avg fitness = 149
+INFO:root:pop 32 total fitness = 38
+INFO:root:pop 32 avg fitness = 38
+INFO:root:pop 33 total fitness = 92
+INFO:root:pop 33 avg fitness = 92
+INFO:root:pop 34 total fitness = 173
+INFO:root:pop 34 avg fitness = 173
+INFO:root:pop 35 total fitness = 188
+INFO:root:pop 35 avg fitness = 188
+INFO:root:pop 36 total fitness = 187
+INFO:root:pop 36 avg fitness = 187
+INFO:root:pop 37 total fitness = 274
+INFO:root:pop 37 avg fitness = 274
+INFO:root:pop 38 total fitness = 23
+INFO:root:pop 38 avg fitness = 23
+INFO:root:pop 39 total fitness = 193
+INFO:root:pop 39 avg fitness = 193
+INFO:root:Starting generation: 11
+INFO:root:Seeds for generation: [1638119601]
+INFO:root:pop 0 at test 0 with seed 1638119601
+INFO:root:partial fitness = 318
+INFO:root:pop 1 at test 0 with seed 1638119601
+INFO:root:partial fitness = 296
+INFO:root:pop 2 at test 0 with seed 1638119601
+INFO:root:partial fitness = 271
+INFO:root:pop 3 at test 0 with seed 1638119601
+INFO:root:partial fitness = 174
+INFO:root:pop 4 at test 0 with seed 1638119601
+INFO:root:partial fitness = 311
+INFO:root:pop 5 at test 0 with seed 1638119601
+INFO:root:partial fitness = 158
+INFO:root:pop 6 at test 0 with seed 1638119601
+INFO:root:partial fitness = 147
+INFO:root:pop 7 at test 0 with seed 1638119601
+INFO:root:partial fitness = 55
+INFO:root:pop 8 at test 0 with seed 1638119601
+INFO:root:partial fitness = 144
+INFO:root:pop 9 at test 0 with seed 1638119601
+INFO:root:partial fitness = 78
+INFO:root:pop 10 at test 0 with seed 1638119601
+INFO:root:partial fitness = 174
+INFO:root:pop 11 at test 0 with seed 1638119601
+INFO:root:partial fitness = 311
+INFO:root:pop 12 at test 0 with seed 1638119601
+INFO:root:partial fitness = 341
+INFO:root:pop 13 at test 0 with seed 1638119601
+INFO:root:partial fitness = 112
+INFO:root:pop 14 at test 0 with seed 1638119601
+INFO:root:partial fitness = 162
+INFO:root:pop 15 at test 0 with seed 1638119601
+INFO:root:partial fitness = 119
+INFO:root:pop 16 at test 0 with seed 1638119601
+INFO:root:partial fitness = 63
+INFO:root:pop 17 at test 0 with seed 1638119601
+INFO:root:partial fitness = 145
+INFO:root:pop 18 at test 0 with seed 1638119601
+INFO:root:partial fitness = 118
+INFO:root:pop 19 at test 0 with seed 1638119601
+INFO:root:partial fitness = 0
+INFO:root:pop 20 at test 0 with seed 1638119601
+INFO:root:partial fitness = 126
+INFO:root:pop 21 at test 0 with seed 1638119601
+INFO:root:partial fitness = 48
+INFO:root:pop 22 at test 0 with seed 1638119601
+INFO:root:partial fitness = 15
+INFO:root:pop 23 at test 0 with seed 1638119601
+INFO:root:partial fitness = 8
+INFO:root:pop 24 at test 0 with seed 1638119601
+INFO:root:partial fitness = 91
+INFO:root:pop 25 at test 0 with seed 1638119601
+INFO:root:partial fitness = 161
+INFO:root:pop 26 at test 0 with seed 1638119601
+INFO:root:partial fitness = 156
+INFO:root:pop 27 at test 0 with seed 1638119601
+INFO:root:partial fitness = 96
+INFO:root:pop 28 at test 0 with seed 1638119601
+INFO:root:partial fitness = 168
+INFO:root:pop 29 at test 0 with seed 1638119601
+INFO:root:partial fitness = 161
+INFO:root:pop 30 at test 0 with seed 1638119601
+INFO:root:partial fitness = 240
+INFO:root:pop 31 at test 0 with seed 1638119601
+INFO:root:partial fitness = 268
+INFO:root:pop 32 at test 0 with seed 1638119601
+INFO:root:partial fitness = 11
+INFO:root:pop 33 at test 0 with seed 1638119601
+INFO:root:partial fitness = 165
+INFO:root:pop 34 at test 0 with seed 1638119601
+INFO:root:partial fitness = 156
+INFO:root:pop 35 at test 0 with seed 1638119601
+INFO:root:partial fitness = 156
+INFO:root:pop 36 at test 0 with seed 1638119601
+INFO:root:partial fitness = 148
+INFO:root:pop 37 at test 0 with seed 1638119601
+INFO:root:partial fitness = 9
+INFO:root:pop 38 at test 0 with seed 1638119601
+INFO:root:partial fitness = 169
+INFO:root:pop 39 at test 0 with seed 1638119601
+INFO:root:partial fitness = 32
+INFO:root:pop 0 total fitness = 318
+INFO:root:pop 0 avg fitness = 318
+INFO:root:pop 1 total fitness = 296
+INFO:root:pop 1 avg fitness = 296
+INFO:root:pop 2 total fitness = 271
+INFO:root:pop 2 avg fitness = 271
+INFO:root:pop 3 total fitness = 174
+INFO:root:pop 3 avg fitness = 174
+INFO:root:pop 4 total fitness = 311
+INFO:root:pop 4 avg fitness = 311
+INFO:root:pop 5 total fitness = 158
+INFO:root:pop 5 avg fitness = 158
+INFO:root:pop 6 total fitness = 147
+INFO:root:pop 6 avg fitness = 147
+INFO:root:pop 7 total fitness = 55
+INFO:root:pop 7 avg fitness = 55
+INFO:root:pop 8 total fitness = 144
+INFO:root:pop 8 avg fitness = 144
+INFO:root:pop 9 total fitness = 78
+INFO:root:pop 9 avg fitness = 78
+INFO:root:pop 10 total fitness = 174
+INFO:root:pop 10 avg fitness = 174
+INFO:root:pop 11 total fitness = 311
+INFO:root:pop 11 avg fitness = 311
+INFO:root:pop 12 total fitness = 341
+INFO:root:pop 12 avg fitness = 341
+INFO:root:pop 13 total fitness = 112
+INFO:root:pop 13 avg fitness = 112
+INFO:root:pop 14 total fitness = 162
+INFO:root:pop 14 avg fitness = 162
+INFO:root:pop 15 total fitness = 119
+INFO:root:pop 15 avg fitness = 119
+INFO:root:pop 16 total fitness = 63
+INFO:root:pop 16 avg fitness = 63
+INFO:root:pop 17 total fitness = 145
+INFO:root:pop 17 avg fitness = 145
+INFO:root:pop 18 total fitness = 118
+INFO:root:pop 18 avg fitness = 118
+INFO:root:pop 19 total fitness = 0
+INFO:root:pop 19 avg fitness = 0
+INFO:root:pop 20 total fitness = 126
+INFO:root:pop 20 avg fitness = 126
+INFO:root:pop 21 total fitness = 48
+INFO:root:pop 21 avg fitness = 48
+INFO:root:pop 22 total fitness = 15
+INFO:root:pop 22 avg fitness = 15
+INFO:root:pop 23 total fitness = 8
+INFO:root:pop 23 avg fitness = 8
+INFO:root:pop 24 total fitness = 91
+INFO:root:pop 24 avg fitness = 91
+INFO:root:pop 25 total fitness = 161
+INFO:root:pop 25 avg fitness = 161
+INFO:root:pop 26 total fitness = 156
+INFO:root:pop 26 avg fitness = 156
+INFO:root:pop 27 total fitness = 96
+INFO:root:pop 27 avg fitness = 96
+INFO:root:pop 28 total fitness = 168
+INFO:root:pop 28 avg fitness = 168
+INFO:root:pop 29 total fitness = 161
+INFO:root:pop 29 avg fitness = 161
+INFO:root:pop 30 total fitness = 240
+INFO:root:pop 30 avg fitness = 240
+INFO:root:pop 31 total fitness = 268
+INFO:root:pop 31 avg fitness = 268
+INFO:root:pop 32 total fitness = 11
+INFO:root:pop 32 avg fitness = 11
+INFO:root:pop 33 total fitness = 165
+INFO:root:pop 33 avg fitness = 165
+INFO:root:pop 34 total fitness = 156
+INFO:root:pop 34 avg fitness = 156
+INFO:root:pop 35 total fitness = 156
+INFO:root:pop 35 avg fitness = 156
+INFO:root:pop 36 total fitness = 148
+INFO:root:pop 36 avg fitness = 148
+INFO:root:pop 37 total fitness = 9
+INFO:root:pop 37 avg fitness = 9
+INFO:root:pop 38 total fitness = 169
+INFO:root:pop 38 avg fitness = 169
+INFO:root:pop 39 total fitness = 32
+INFO:root:pop 39 avg fitness = 32
+INFO:root:Starting generation: 12
+INFO:root:Seeds for generation: [208856642]
+INFO:root:pop 0 at test 0 with seed 208856642
+INFO:root:partial fitness = 351
+INFO:root:pop 1 at test 0 with seed 208856642
+INFO:root:partial fitness = 331
+INFO:root:pop 2 at test 0 with seed 208856642
+INFO:root:partial fitness = 330
+INFO:root:pop 3 at test 0 with seed 208856642
+INFO:root:partial fitness = 337
+INFO:root:pop 4 at test 0 with seed 208856642
+INFO:root:partial fitness = 338
+INFO:root:pop 5 at test 0 with seed 208856642
+INFO:root:partial fitness = 139
+INFO:root:pop 6 at test 0 with seed 208856642
+INFO:root:partial fitness = 239
+INFO:root:pop 7 at test 0 with seed 208856642
+INFO:root:partial fitness = 203
+INFO:root:pop 8 at test 0 with seed 208856642
+INFO:root:partial fitness = 37
+INFO:root:pop 9 at test 0 with seed 208856642
+INFO:root:partial fitness = 39
+INFO:root:pop 10 at test 0 with seed 208856642
+INFO:root:partial fitness = 165
+INFO:root:pop 11 at test 0 with seed 208856642
+INFO:root:partial fitness = 0
+INFO:root:pop 12 at test 0 with seed 208856642
+INFO:root:partial fitness = 150
+INFO:root:pop 13 at test 0 with seed 208856642
+INFO:root:partial fitness = 172
+INFO:root:pop 14 at test 0 with seed 208856642
+INFO:root:partial fitness = 0
+INFO:root:pop 15 at test 0 with seed 208856642
+INFO:root:partial fitness = 148
+INFO:root:pop 16 at test 0 with seed 208856642
+INFO:root:partial fitness = 185
+INFO:root:pop 17 at test 0 with seed 208856642
+INFO:root:partial fitness = 180
+INFO:root:pop 18 at test 0 with seed 208856642
+INFO:root:partial fitness = 171
+INFO:root:pop 19 at test 0 with seed 208856642
+INFO:root:partial fitness = 159
+INFO:root:pop 20 at test 0 with seed 208856642
+INFO:root:partial fitness = 43
+INFO:root:pop 21 at test 0 with seed 208856642
+INFO:root:partial fitness = 12
+INFO:root:pop 22 at test 0 with seed 208856642
+INFO:root:partial fitness = 74
+INFO:root:pop 23 at test 0 with seed 208856642
+INFO:root:partial fitness = 9
+INFO:root:pop 24 at test 0 with seed 208856642
+INFO:root:partial fitness = 196
+INFO:root:pop 25 at test 0 with seed 208856642
+INFO:root:partial fitness = 24
+INFO:root:pop 26 at test 0 with seed 208856642
+INFO:root:partial fitness = 169
+INFO:root:pop 27 at test 0 with seed 208856642
+INFO:root:partial fitness = 20
+INFO:root:pop 28 at test 0 with seed 208856642
+INFO:root:partial fitness = 80
+INFO:root:pop 29 at test 0 with seed 208856642
+INFO:root:partial fitness = 62
+INFO:root:pop 30 at test 0 with seed 208856642
+INFO:root:partial fitness = 147
+INFO:root:pop 31 at test 0 with seed 208856642
+INFO:root:partial fitness = 159
+INFO:root:pop 32 at test 0 with seed 208856642
+INFO:root:partial fitness = 153
+INFO:root:pop 33 at test 0 with seed 208856642
+INFO:root:partial fitness = 147
+INFO:root:pop 34 at test 0 with seed 208856642
+INFO:root:partial fitness = 268
+INFO:root:pop 35 at test 0 with seed 208856642
+INFO:root:partial fitness = 182
+INFO:root:pop 36 at test 0 with seed 208856642
+INFO:root:partial fitness = 167
+INFO:root:pop 37 at test 0 with seed 208856642
+INFO:root:partial fitness = 41
+INFO:root:pop 38 at test 0 with seed 208856642
+INFO:root:partial fitness = 17
+INFO:root:pop 39 at test 0 with seed 208856642
+INFO:root:partial fitness = 81
+INFO:root:pop 0 total fitness = 351
+INFO:root:pop 0 avg fitness = 351
+INFO:root:pop 1 total fitness = 331
+INFO:root:pop 1 avg fitness = 331
+INFO:root:pop 2 total fitness = 330
+INFO:root:pop 2 avg fitness = 330
+INFO:root:pop 3 total fitness = 337
+INFO:root:pop 3 avg fitness = 337
+INFO:root:pop 4 total fitness = 338
+INFO:root:pop 4 avg fitness = 338
+INFO:root:pop 5 total fitness = 139
+INFO:root:pop 5 avg fitness = 139
+INFO:root:pop 6 total fitness = 239
+INFO:root:pop 6 avg fitness = 239
+INFO:root:pop 7 total fitness = 203
+INFO:root:pop 7 avg fitness = 203
+INFO:root:pop 8 total fitness = 37
+INFO:root:pop 8 avg fitness = 37
+INFO:root:pop 9 total fitness = 39
+INFO:root:pop 9 avg fitness = 39
+INFO:root:pop 10 total fitness = 165
+INFO:root:pop 10 avg fitness = 165
+INFO:root:pop 11 total fitness = 0
+INFO:root:pop 11 avg fitness = 0
+INFO:root:pop 12 total fitness = 150
+INFO:root:pop 12 avg fitness = 150
+INFO:root:pop 13 total fitness = 172
+INFO:root:pop 13 avg fitness = 172
+INFO:root:pop 14 total fitness = 0
+INFO:root:pop 14 avg fitness = 0
+INFO:root:pop 15 total fitness = 148
+INFO:root:pop 15 avg fitness = 148
+INFO:root:pop 16 total fitness = 185
+INFO:root:pop 16 avg fitness = 185
+INFO:root:pop 17 total fitness = 180
+INFO:root:pop 17 avg fitness = 180
+INFO:root:pop 18 total fitness = 171
+INFO:root:pop 18 avg fitness = 171
+INFO:root:pop 19 total fitness = 159
+INFO:root:pop 19 avg fitness = 159
+INFO:root:pop 20 total fitness = 43
+INFO:root:pop 20 avg fitness = 43
+INFO:root:pop 21 total fitness = 12
+INFO:root:pop 21 avg fitness = 12
+INFO:root:pop 22 total fitness = 74
+INFO:root:pop 22 avg fitness = 74
+INFO:root:pop 23 total fitness = 9
+INFO:root:pop 23 avg fitness = 9
+INFO:root:pop 24 total fitness = 196
+INFO:root:pop 24 avg fitness = 196
+INFO:root:pop 25 total fitness = 24
+INFO:root:pop 25 avg fitness = 24
+INFO:root:pop 26 total fitness = 169
+INFO:root:pop 26 avg fitness = 169
+INFO:root:pop 27 total fitness = 20
+INFO:root:pop 27 avg fitness = 20
+INFO:root:pop 28 total fitness = 80
+INFO:root:pop 28 avg fitness = 80
+INFO:root:pop 29 total fitness = 62
+INFO:root:pop 29 avg fitness = 62
+INFO:root:pop 30 total fitness = 147
+INFO:root:pop 30 avg fitness = 147
+INFO:root:pop 31 total fitness = 159
+INFO:root:pop 31 avg fitness = 159
+INFO:root:pop 32 total fitness = 153
+INFO:root:pop 32 avg fitness = 153
+INFO:root:pop 33 total fitness = 147
+INFO:root:pop 33 avg fitness = 147
+INFO:root:pop 34 total fitness = 268
+INFO:root:pop 34 avg fitness = 268
+INFO:root:pop 35 total fitness = 182
+INFO:root:pop 35 avg fitness = 182
+INFO:root:pop 36 total fitness = 167
+INFO:root:pop 36 avg fitness = 167
+INFO:root:pop 37 total fitness = 41
+INFO:root:pop 37 avg fitness = 41
+INFO:root:pop 38 total fitness = 17
+INFO:root:pop 38 avg fitness = 17
+INFO:root:pop 39 total fitness = 81
+INFO:root:pop 39 avg fitness = 81
+INFO:root:Starting generation: 13
+INFO:root:Seeds for generation: [949426410]
+INFO:root:pop 0 at test 0 with seed 949426410
+INFO:root:partial fitness = 287
+INFO:root:pop 1 at test 0 with seed 949426410
+INFO:root:partial fitness = 298
+INFO:root:pop 2 at test 0 with seed 949426410
+INFO:root:partial fitness = 181
+INFO:root:pop 3 at test 0 with seed 949426410
+INFO:root:partial fitness = 311
+INFO:root:pop 4 at test 0 with seed 949426410
+INFO:root:partial fitness = 223
+INFO:root:pop 5 at test 0 with seed 949426410
+INFO:root:partial fitness = 197
+INFO:root:pop 6 at test 0 with seed 949426410
+INFO:root:partial fitness = 152
+INFO:root:pop 7 at test 0 with seed 949426410
+INFO:root:partial fitness = 209
+INFO:root:pop 8 at test 0 with seed 949426410
+INFO:root:partial fitness = 179
+INFO:root:pop 9 at test 0 with seed 949426410
+INFO:root:partial fitness = 180
+INFO:root:pop 10 at test 0 with seed 949426410
+INFO:root:partial fitness = 270
+INFO:root:pop 11 at test 0 with seed 949426410
+INFO:root:partial fitness = 179
+INFO:root:pop 12 at test 0 with seed 949426410
+INFO:root:partial fitness = 142
+INFO:root:pop 13 at test 0 with seed 949426410
+INFO:root:partial fitness = 210
+INFO:root:pop 14 at test 0 with seed 949426410
+INFO:root:partial fitness = 221
+INFO:root:pop 15 at test 0 with seed 949426410
+INFO:root:partial fitness = 175
+INFO:root:pop 16 at test 0 with seed 949426410
+INFO:root:partial fitness = 38
+INFO:root:pop 17 at test 0 with seed 949426410
+INFO:root:partial fitness = 182
+INFO:root:pop 18 at test 0 with seed 949426410
+INFO:root:partial fitness = 53
+INFO:root:pop 19 at test 0 with seed 949426410
+INFO:root:partial fitness = 170
+INFO:root:pop 20 at test 0 with seed 949426410
+INFO:root:partial fitness = 203
+INFO:root:pop 21 at test 0 with seed 949426410
+INFO:root:partial fitness = 127
+INFO:root:pop 22 at test 0 with seed 949426410
+INFO:root:partial fitness = 195
+INFO:root:pop 23 at test 0 with seed 949426410
+INFO:root:partial fitness = 40
+INFO:root:pop 24 at test 0 with seed 949426410
+INFO:root:partial fitness = 168
+INFO:root:pop 25 at test 0 with seed 949426410
+INFO:root:partial fitness = 140
+INFO:root:pop 26 at test 0 with seed 949426410
+INFO:root:partial fitness = 28
+INFO:root:pop 27 at test 0 with seed 949426410
+INFO:root:partial fitness = 170
+INFO:root:pop 28 at test 0 with seed 949426410
+INFO:root:partial fitness = 49
+INFO:root:pop 29 at test 0 with seed 949426410
+INFO:root:partial fitness = 102
+INFO:root:pop 30 at test 0 with seed 949426410
+INFO:root:partial fitness = 127
+INFO:root:pop 31 at test 0 with seed 949426410
+INFO:root:partial fitness = 195
+INFO:root:pop 32 at test 0 with seed 949426410
+INFO:root:partial fitness = 352
+INFO:root:pop 33 at test 0 with seed 949426410
+INFO:root:partial fitness = 224
+INFO:root:pop 34 at test 0 with seed 949426410
+INFO:root:partial fitness = 74
+INFO:root:pop 35 at test 0 with seed 949426410
+INFO:root:partial fitness = 56
+INFO:root:pop 36 at test 0 with seed 949426410
+INFO:root:partial fitness = 222
+INFO:root:pop 37 at test 0 with seed 949426410
+INFO:root:partial fitness = 195
+INFO:root:pop 38 at test 0 with seed 949426410
+INFO:root:partial fitness = 94
+INFO:root:pop 39 at test 0 with seed 949426410
+INFO:root:partial fitness = 116
+INFO:root:pop 0 total fitness = 287
+INFO:root:pop 0 avg fitness = 287
+INFO:root:pop 1 total fitness = 298
+INFO:root:pop 1 avg fitness = 298
+INFO:root:pop 2 total fitness = 181
+INFO:root:pop 2 avg fitness = 181
+INFO:root:pop 3 total fitness = 311
+INFO:root:pop 3 avg fitness = 311
+INFO:root:pop 4 total fitness = 223
+INFO:root:pop 4 avg fitness = 223
+INFO:root:pop 5 total fitness = 197
+INFO:root:pop 5 avg fitness = 197
+INFO:root:pop 6 total fitness = 152
+INFO:root:pop 6 avg fitness = 152
+INFO:root:pop 7 total fitness = 209
+INFO:root:pop 7 avg fitness = 209
+INFO:root:pop 8 total fitness = 179
+INFO:root:pop 8 avg fitness = 179
+INFO:root:pop 9 total fitness = 180
+INFO:root:pop 9 avg fitness = 180
+INFO:root:pop 10 total fitness = 270
+INFO:root:pop 10 avg fitness = 270
+INFO:root:pop 11 total fitness = 179
+INFO:root:pop 11 avg fitness = 179
+INFO:root:pop 12 total fitness = 142
+INFO:root:pop 12 avg fitness = 142
+INFO:root:pop 13 total fitness = 210
+INFO:root:pop 13 avg fitness = 210
+INFO:root:pop 14 total fitness = 221
+INFO:root:pop 14 avg fitness = 221
+INFO:root:pop 15 total fitness = 175
+INFO:root:pop 15 avg fitness = 175
+INFO:root:pop 16 total fitness = 38
+INFO:root:pop 16 avg fitness = 38
+INFO:root:pop 17 total fitness = 182
+INFO:root:pop 17 avg fitness = 182
+INFO:root:pop 18 total fitness = 53
+INFO:root:pop 18 avg fitness = 53
+INFO:root:pop 19 total fitness = 170
+INFO:root:pop 19 avg fitness = 170
+INFO:root:pop 20 total fitness = 203
+INFO:root:pop 20 avg fitness = 203
+INFO:root:pop 21 total fitness = 127
+INFO:root:pop 21 avg fitness = 127
+INFO:root:pop 22 total fitness = 195
+INFO:root:pop 22 avg fitness = 195
+INFO:root:pop 23 total fitness = 40
+INFO:root:pop 23 avg fitness = 40
+INFO:root:pop 24 total fitness = 168
+INFO:root:pop 24 avg fitness = 168
+INFO:root:pop 25 total fitness = 140
+INFO:root:pop 25 avg fitness = 140
+INFO:root:pop 26 total fitness = 28
+INFO:root:pop 26 avg fitness = 28
+INFO:root:pop 27 total fitness = 170
+INFO:root:pop 27 avg fitness = 170
+INFO:root:pop 28 total fitness = 49
+INFO:root:pop 28 avg fitness = 49
+INFO:root:pop 29 total fitness = 102
+INFO:root:pop 29 avg fitness = 102
+INFO:root:pop 30 total fitness = 127
+INFO:root:pop 30 avg fitness = 127
+INFO:root:pop 31 total fitness = 195
+INFO:root:pop 31 avg fitness = 195
+INFO:root:pop 32 total fitness = 352
+INFO:root:pop 32 avg fitness = 352
+INFO:root:pop 33 total fitness = 224
+INFO:root:pop 33 avg fitness = 224
+INFO:root:pop 34 total fitness = 74
+INFO:root:pop 34 avg fitness = 74
+INFO:root:pop 35 total fitness = 56
+INFO:root:pop 35 avg fitness = 56
+INFO:root:pop 36 total fitness = 222
+INFO:root:pop 36 avg fitness = 222
+INFO:root:pop 37 total fitness = 195
+INFO:root:pop 37 avg fitness = 195
+INFO:root:pop 38 total fitness = 94
+INFO:root:pop 38 avg fitness = 94
+INFO:root:pop 39 total fitness = 116
+INFO:root:pop 39 avg fitness = 116
+INFO:root:Starting generation: 14
+INFO:root:Seeds for generation: [663588658]
+INFO:root:pop 0 at test 0 with seed 663588658
+INFO:root:partial fitness = 207
+INFO:root:pop 1 at test 0 with seed 663588658
+INFO:root:partial fitness = 211
+INFO:root:pop 2 at test 0 with seed 663588658
+INFO:root:partial fitness = 228
+INFO:root:pop 3 at test 0 with seed 663588658
+INFO:root:partial fitness = 202
+INFO:root:pop 4 at test 0 with seed 663588658
+INFO:root:partial fitness = 141
+INFO:root:pop 5 at test 0 with seed 663588658
+INFO:root:partial fitness = 93
+INFO:root:pop 6 at test 0 with seed 663588658
+INFO:root:partial fitness = 91
+INFO:root:pop 7 at test 0 with seed 663588658
+INFO:root:partial fitness = 137
+INFO:root:pop 8 at test 0 with seed 663588658
+INFO:root:partial fitness = 96
+INFO:root:pop 9 at test 0 with seed 663588658
+INFO:root:partial fitness = 65
+INFO:root:pop 10 at test 0 with seed 663588658
+INFO:root:partial fitness = 157
+INFO:root:pop 11 at test 0 with seed 663588658
+INFO:root:partial fitness = 156
+INFO:root:pop 12 at test 0 with seed 663588658
+INFO:root:partial fitness = 165
+INFO:root:pop 13 at test 0 with seed 663588658
+INFO:root:partial fitness = 66
+INFO:root:pop 14 at test 0 with seed 663588658
+INFO:root:partial fitness = 0
+INFO:root:pop 15 at test 0 with seed 663588658
+INFO:root:partial fitness = 150
+INFO:root:pop 16 at test 0 with seed 663588658
+INFO:root:partial fitness = 195
+INFO:root:pop 17 at test 0 with seed 663588658
+INFO:root:partial fitness = 170
+INFO:root:pop 18 at test 0 with seed 663588658
+INFO:root:partial fitness = 63
+INFO:root:pop 19 at test 0 with seed 663588658
+INFO:root:partial fitness = 87
+INFO:root:pop 20 at test 0 with seed 663588658
+INFO:root:partial fitness = 63
+INFO:root:pop 21 at test 0 with seed 663588658
+INFO:root:partial fitness = 161
+INFO:root:pop 22 at test 0 with seed 663588658
+INFO:root:partial fitness = 174
+INFO:root:pop 23 at test 0 with seed 663588658
+INFO:root:partial fitness = 0
+INFO:root:pop 24 at test 0 with seed 663588658
+INFO:root:partial fitness = 162
+INFO:root:pop 25 at test 0 with seed 663588658
+INFO:root:partial fitness = 75
+INFO:root:pop 26 at test 0 with seed 663588658
+INFO:root:partial fitness = 129
+INFO:root:pop 27 at test 0 with seed 663588658
+INFO:root:partial fitness = 72
+INFO:root:pop 28 at test 0 with seed 663588658
+INFO:root:partial fitness = 53
+INFO:root:pop 29 at test 0 with seed 663588658
+INFO:root:partial fitness = 137
+INFO:root:pop 30 at test 0 with seed 663588658
+INFO:root:partial fitness = 176
+INFO:root:pop 31 at test 0 with seed 663588658
+INFO:root:partial fitness = 0
+INFO:root:pop 32 at test 0 with seed 663588658
+INFO:root:partial fitness = 136
+INFO:root:pop 33 at test 0 with seed 663588658
+INFO:root:partial fitness = 158
+INFO:root:pop 34 at test 0 with seed 663588658
+INFO:root:partial fitness = 110
+INFO:root:pop 35 at test 0 with seed 663588658
+INFO:root:partial fitness = 0
+INFO:root:pop 36 at test 0 with seed 663588658
+INFO:root:partial fitness = 165
+INFO:root:pop 37 at test 0 with seed 663588658
+INFO:root:partial fitness = 0
+INFO:root:pop 38 at test 0 with seed 663588658
+INFO:root:partial fitness = 156
+INFO:root:pop 39 at test 0 with seed 663588658
+INFO:root:partial fitness = 136
+INFO:root:pop 0 total fitness = 207
+INFO:root:pop 0 avg fitness = 207
+INFO:root:pop 1 total fitness = 211
+INFO:root:pop 1 avg fitness = 211
+INFO:root:pop 2 total fitness = 228
+INFO:root:pop 2 avg fitness = 228
+INFO:root:pop 3 total fitness = 202
+INFO:root:pop 3 avg fitness = 202
+INFO:root:pop 4 total fitness = 141
+INFO:root:pop 4 avg fitness = 141
+INFO:root:pop 5 total fitness = 93
+INFO:root:pop 5 avg fitness = 93
+INFO:root:pop 6 total fitness = 91
+INFO:root:pop 6 avg fitness = 91
+INFO:root:pop 7 total fitness = 137
+INFO:root:pop 7 avg fitness = 137
+INFO:root:pop 8 total fitness = 96
+INFO:root:pop 8 avg fitness = 96
+INFO:root:pop 9 total fitness = 65
+INFO:root:pop 9 avg fitness = 65
+INFO:root:pop 10 total fitness = 157
+INFO:root:pop 10 avg fitness = 157
+INFO:root:pop 11 total fitness = 156
+INFO:root:pop 11 avg fitness = 156
+INFO:root:pop 12 total fitness = 165
+INFO:root:pop 12 avg fitness = 165
+INFO:root:pop 13 total fitness = 66
+INFO:root:pop 13 avg fitness = 66
+INFO:root:pop 14 total fitness = 0
+INFO:root:pop 14 avg fitness = 0
+INFO:root:pop 15 total fitness = 150
+INFO:root:pop 15 avg fitness = 150
+INFO:root:pop 16 total fitness = 195
+INFO:root:pop 16 avg fitness = 195
+INFO:root:pop 17 total fitness = 170
+INFO:root:pop 17 avg fitness = 170
+INFO:root:pop 18 total fitness = 63
+INFO:root:pop 18 avg fitness = 63
+INFO:root:pop 19 total fitness = 87
+INFO:root:pop 19 avg fitness = 87
+INFO:root:pop 20 total fitness = 63
+INFO:root:pop 20 avg fitness = 63
+INFO:root:pop 21 total fitness = 161
+INFO:root:pop 21 avg fitness = 161
+INFO:root:pop 22 total fitness = 174
+INFO:root:pop 22 avg fitness = 174
+INFO:root:pop 23 total fitness = 0
+INFO:root:pop 23 avg fitness = 0
+INFO:root:pop 24 total fitness = 162
+INFO:root:pop 24 avg fitness = 162
+INFO:root:pop 25 total fitness = 75
+INFO:root:pop 25 avg fitness = 75
+INFO:root:pop 26 total fitness = 129
+INFO:root:pop 26 avg fitness = 129
+INFO:root:pop 27 total fitness = 72
+INFO:root:pop 27 avg fitness = 72
+INFO:root:pop 28 total fitness = 53
+INFO:root:pop 28 avg fitness = 53
+INFO:root:pop 29 total fitness = 137
+INFO:root:pop 29 avg fitness = 137
+INFO:root:pop 30 total fitness = 176
+INFO:root:pop 30 avg fitness = 176
+INFO:root:pop 31 total fitness = 0
+INFO:root:pop 31 avg fitness = 0
+INFO:root:pop 32 total fitness = 136
+INFO:root:pop 32 avg fitness = 136
+INFO:root:pop 33 total fitness = 158
+INFO:root:pop 33 avg fitness = 158
+INFO:root:pop 34 total fitness = 110
+INFO:root:pop 34 avg fitness = 110
+INFO:root:pop 35 total fitness = 0
+INFO:root:pop 35 avg fitness = 0
+INFO:root:pop 36 total fitness = 165
+INFO:root:pop 36 avg fitness = 165
+INFO:root:pop 37 total fitness = 0
+INFO:root:pop 37 avg fitness = 0
+INFO:root:pop 38 total fitness = 156
+INFO:root:pop 38 avg fitness = 156
+INFO:root:pop 39 total fitness = 136
+INFO:root:pop 39 avg fitness = 136
+INFO:root:Starting generation: 15
+INFO:root:Seeds for generation: [2501858090]
+INFO:root:pop 0 at test 0 with seed 2501858090
+INFO:root:partial fitness = 292
+INFO:root:pop 1 at test 0 with seed 2501858090
+INFO:root:partial fitness = 359
+INFO:root:pop 2 at test 0 with seed 2501858090
+INFO:root:partial fitness = 329
+INFO:root:pop 3 at test 0 with seed 2501858090
+INFO:root:partial fitness = 327
+INFO:root:pop 4 at test 0 with seed 2501858090
+INFO:root:partial fitness = 318
+INFO:root:pop 5 at test 0 with seed 2501858090
+INFO:root:partial fitness = 40
+INFO:root:pop 6 at test 0 with seed 2501858090
+INFO:root:partial fitness = 18
+INFO:root:pop 7 at test 0 with seed 2501858090
+INFO:root:partial fitness = 38
+INFO:root:pop 8 at test 0 with seed 2501858090
+INFO:root:partial fitness = 86
+INFO:root:pop 9 at test 0 with seed 2501858090
+INFO:root:partial fitness = 1
+INFO:root:pop 10 at test 0 with seed 2501858090
+INFO:root:partial fitness = 181
+INFO:root:pop 11 at test 0 with seed 2501858090
+INFO:root:partial fitness = 37
+INFO:root:pop 12 at test 0 with seed 2501858090
+INFO:root:partial fitness = 47
+INFO:root:pop 13 at test 0 with seed 2501858090
+INFO:root:partial fitness = 68
+INFO:root:pop 14 at test 0 with seed 2501858090
+INFO:root:partial fitness = 130
+INFO:root:pop 15 at test 0 with seed 2501858090
+INFO:root:partial fitness = 156
+INFO:root:pop 16 at test 0 with seed 2501858090
+INFO:root:partial fitness = 160
+INFO:root:pop 17 at test 0 with seed 2501858090
+INFO:root:partial fitness = 219
+INFO:root:pop 18 at test 0 with seed 2501858090
+INFO:root:partial fitness = 103
+INFO:root:pop 19 at test 0 with seed 2501858090
+INFO:root:partial fitness = 110
+INFO:root:pop 20 at test 0 with seed 2501858090
+INFO:root:partial fitness = 186
+INFO:root:pop 21 at test 0 with seed 2501858090
+INFO:root:partial fitness = 52
+INFO:root:pop 22 at test 0 with seed 2501858090
+INFO:root:partial fitness = 83
+INFO:root:pop 23 at test 0 with seed 2501858090
+INFO:root:partial fitness = 29
+INFO:root:pop 24 at test 0 with seed 2501858090
+INFO:root:partial fitness = 128
+INFO:root:pop 25 at test 0 with seed 2501858090
+INFO:root:partial fitness = 0
+INFO:root:pop 26 at test 0 with seed 2501858090
+INFO:root:partial fitness = 177
+INFO:root:pop 27 at test 0 with seed 2501858090
+INFO:root:partial fitness = 209
+INFO:root:pop 28 at test 0 with seed 2501858090
+INFO:root:partial fitness = 94
+INFO:root:pop 29 at test 0 with seed 2501858090
+INFO:root:partial fitness = 167
+INFO:root:pop 30 at test 0 with seed 2501858090
+INFO:root:partial fitness = 4
+INFO:root:pop 31 at test 0 with seed 2501858090
+INFO:root:partial fitness = 201
+INFO:root:pop 32 at test 0 with seed 2501858090
+INFO:root:partial fitness = 309
+INFO:root:pop 33 at test 0 with seed 2501858090
+INFO:root:partial fitness = 184
+INFO:root:pop 34 at test 0 with seed 2501858090
+INFO:root:partial fitness = 222
+INFO:root:pop 35 at test 0 with seed 2501858090
+INFO:root:partial fitness = 177
+INFO:root:pop 36 at test 0 with seed 2501858090
+INFO:root:partial fitness = 63
+INFO:root:pop 37 at test 0 with seed 2501858090
+INFO:root:partial fitness = 157
+INFO:root:pop 38 at test 0 with seed 2501858090
+INFO:root:partial fitness = 3
+INFO:root:pop 39 at test 0 with seed 2501858090
+INFO:root:partial fitness = 107
+INFO:root:pop 0 total fitness = 292
+INFO:root:pop 0 avg fitness = 292
+INFO:root:pop 1 total fitness = 359
+INFO:root:pop 1 avg fitness = 359
+INFO:root:pop 2 total fitness = 329
+INFO:root:pop 2 avg fitness = 329
+INFO:root:pop 3 total fitness = 327
+INFO:root:pop 3 avg fitness = 327
+INFO:root:pop 4 total fitness = 318
+INFO:root:pop 4 avg fitness = 318
+INFO:root:pop 5 total fitness = 40
+INFO:root:pop 5 avg fitness = 40
+INFO:root:pop 6 total fitness = 18
+INFO:root:pop 6 avg fitness = 18
+INFO:root:pop 7 total fitness = 38
+INFO:root:pop 7 avg fitness = 38
+INFO:root:pop 8 total fitness = 86
+INFO:root:pop 8 avg fitness = 86
+INFO:root:pop 9 total fitness = 1
+INFO:root:pop 9 avg fitness = 1
+INFO:root:pop 10 total fitness = 181
+INFO:root:pop 10 avg fitness = 181
+INFO:root:pop 11 total fitness = 37
+INFO:root:pop 11 avg fitness = 37
+INFO:root:pop 12 total fitness = 47
+INFO:root:pop 12 avg fitness = 47
+INFO:root:pop 13 total fitness = 68
+INFO:root:pop 13 avg fitness = 68
+INFO:root:pop 14 total fitness = 130
+INFO:root:pop 14 avg fitness = 130
+INFO:root:pop 15 total fitness = 156
+INFO:root:pop 15 avg fitness = 156
+INFO:root:pop 16 total fitness = 160
+INFO:root:pop 16 avg fitness = 160
+INFO:root:pop 17 total fitness = 219
+INFO:root:pop 17 avg fitness = 219
+INFO:root:pop 18 total fitness = 103
+INFO:root:pop 18 avg fitness = 103
+INFO:root:pop 19 total fitness = 110
+INFO:root:pop 19 avg fitness = 110
+INFO:root:pop 20 total fitness = 186
+INFO:root:pop 20 avg fitness = 186
+INFO:root:pop 21 total fitness = 52
+INFO:root:pop 21 avg fitness = 52
+INFO:root:pop 22 total fitness = 83
+INFO:root:pop 22 avg fitness = 83
+INFO:root:pop 23 total fitness = 29
+INFO:root:pop 23 avg fitness = 29
+INFO:root:pop 24 total fitness = 128
+INFO:root:pop 24 avg fitness = 128
+INFO:root:pop 25 total fitness = 0
+INFO:root:pop 25 avg fitness = 0
+INFO:root:pop 26 total fitness = 177
+INFO:root:pop 26 avg fitness = 177
+INFO:root:pop 27 total fitness = 209
+INFO:root:pop 27 avg fitness = 209
+INFO:root:pop 28 total fitness = 94
+INFO:root:pop 28 avg fitness = 94
+INFO:root:pop 29 total fitness = 167
+INFO:root:pop 29 avg fitness = 167
+INFO:root:pop 30 total fitness = 4
+INFO:root:pop 30 avg fitness = 4
+INFO:root:pop 31 total fitness = 201
+INFO:root:pop 31 avg fitness = 201
+INFO:root:pop 32 total fitness = 309
+INFO:root:pop 32 avg fitness = 309
+INFO:root:pop 33 total fitness = 184
+INFO:root:pop 33 avg fitness = 184
+INFO:root:pop 34 total fitness = 222
+INFO:root:pop 34 avg fitness = 222
+INFO:root:pop 35 total fitness = 177
+INFO:root:pop 35 avg fitness = 177
+INFO:root:pop 36 total fitness = 63
+INFO:root:pop 36 avg fitness = 63
+INFO:root:pop 37 total fitness = 157
+INFO:root:pop 37 avg fitness = 157
+INFO:root:pop 38 total fitness = 3
+INFO:root:pop 38 avg fitness = 3
+INFO:root:pop 39 total fitness = 107
+INFO:root:pop 39 avg fitness = 107
+INFO:root:Starting generation: 16
+INFO:root:Seeds for generation: [2338275538]
+INFO:root:pop 0 at test 0 with seed 2338275538
+INFO:root:partial fitness = 287
+INFO:root:pop 1 at test 0 with seed 2338275538
+INFO:root:partial fitness = 229
+INFO:root:pop 2 at test 0 with seed 2338275538
+INFO:root:partial fitness = 185
+INFO:root:pop 3 at test 0 with seed 2338275538
+INFO:root:partial fitness = 232
+INFO:root:pop 4 at test 0 with seed 2338275538
+INFO:root:partial fitness = 200
+INFO:root:pop 5 at test 0 with seed 2338275538
+INFO:root:partial fitness = 63
+INFO:root:pop 6 at test 0 with seed 2338275538
+INFO:root:partial fitness = 180
+INFO:root:pop 7 at test 0 with seed 2338275538
+INFO:root:partial fitness = 159
+INFO:root:pop 8 at test 0 with seed 2338275538
+INFO:root:partial fitness = 197
+INFO:root:pop 9 at test 0 with seed 2338275538
+INFO:root:partial fitness = 124
+INFO:root:pop 10 at test 0 with seed 2338275538
+INFO:root:partial fitness = 71
+INFO:root:pop 11 at test 0 with seed 2338275538
+INFO:root:partial fitness = 157
+INFO:root:pop 12 at test 0 with seed 2338275538
+INFO:root:partial fitness = 264
+INFO:root:pop 13 at test 0 with seed 2338275538
+INFO:root:partial fitness = 166
+INFO:root:pop 14 at test 0 with seed 2338275538
+INFO:root:partial fitness = 169
+INFO:root:pop 15 at test 0 with seed 2338275538
+INFO:root:partial fitness = 97
+INFO:root:pop 16 at test 0 with seed 2338275538
+INFO:root:partial fitness = 143
+INFO:root:pop 17 at test 0 with seed 2338275538
+INFO:root:partial fitness = 37
+INFO:root:pop 18 at test 0 with seed 2338275538
+INFO:root:partial fitness = 171
+INFO:root:pop 19 at test 0 with seed 2338275538
+INFO:root:partial fitness = 204
+INFO:root:pop 20 at test 0 with seed 2338275538
+INFO:root:partial fitness = 172
+INFO:root:pop 21 at test 0 with seed 2338275538
+INFO:root:partial fitness = 197
+INFO:root:pop 22 at test 0 with seed 2338275538
+INFO:root:partial fitness = 175
+INFO:root:pop 23 at test 0 with seed 2338275538
+INFO:root:partial fitness = 174
+INFO:root:pop 24 at test 0 with seed 2338275538
+INFO:root:partial fitness = 244
+INFO:root:pop 25 at test 0 with seed 2338275538
+INFO:root:partial fitness = 241
+INFO:root:pop 26 at test 0 with seed 2338275538
+INFO:root:partial fitness = 0
+INFO:root:pop 27 at test 0 with seed 2338275538
+INFO:root:partial fitness = 227
+INFO:root:pop 28 at test 0 with seed 2338275538
+INFO:root:partial fitness = 71
+INFO:root:pop 29 at test 0 with seed 2338275538
+INFO:root:partial fitness = 205
+INFO:root:pop 30 at test 0 with seed 2338275538
+INFO:root:partial fitness = 120
+INFO:root:pop 31 at test 0 with seed 2338275538
+INFO:root:partial fitness = 158
+INFO:root:pop 32 at test 0 with seed 2338275538
+INFO:root:partial fitness = 228
+INFO:root:pop 33 at test 0 with seed 2338275538
+INFO:root:partial fitness = 240
+INFO:root:pop 34 at test 0 with seed 2338275538
+INFO:root:partial fitness = 0
+INFO:root:pop 35 at test 0 with seed 2338275538
+INFO:root:partial fitness = 177
+INFO:root:pop 36 at test 0 with seed 2338275538
+INFO:root:partial fitness = 72
+INFO:root:pop 37 at test 0 with seed 2338275538
+INFO:root:partial fitness = 37
+INFO:root:pop 38 at test 0 with seed 2338275538
+INFO:root:partial fitness = 168
+INFO:root:pop 39 at test 0 with seed 2338275538
+INFO:root:partial fitness = 212
+INFO:root:pop 0 total fitness = 287
+INFO:root:pop 0 avg fitness = 287
+INFO:root:pop 1 total fitness = 229
+INFO:root:pop 1 avg fitness = 229
+INFO:root:pop 2 total fitness = 185
+INFO:root:pop 2 avg fitness = 185
+INFO:root:pop 3 total fitness = 232
+INFO:root:pop 3 avg fitness = 232
+INFO:root:pop 4 total fitness = 200
+INFO:root:pop 4 avg fitness = 200
+INFO:root:pop 5 total fitness = 63
+INFO:root:pop 5 avg fitness = 63
+INFO:root:pop 6 total fitness = 180
+INFO:root:pop 6 avg fitness = 180
+INFO:root:pop 7 total fitness = 159
+INFO:root:pop 7 avg fitness = 159
+INFO:root:pop 8 total fitness = 197
+INFO:root:pop 8 avg fitness = 197
+INFO:root:pop 9 total fitness = 124
+INFO:root:pop 9 avg fitness = 124
+INFO:root:pop 10 total fitness = 71
+INFO:root:pop 10 avg fitness = 71
+INFO:root:pop 11 total fitness = 157
+INFO:root:pop 11 avg fitness = 157
+INFO:root:pop 12 total fitness = 264
+INFO:root:pop 12 avg fitness = 264
+INFO:root:pop 13 total fitness = 166
+INFO:root:pop 13 avg fitness = 166
+INFO:root:pop 14 total fitness = 169
+INFO:root:pop 14 avg fitness = 169
+INFO:root:pop 15 total fitness = 97
+INFO:root:pop 15 avg fitness = 97
+INFO:root:pop 16 total fitness = 143
+INFO:root:pop 16 avg fitness = 143
+INFO:root:pop 17 total fitness = 37
+INFO:root:pop 17 avg fitness = 37
+INFO:root:pop 18 total fitness = 171
+INFO:root:pop 18 avg fitness = 171
+INFO:root:pop 19 total fitness = 204
+INFO:root:pop 19 avg fitness = 204
+INFO:root:pop 20 total fitness = 172
+INFO:root:pop 20 avg fitness = 172
+INFO:root:pop 21 total fitness = 197
+INFO:root:pop 21 avg fitness = 197
+INFO:root:pop 22 total fitness = 175
+INFO:root:pop 22 avg fitness = 175
+INFO:root:pop 23 total fitness = 174
+INFO:root:pop 23 avg fitness = 174
+INFO:root:pop 24 total fitness = 244
+INFO:root:pop 24 avg fitness = 244
+INFO:root:pop 25 total fitness = 241
+INFO:root:pop 25 avg fitness = 241
+INFO:root:pop 26 total fitness = 0
+INFO:root:pop 26 avg fitness = 0
+INFO:root:pop 27 total fitness = 227
+INFO:root:pop 27 avg fitness = 227
+INFO:root:pop 28 total fitness = 71
+INFO:root:pop 28 avg fitness = 71
+INFO:root:pop 29 total fitness = 205
+INFO:root:pop 29 avg fitness = 205
+INFO:root:pop 30 total fitness = 120
+INFO:root:pop 30 avg fitness = 120
+INFO:root:pop 31 total fitness = 158
+INFO:root:pop 31 avg fitness = 158
+INFO:root:pop 32 total fitness = 228
+INFO:root:pop 32 avg fitness = 228
+INFO:root:pop 33 total fitness = 240
+INFO:root:pop 33 avg fitness = 240
+INFO:root:pop 34 total fitness = 0
+INFO:root:pop 34 avg fitness = 0
+INFO:root:pop 35 total fitness = 177
+INFO:root:pop 35 avg fitness = 177
+INFO:root:pop 36 total fitness = 72
+INFO:root:pop 36 avg fitness = 72
+INFO:root:pop 37 total fitness = 37
+INFO:root:pop 37 avg fitness = 37
+INFO:root:pop 38 total fitness = 168
+INFO:root:pop 38 avg fitness = 168
+INFO:root:pop 39 total fitness = 212
+INFO:root:pop 39 avg fitness = 212
+INFO:root:Starting generation: 17
+INFO:root:Seeds for generation: [1839629040]
+INFO:root:pop 0 at test 0 with seed 1839629040
+INFO:root:partial fitness = 223
+INFO:root:pop 1 at test 0 with seed 1839629040
+INFO:root:partial fitness = 167
+INFO:root:pop 2 at test 0 with seed 1839629040
+INFO:root:partial fitness = 270
+INFO:root:pop 3 at test 0 with seed 1839629040
+INFO:root:partial fitness = 237
+INFO:root:pop 4 at test 0 with seed 1839629040
+INFO:root:partial fitness = 194
+INFO:root:pop 5 at test 0 with seed 1839629040
+INFO:root:partial fitness = 13
+INFO:root:pop 6 at test 0 with seed 1839629040
+INFO:root:partial fitness = 164
+INFO:root:pop 7 at test 0 with seed 1839629040
+INFO:root:partial fitness = 154
+INFO:root:pop 8 at test 0 with seed 1839629040
+INFO:root:partial fitness = 163
+INFO:root:pop 9 at test 0 with seed 1839629040
+INFO:root:partial fitness = 64
+INFO:root:pop 10 at test 0 with seed 1839629040
+INFO:root:partial fitness = 143
+INFO:root:pop 11 at test 0 with seed 1839629040
+INFO:root:partial fitness = 209
+INFO:root:pop 12 at test 0 with seed 1839629040
+INFO:root:partial fitness = 204
+INFO:root:pop 13 at test 0 with seed 1839629040
+INFO:root:partial fitness = 31
+INFO:root:pop 14 at test 0 with seed 1839629040
+INFO:root:partial fitness = 17
+INFO:root:pop 15 at test 0 with seed 1839629040
+INFO:root:partial fitness = 130
+INFO:root:pop 16 at test 0 with seed 1839629040
+INFO:root:partial fitness = 135
+INFO:root:pop 17 at test 0 with seed 1839629040
+INFO:root:partial fitness = 181
+INFO:root:pop 18 at test 0 with seed 1839629040
+INFO:root:partial fitness = 138
+INFO:root:pop 19 at test 0 with seed 1839629040
+INFO:root:partial fitness = 178
+INFO:root:pop 20 at test 0 with seed 1839629040
+INFO:root:partial fitness = 188
+INFO:root:pop 21 at test 0 with seed 1839629040
+INFO:root:partial fitness = 135
+INFO:root:pop 22 at test 0 with seed 1839629040
+INFO:root:partial fitness = 191
+INFO:root:pop 23 at test 0 with seed 1839629040
+INFO:root:partial fitness = 161
+INFO:root:pop 24 at test 0 with seed 1839629040
+INFO:root:partial fitness = 36
+INFO:root:pop 25 at test 0 with seed 1839629040
+INFO:root:partial fitness = 58
+INFO:root:pop 26 at test 0 with seed 1839629040
+INFO:root:partial fitness = 92
+INFO:root:pop 27 at test 0 with seed 1839629040
+INFO:root:partial fitness = 130
+INFO:root:pop 28 at test 0 with seed 1839629040
+INFO:root:partial fitness = 151
+INFO:root:pop 29 at test 0 with seed 1839629040
+INFO:root:partial fitness = 36
+INFO:root:pop 30 at test 0 with seed 1839629040
+INFO:root:partial fitness = 12
+INFO:root:pop 31 at test 0 with seed 1839629040
+INFO:root:partial fitness = 174
+INFO:root:pop 32 at test 0 with seed 1839629040
+INFO:root:partial fitness = 118
+INFO:root:pop 33 at test 0 with seed 1839629040
+INFO:root:partial fitness = 267
+INFO:root:pop 34 at test 0 with seed 1839629040
+INFO:root:partial fitness = 142
+INFO:root:pop 35 at test 0 with seed 1839629040
+INFO:root:partial fitness = 143
+INFO:root:pop 36 at test 0 with seed 1839629040
+INFO:root:partial fitness = 171
+INFO:root:pop 37 at test 0 with seed 1839629040
+INFO:root:partial fitness = 168
+INFO:root:pop 38 at test 0 with seed 1839629040
+INFO:root:partial fitness = 155
+INFO:root:pop 39 at test 0 with seed 1839629040
+INFO:root:partial fitness = 14
+INFO:root:pop 0 total fitness = 223
+INFO:root:pop 0 avg fitness = 223
+INFO:root:pop 1 total fitness = 167
+INFO:root:pop 1 avg fitness = 167
+INFO:root:pop 2 total fitness = 270
+INFO:root:pop 2 avg fitness = 270
+INFO:root:pop 3 total fitness = 237
+INFO:root:pop 3 avg fitness = 237
+INFO:root:pop 4 total fitness = 194
+INFO:root:pop 4 avg fitness = 194
+INFO:root:pop 5 total fitness = 13
+INFO:root:pop 5 avg fitness = 13
+INFO:root:pop 6 total fitness = 164
+INFO:root:pop 6 avg fitness = 164
+INFO:root:pop 7 total fitness = 154
+INFO:root:pop 7 avg fitness = 154
+INFO:root:pop 8 total fitness = 163
+INFO:root:pop 8 avg fitness = 163
+INFO:root:pop 9 total fitness = 64
+INFO:root:pop 9 avg fitness = 64
+INFO:root:pop 10 total fitness = 143
+INFO:root:pop 10 avg fitness = 143
+INFO:root:pop 11 total fitness = 209
+INFO:root:pop 11 avg fitness = 209
+INFO:root:pop 12 total fitness = 204
+INFO:root:pop 12 avg fitness = 204
+INFO:root:pop 13 total fitness = 31
+INFO:root:pop 13 avg fitness = 31
+INFO:root:pop 14 total fitness = 17
+INFO:root:pop 14 avg fitness = 17
+INFO:root:pop 15 total fitness = 130
+INFO:root:pop 15 avg fitness = 130
+INFO:root:pop 16 total fitness = 135
+INFO:root:pop 16 avg fitness = 135
+INFO:root:pop 17 total fitness = 181
+INFO:root:pop 17 avg fitness = 181
+INFO:root:pop 18 total fitness = 138
+INFO:root:pop 18 avg fitness = 138
+INFO:root:pop 19 total fitness = 178
+INFO:root:pop 19 avg fitness = 178
+INFO:root:pop 20 total fitness = 188
+INFO:root:pop 20 avg fitness = 188
+INFO:root:pop 21 total fitness = 135
+INFO:root:pop 21 avg fitness = 135
+INFO:root:pop 22 total fitness = 191
+INFO:root:pop 22 avg fitness = 191
+INFO:root:pop 23 total fitness = 161
+INFO:root:pop 23 avg fitness = 161
+INFO:root:pop 24 total fitness = 36
+INFO:root:pop 24 avg fitness = 36
+INFO:root:pop 25 total fitness = 58
+INFO:root:pop 25 avg fitness = 58
+INFO:root:pop 26 total fitness = 92
+INFO:root:pop 26 avg fitness = 92
+INFO:root:pop 27 total fitness = 130
+INFO:root:pop 27 avg fitness = 130
+INFO:root:pop 28 total fitness = 151
+INFO:root:pop 28 avg fitness = 151
+INFO:root:pop 29 total fitness = 36
+INFO:root:pop 29 avg fitness = 36
+INFO:root:pop 30 total fitness = 12
+INFO:root:pop 30 avg fitness = 12
+INFO:root:pop 31 total fitness = 174
+INFO:root:pop 31 avg fitness = 174
+INFO:root:pop 32 total fitness = 118
+INFO:root:pop 32 avg fitness = 118
+INFO:root:pop 33 total fitness = 267
+INFO:root:pop 33 avg fitness = 267
+INFO:root:pop 34 total fitness = 142
+INFO:root:pop 34 avg fitness = 142
+INFO:root:pop 35 total fitness = 143
+INFO:root:pop 35 avg fitness = 143
+INFO:root:pop 36 total fitness = 171
+INFO:root:pop 36 avg fitness = 171
+INFO:root:pop 37 total fitness = 168
+INFO:root:pop 37 avg fitness = 168
+INFO:root:pop 38 total fitness = 155
+INFO:root:pop 38 avg fitness = 155
+INFO:root:pop 39 total fitness = 14
+INFO:root:pop 39 avg fitness = 14
+INFO:root:Starting generation: 18
+INFO:root:Seeds for generation: [3104088059]
+INFO:root:pop 0 at test 0 with seed 3104088059
+INFO:root:partial fitness = 241
+INFO:root:pop 1 at test 0 with seed 3104088059
+INFO:root:partial fitness = 182
+INFO:root:pop 2 at test 0 with seed 3104088059
+INFO:root:partial fitness = 248
+INFO:root:pop 3 at test 0 with seed 3104088059
+INFO:root:partial fitness = 255
+INFO:root:pop 4 at test 0 with seed 3104088059
+INFO:root:partial fitness = 196
+INFO:root:pop 5 at test 0 with seed 3104088059
+INFO:root:partial fitness = 194
+INFO:root:pop 6 at test 0 with seed 3104088059
+INFO:root:partial fitness = 174
+INFO:root:pop 7 at test 0 with seed 3104088059
+INFO:root:partial fitness = 162
+INFO:root:pop 8 at test 0 with seed 3104088059
+INFO:root:partial fitness = 39
+INFO:root:pop 9 at test 0 with seed 3104088059
+INFO:root:partial fitness = 226
+INFO:root:pop 10 at test 0 with seed 3104088059
+INFO:root:partial fitness = 153
+INFO:root:pop 11 at test 0 with seed 3104088059
+INFO:root:partial fitness = 234
+INFO:root:pop 12 at test 0 with seed 3104088059
+INFO:root:partial fitness = 0
+INFO:root:pop 13 at test 0 with seed 3104088059
+INFO:root:partial fitness = 194
+INFO:root:pop 14 at test 0 with seed 3104088059
+INFO:root:partial fitness = 205
+INFO:root:pop 15 at test 0 with seed 3104088059
+INFO:root:partial fitness = 189
+INFO:root:pop 16 at test 0 with seed 3104088059
+INFO:root:partial fitness = 162
+INFO:root:pop 17 at test 0 with seed 3104088059
+INFO:root:partial fitness = 28
+INFO:root:pop 18 at test 0 with seed 3104088059
+INFO:root:partial fitness = 174
+INFO:root:pop 19 at test 0 with seed 3104088059
+INFO:root:partial fitness = 131
+INFO:root:pop 20 at test 0 with seed 3104088059
+INFO:root:partial fitness = 32
+INFO:root:pop 21 at test 0 with seed 3104088059
+INFO:root:partial fitness = 139
+INFO:root:pop 22 at test 0 with seed 3104088059
+INFO:root:partial fitness = 151
+INFO:root:pop 23 at test 0 with seed 3104088059
+INFO:root:partial fitness = 172
+INFO:root:pop 24 at test 0 with seed 3104088059
+INFO:root:partial fitness = 103
+INFO:root:pop 25 at test 0 with seed 3104088059
+INFO:root:partial fitness = 208
+INFO:root:pop 26 at test 0 with seed 3104088059
+INFO:root:partial fitness = 204
+INFO:root:pop 27 at test 0 with seed 3104088059
+INFO:root:partial fitness = 169
+INFO:root:pop 28 at test 0 with seed 3104088059
+INFO:root:partial fitness = 187
+INFO:root:pop 29 at test 0 with seed 3104088059
+INFO:root:partial fitness = 154
+INFO:root:pop 30 at test 0 with seed 3104088059
+INFO:root:partial fitness = 186
+INFO:root:pop 31 at test 0 with seed 3104088059
+INFO:root:partial fitness = 155
+INFO:root:pop 32 at test 0 with seed 3104088059
+INFO:root:partial fitness = 78
+INFO:root:pop 33 at test 0 with seed 3104088059
+INFO:root:partial fitness = 238
+INFO:root:pop 34 at test 0 with seed 3104088059
+INFO:root:partial fitness = 167
+INFO:root:pop 35 at test 0 with seed 3104088059
+INFO:root:partial fitness = 46
+INFO:root:pop 36 at test 0 with seed 3104088059
+INFO:root:partial fitness = 141
+INFO:root:pop 37 at test 0 with seed 3104088059
+INFO:root:partial fitness = 197
+INFO:root:pop 38 at test 0 with seed 3104088059
+INFO:root:partial fitness = 144
+INFO:root:pop 39 at test 0 with seed 3104088059
+INFO:root:partial fitness = 121
+INFO:root:pop 0 total fitness = 241
+INFO:root:pop 0 avg fitness = 241
+INFO:root:pop 1 total fitness = 182
+INFO:root:pop 1 avg fitness = 182
+INFO:root:pop 2 total fitness = 248
+INFO:root:pop 2 avg fitness = 248
+INFO:root:pop 3 total fitness = 255
+INFO:root:pop 3 avg fitness = 255
+INFO:root:pop 4 total fitness = 196
+INFO:root:pop 4 avg fitness = 196
+INFO:root:pop 5 total fitness = 194
+INFO:root:pop 5 avg fitness = 194
+INFO:root:pop 6 total fitness = 174
+INFO:root:pop 6 avg fitness = 174
+INFO:root:pop 7 total fitness = 162
+INFO:root:pop 7 avg fitness = 162
+INFO:root:pop 8 total fitness = 39
+INFO:root:pop 8 avg fitness = 39
+INFO:root:pop 9 total fitness = 226
+INFO:root:pop 9 avg fitness = 226
+INFO:root:pop 10 total fitness = 153
+INFO:root:pop 10 avg fitness = 153
+INFO:root:pop 11 total fitness = 234
+INFO:root:pop 11 avg fitness = 234
+INFO:root:pop 12 total fitness = 0
+INFO:root:pop 12 avg fitness = 0
+INFO:root:pop 13 total fitness = 194
+INFO:root:pop 13 avg fitness = 194
+INFO:root:pop 14 total fitness = 205
+INFO:root:pop 14 avg fitness = 205
+INFO:root:pop 15 total fitness = 189
+INFO:root:pop 15 avg fitness = 189
+INFO:root:pop 16 total fitness = 162
+INFO:root:pop 16 avg fitness = 162
+INFO:root:pop 17 total fitness = 28
+INFO:root:pop 17 avg fitness = 28
+INFO:root:pop 18 total fitness = 174
+INFO:root:pop 18 avg fitness = 174
+INFO:root:pop 19 total fitness = 131
+INFO:root:pop 19 avg fitness = 131
+INFO:root:pop 20 total fitness = 32
+INFO:root:pop 20 avg fitness = 32
+INFO:root:pop 21 total fitness = 139
+INFO:root:pop 21 avg fitness = 139
+INFO:root:pop 22 total fitness = 151
+INFO:root:pop 22 avg fitness = 151
+INFO:root:pop 23 total fitness = 172
+INFO:root:pop 23 avg fitness = 172
+INFO:root:pop 24 total fitness = 103
+INFO:root:pop 24 avg fitness = 103
+INFO:root:pop 25 total fitness = 208
+INFO:root:pop 25 avg fitness = 208
+INFO:root:pop 26 total fitness = 204
+INFO:root:pop 26 avg fitness = 204
+INFO:root:pop 27 total fitness = 169
+INFO:root:pop 27 avg fitness = 169
+INFO:root:pop 28 total fitness = 187
+INFO:root:pop 28 avg fitness = 187
+INFO:root:pop 29 total fitness = 154
+INFO:root:pop 29 avg fitness = 154
+INFO:root:pop 30 total fitness = 186
+INFO:root:pop 30 avg fitness = 186
+INFO:root:pop 31 total fitness = 155
+INFO:root:pop 31 avg fitness = 155
+INFO:root:pop 32 total fitness = 78
+INFO:root:pop 32 avg fitness = 78
+INFO:root:pop 33 total fitness = 238
+INFO:root:pop 33 avg fitness = 238
+INFO:root:pop 34 total fitness = 167
+INFO:root:pop 34 avg fitness = 167
+INFO:root:pop 35 total fitness = 46
+INFO:root:pop 35 avg fitness = 46
+INFO:root:pop 36 total fitness = 141
+INFO:root:pop 36 avg fitness = 141
+INFO:root:pop 37 total fitness = 197
+INFO:root:pop 37 avg fitness = 197
+INFO:root:pop 38 total fitness = 144
+INFO:root:pop 38 avg fitness = 144
+INFO:root:pop 39 total fitness = 121
+INFO:root:pop 39 avg fitness = 121
+INFO:root:Starting generation: 19
+INFO:root:Seeds for generation: [1889383748]
+INFO:root:pop 0 at test 0 with seed 1889383748
+INFO:root:partial fitness = 289
+INFO:root:pop 1 at test 0 with seed 1889383748
+INFO:root:partial fitness = 286
+INFO:root:pop 2 at test 0 with seed 1889383748
+INFO:root:partial fitness = 294
+INFO:root:pop 3 at test 0 with seed 1889383748
+INFO:root:partial fitness = 268
+INFO:root:pop 4 at test 0 with seed 1889383748
+INFO:root:partial fitness = 265
+INFO:root:pop 5 at test 0 with seed 1889383748
+INFO:root:partial fitness = 149
+INFO:root:pop 6 at test 0 with seed 1889383748
+INFO:root:partial fitness = 0
+INFO:root:pop 7 at test 0 with seed 1889383748
+INFO:root:partial fitness = 163
+INFO:root:pop 8 at test 0 with seed 1889383748
+INFO:root:partial fitness = 149
+INFO:root:pop 9 at test 0 with seed 1889383748
+INFO:root:partial fitness = 174
+INFO:root:pop 10 at test 0 with seed 1889383748
+INFO:root:partial fitness = 143
+INFO:root:pop 11 at test 0 with seed 1889383748
+INFO:root:partial fitness = 179
+INFO:root:pop 12 at test 0 with seed 1889383748
+INFO:root:partial fitness = 80
+INFO:root:pop 13 at test 0 with seed 1889383748
+INFO:root:partial fitness = 140
+INFO:root:pop 14 at test 0 with seed 1889383748
+INFO:root:partial fitness = 158
+INFO:root:pop 15 at test 0 with seed 1889383748
+INFO:root:partial fitness = 48
+INFO:root:pop 16 at test 0 with seed 1889383748
+INFO:root:partial fitness = 73
+INFO:root:pop 17 at test 0 with seed 1889383748
+INFO:root:partial fitness = 227
+INFO:root:pop 18 at test 0 with seed 1889383748
+INFO:root:partial fitness = 90
+INFO:root:pop 19 at test 0 with seed 1889383748
+INFO:root:partial fitness = 176
+INFO:root:pop 20 at test 0 with seed 1889383748
+INFO:root:partial fitness = 299
+INFO:root:pop 21 at test 0 with seed 1889383748
+INFO:root:partial fitness = 11
+INFO:root:pop 22 at test 0 with seed 1889383748
+INFO:root:partial fitness = 111
+INFO:root:pop 23 at test 0 with seed 1889383748
+INFO:root:partial fitness = 129
+INFO:root:pop 24 at test 0 with seed 1889383748
+INFO:root:partial fitness = 188
+INFO:root:pop 25 at test 0 with seed 1889383748
+INFO:root:partial fitness = 21
+INFO:root:pop 26 at test 0 with seed 1889383748
+INFO:root:partial fitness = 152
+INFO:root:pop 27 at test 0 with seed 1889383748
+INFO:root:partial fitness = 184
+INFO:root:pop 28 at test 0 with seed 1889383748
+INFO:root:partial fitness = 194
+INFO:root:pop 29 at test 0 with seed 1889383748
+INFO:root:partial fitness = 288
+INFO:root:pop 30 at test 0 with seed 1889383748
+INFO:root:partial fitness = 27
+INFO:root:pop 31 at test 0 with seed 1889383748
+INFO:root:partial fitness = 217
+INFO:root:pop 32 at test 0 with seed 1889383748
+INFO:root:partial fitness = 164
+INFO:root:pop 33 at test 0 with seed 1889383748
+INFO:root:partial fitness = 131
+INFO:root:pop 34 at test 0 with seed 1889383748
+INFO:root:partial fitness = 149
+INFO:root:pop 35 at test 0 with seed 1889383748
+INFO:root:partial fitness = 135
+INFO:root:pop 36 at test 0 with seed 1889383748
+INFO:root:partial fitness = 146
+INFO:root:pop 37 at test 0 with seed 1889383748
+INFO:root:partial fitness = 151
+INFO:root:pop 38 at test 0 with seed 1889383748
+INFO:root:partial fitness = 167
+INFO:root:pop 39 at test 0 with seed 1889383748
+INFO:root:partial fitness = 155
+INFO:root:pop 0 total fitness = 289
+INFO:root:pop 0 avg fitness = 289
+INFO:root:pop 1 total fitness = 286
+INFO:root:pop 1 avg fitness = 286
+INFO:root:pop 2 total fitness = 294
+INFO:root:pop 2 avg fitness = 294
+INFO:root:pop 3 total fitness = 268
+INFO:root:pop 3 avg fitness = 268
+INFO:root:pop 4 total fitness = 265
+INFO:root:pop 4 avg fitness = 265
+INFO:root:pop 5 total fitness = 149
+INFO:root:pop 5 avg fitness = 149
+INFO:root:pop 6 total fitness = 0
+INFO:root:pop 6 avg fitness = 0
+INFO:root:pop 7 total fitness = 163
+INFO:root:pop 7 avg fitness = 163
+INFO:root:pop 8 total fitness = 149
+INFO:root:pop 8 avg fitness = 149
+INFO:root:pop 9 total fitness = 174
+INFO:root:pop 9 avg fitness = 174
+INFO:root:pop 10 total fitness = 143
+INFO:root:pop 10 avg fitness = 143
+INFO:root:pop 11 total fitness = 179
+INFO:root:pop 11 avg fitness = 179
+INFO:root:pop 12 total fitness = 80
+INFO:root:pop 12 avg fitness = 80
+INFO:root:pop 13 total fitness = 140
+INFO:root:pop 13 avg fitness = 140
+INFO:root:pop 14 total fitness = 158
+INFO:root:pop 14 avg fitness = 158
+INFO:root:pop 15 total fitness = 48
+INFO:root:pop 15 avg fitness = 48
+INFO:root:pop 16 total fitness = 73
+INFO:root:pop 16 avg fitness = 73
+INFO:root:pop 17 total fitness = 227
+INFO:root:pop 17 avg fitness = 227
+INFO:root:pop 18 total fitness = 90
+INFO:root:pop 18 avg fitness = 90
+INFO:root:pop 19 total fitness = 176
+INFO:root:pop 19 avg fitness = 176
+INFO:root:pop 20 total fitness = 299
+INFO:root:pop 20 avg fitness = 299
+INFO:root:pop 21 total fitness = 11
+INFO:root:pop 21 avg fitness = 11
+INFO:root:pop 22 total fitness = 111
+INFO:root:pop 22 avg fitness = 111
+INFO:root:pop 23 total fitness = 129
+INFO:root:pop 23 avg fitness = 129
+INFO:root:pop 24 total fitness = 188
+INFO:root:pop 24 avg fitness = 188
+INFO:root:pop 25 total fitness = 21
+INFO:root:pop 25 avg fitness = 21
+INFO:root:pop 26 total fitness = 152
+INFO:root:pop 26 avg fitness = 152
+INFO:root:pop 27 total fitness = 184
+INFO:root:pop 27 avg fitness = 184
+INFO:root:pop 28 total fitness = 194
+INFO:root:pop 28 avg fitness = 194
+INFO:root:pop 29 total fitness = 288
+INFO:root:pop 29 avg fitness = 288
+INFO:root:pop 30 total fitness = 27
+INFO:root:pop 30 avg fitness = 27
+INFO:root:pop 31 total fitness = 217
+INFO:root:pop 31 avg fitness = 217
+INFO:root:pop 32 total fitness = 164
+INFO:root:pop 32 avg fitness = 164
+INFO:root:pop 33 total fitness = 131
+INFO:root:pop 33 avg fitness = 131
+INFO:root:pop 34 total fitness = 149
+INFO:root:pop 34 avg fitness = 149
+INFO:root:pop 35 total fitness = 135
+INFO:root:pop 35 avg fitness = 135
+INFO:root:pop 36 total fitness = 146
+INFO:root:pop 36 avg fitness = 146
+INFO:root:pop 37 total fitness = 151
+INFO:root:pop 37 avg fitness = 151
+INFO:root:pop 38 total fitness = 167
+INFO:root:pop 38 avg fitness = 167
+INFO:root:pop 39 total fitness = 155
+INFO:root:pop 39 avg fitness = 155
+INFO:root:Starting generation: 20
+INFO:root:Seeds for generation: [304036786]
+INFO:root:pop 0 at test 0 with seed 304036786
+INFO:root:partial fitness = 313
+INFO:root:pop 1 at test 0 with seed 304036786
+INFO:root:partial fitness = 286
+INFO:root:pop 2 at test 0 with seed 304036786
+INFO:root:partial fitness = 291
+INFO:root:pop 3 at test 0 with seed 304036786
+INFO:root:partial fitness = 335
+INFO:root:pop 4 at test 0 with seed 304036786
+INFO:root:partial fitness = 326
+INFO:root:pop 5 at test 0 with seed 304036786
+INFO:root:partial fitness = 201
+INFO:root:pop 6 at test 0 with seed 304036786
+INFO:root:partial fitness = 178
+INFO:root:pop 7 at test 0 with seed 304036786
+INFO:root:partial fitness = 168
+INFO:root:pop 8 at test 0 with seed 304036786
+INFO:root:partial fitness = 125
+INFO:root:pop 9 at test 0 with seed 304036786
+INFO:root:partial fitness = 226
+INFO:root:pop 10 at test 0 with seed 304036786
+INFO:root:partial fitness = 179
+INFO:root:pop 11 at test 0 with seed 304036786
+INFO:root:partial fitness = 197
+INFO:root:pop 12 at test 0 with seed 304036786
+INFO:root:partial fitness = 175
+INFO:root:pop 13 at test 0 with seed 304036786
+INFO:root:partial fitness = 8
+INFO:root:pop 14 at test 0 with seed 304036786
+INFO:root:partial fitness = 142
+INFO:root:pop 15 at test 0 with seed 304036786
+INFO:root:partial fitness = 85
+INFO:root:pop 16 at test 0 with seed 304036786
+INFO:root:partial fitness = 73
+INFO:root:pop 17 at test 0 with seed 304036786
+INFO:root:partial fitness = 46
+INFO:root:pop 18 at test 0 with seed 304036786
+INFO:root:partial fitness = 1
+INFO:root:pop 19 at test 0 with seed 304036786
+INFO:root:partial fitness = 179
+INFO:root:pop 20 at test 0 with seed 304036786
+INFO:root:partial fitness = 157
+INFO:root:pop 21 at test 0 with seed 304036786
+INFO:root:partial fitness = 192
+INFO:root:pop 22 at test 0 with seed 304036786
+INFO:root:partial fitness = 2
+INFO:root:pop 23 at test 0 with seed 304036786
+INFO:root:partial fitness = 10
+INFO:root:pop 24 at test 0 with seed 304036786
+INFO:root:partial fitness = 60
+INFO:root:pop 25 at test 0 with seed 304036786
+INFO:root:partial fitness = 54
+INFO:root:pop 26 at test 0 with seed 304036786
+INFO:root:partial fitness = 205
+INFO:root:pop 27 at test 0 with seed 304036786
+INFO:root:partial fitness = 202
+INFO:root:pop 28 at test 0 with seed 304036786
+INFO:root:partial fitness = 7
+INFO:root:pop 29 at test 0 with seed 304036786
+INFO:root:partial fitness = 6
+INFO:root:pop 30 at test 0 with seed 304036786
+INFO:root:partial fitness = 122
+INFO:root:pop 31 at test 0 with seed 304036786
+INFO:root:partial fitness = 252
+INFO:root:pop 32 at test 0 with seed 304036786
+INFO:root:partial fitness = 194
+INFO:root:pop 33 at test 0 with seed 304036786
+INFO:root:partial fitness = 191
+INFO:root:pop 34 at test 0 with seed 304036786
+INFO:root:partial fitness = 211
+INFO:root:pop 35 at test 0 with seed 304036786
+INFO:root:partial fitness = 54
+INFO:root:pop 36 at test 0 with seed 304036786
+INFO:root:partial fitness = 86
+INFO:root:pop 37 at test 0 with seed 304036786
+INFO:root:partial fitness = 78
+INFO:root:pop 38 at test 0 with seed 304036786
+INFO:root:partial fitness = 175
+INFO:root:pop 39 at test 0 with seed 304036786
+INFO:root:partial fitness = 350
+INFO:root:pop 0 total fitness = 313
+INFO:root:pop 0 avg fitness = 313
+INFO:root:pop 1 total fitness = 286
+INFO:root:pop 1 avg fitness = 286
+INFO:root:pop 2 total fitness = 291
+INFO:root:pop 2 avg fitness = 291
+INFO:root:pop 3 total fitness = 335
+INFO:root:pop 3 avg fitness = 335
+INFO:root:pop 4 total fitness = 326
+INFO:root:pop 4 avg fitness = 326
+INFO:root:pop 5 total fitness = 201
+INFO:root:pop 5 avg fitness = 201
+INFO:root:pop 6 total fitness = 178
+INFO:root:pop 6 avg fitness = 178
+INFO:root:pop 7 total fitness = 168
+INFO:root:pop 7 avg fitness = 168
+INFO:root:pop 8 total fitness = 125
+INFO:root:pop 8 avg fitness = 125
+INFO:root:pop 9 total fitness = 226
+INFO:root:pop 9 avg fitness = 226
+INFO:root:pop 10 total fitness = 179
+INFO:root:pop 10 avg fitness = 179
+INFO:root:pop 11 total fitness = 197
+INFO:root:pop 11 avg fitness = 197
+INFO:root:pop 12 total fitness = 175
+INFO:root:pop 12 avg fitness = 175
+INFO:root:pop 13 total fitness = 8
+INFO:root:pop 13 avg fitness = 8
+INFO:root:pop 14 total fitness = 142
+INFO:root:pop 14 avg fitness = 142
+INFO:root:pop 15 total fitness = 85
+INFO:root:pop 15 avg fitness = 85
+INFO:root:pop 16 total fitness = 73
+INFO:root:pop 16 avg fitness = 73
+INFO:root:pop 17 total fitness = 46
+INFO:root:pop 17 avg fitness = 46
+INFO:root:pop 18 total fitness = 1
+INFO:root:pop 18 avg fitness = 1
+INFO:root:pop 19 total fitness = 179
+INFO:root:pop 19 avg fitness = 179
+INFO:root:pop 20 total fitness = 157
+INFO:root:pop 20 avg fitness = 157
+INFO:root:pop 21 total fitness = 192
+INFO:root:pop 21 avg fitness = 192
+INFO:root:pop 22 total fitness = 2
+INFO:root:pop 22 avg fitness = 2
+INFO:root:pop 23 total fitness = 10
+INFO:root:pop 23 avg fitness = 10
+INFO:root:pop 24 total fitness = 60
+INFO:root:pop 24 avg fitness = 60
+INFO:root:pop 25 total fitness = 54
+INFO:root:pop 25 avg fitness = 54
+INFO:root:pop 26 total fitness = 205
+INFO:root:pop 26 avg fitness = 205
+INFO:root:pop 27 total fitness = 202
+INFO:root:pop 27 avg fitness = 202
+INFO:root:pop 28 total fitness = 7
+INFO:root:pop 28 avg fitness = 7
+INFO:root:pop 29 total fitness = 6
+INFO:root:pop 29 avg fitness = 6
+INFO:root:pop 30 total fitness = 122
+INFO:root:pop 30 avg fitness = 122
+INFO:root:pop 31 total fitness = 252
+INFO:root:pop 31 avg fitness = 252
+INFO:root:pop 32 total fitness = 194
+INFO:root:pop 32 avg fitness = 194
+INFO:root:pop 33 total fitness = 191
+INFO:root:pop 33 avg fitness = 191
+INFO:root:pop 34 total fitness = 211
+INFO:root:pop 34 avg fitness = 211
+INFO:root:pop 35 total fitness = 54
+INFO:root:pop 35 avg fitness = 54
+INFO:root:pop 36 total fitness = 86
+INFO:root:pop 36 avg fitness = 86
+INFO:root:pop 37 total fitness = 78
+INFO:root:pop 37 avg fitness = 78
+INFO:root:pop 38 total fitness = 175
+INFO:root:pop 38 avg fitness = 175
+INFO:root:pop 39 total fitness = 350
+INFO:root:pop 39 avg fitness = 350

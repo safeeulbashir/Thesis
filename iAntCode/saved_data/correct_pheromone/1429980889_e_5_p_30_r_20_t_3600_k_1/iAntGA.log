@@ -1,0 +1,9 @@
+INFO:root:Starting generation: 0
+INFO:root:Seeds for generation: [2645235241]
+INFO:root:pop 0 at test 0 with seed 2645235241
+ERROR:root:Argos failed test
+INFO:root:pop 1 at test 0 with seed 2645235241
+ERROR:root:Argos failed test
+INFO:root:pop 2 at test 0 with seed 2645235241
+ERROR:root:Argos failed test
+INFO:root:pop 3 at test 0 with seed 2645235241
