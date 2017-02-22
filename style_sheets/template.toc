@@ -7,15 +7,19 @@
 \contentsline {chapter}{\numberline {2}Background Study}{2}
 \contentsline {section}{\numberline {2.1}Power Law}{3}
 \contentsline {section}{\numberline {2.2}CPFA}{4}
-\contentsline {chapter}{\numberline {3}Method}{5}
-\contentsline {section}{\numberline {3.1}Overview}{5}
-\contentsline {section}{\numberline {3.2}Conclusions}{5}
-\contentsline {chapter}{\numberline {4}Results}{6}
-\contentsline {section}{\numberline {4.1}Overview}{6}
-\contentsline {section}{\numberline {4.2}Conclusions}{6}
-\contentsline {chapter}{\numberline {5}Conclusion}{7}
-\contentsline {section}{\numberline {5.1}Overview}{7}
-\contentsline {section}{\numberline {5.2}Conclusions}{7}
-\contentsline {chapter}{\numberline {6}Appendicies}{8}
-\contentsline {section}{\numberline {6.1}Overview}{8}
-\contentsline {section}{\numberline {6.2}Conclusions}{8}
+\contentsline {section}{\numberline {2.3}Genetic Algorithm}{6}
+\contentsline {subsection}{\numberline {2.3.1}Selection}{7}
+\contentsline {subsection}{\numberline {2.3.2}Crossover}{7}
+\contentsline {subsection}{\numberline {2.3.3}Mutation}{7}
+\contentsline {chapter}{\numberline {3}Method}{10}
+\contentsline {section}{\numberline {3.1}Overview}{10}
+\contentsline {section}{\numberline {3.2}Conclusions}{10}
+\contentsline {chapter}{\numberline {4}Results}{11}
+\contentsline {section}{\numberline {4.1}Overview}{11}
+\contentsline {section}{\numberline {4.2}Conclusions}{11}
+\contentsline {chapter}{\numberline {5}Conclusion}{12}
+\contentsline {section}{\numberline {5.1}Overview}{12}
+\contentsline {section}{\numberline {5.2}Conclusions}{12}
+\contentsline {chapter}{\numberline {6}Appendicies}{13}
+\contentsline {section}{\numberline {6.1}Overview}{13}
+\contentsline {section}{\numberline {6.2}Conclusions}{13}
