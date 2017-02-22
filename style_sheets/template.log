@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.11.20)  21 FEB 2017 12:15
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.11.20)  21 FEB 2017 13:28
 entering extended mode
 **template.tex
 ("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\template.tex"
@@ -48,38 +48,105 @@ File: unm12.clo 1995/07/26 Standard UNM file (size option)-mod 09/17/01
 \belowcaptionskip=\skip50
 \bibindent=\dimen103
 )
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
 ("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\template.aux"
 
 ("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\Introduction.
 aux")
 ("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\Background.au
-x"))
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
- [1
+x") ("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\Method.au
+x"
+
+LaTeX Warning: Label `section:overview' multiply defined.
+
+) ("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\Results.aux
+"
+
+LaTeX Warning: Label `section:overview' multiply defined.
+
+)
+("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\Conclusion.au
+x"
+
+LaTeX Warning: Label `section:overview' multiply defined.
+
+)
+("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\Appendicies.a
+ux"
+
+LaTeX Warning: Label `section:overview' multiply defined.
+
+))
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count89
+\scratchdimen=\dimen106
+\scratchbox=\box27
+\nofMPsegments=\count90
+\nofMParguments=\count91
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count92
+\MPscratchDim=\dimen107
+\MPnumerator=\count93
+\makeMPintoPDFobject=\count94
+\everyMPtoPDFconversion=\toks17
+) [1
 
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 58.
+(Font)              <12> on input line 60.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 58.
+(Font)              <8> on input line 60.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 58.
+(Font)              <6> on input line 60.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 59.
+(Font)              <10.95> on input line 61.
  [3
 
 ] [4
@@ -87,24 +154,24 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ]
 ("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\template.toc"
-)
+[5
+
+
+])
 \tf@toc=\write3
- [5
-
-
-]
+ [6]
 ("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\template.lof"
 )
 \tf@lof=\write4
- [6
+ [7
 
 ]
 ("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\template.lot"
 )
 \tf@lot=\write5
- [7
+ [8
 
-] [8
+] [9
 
 ]
 ("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\Introduction.
@@ -118,26 +185,56 @@ Chapter 1.
 ("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\Background.te
 x"
 Chapter 2.
-) [2
+<../Images/DonutShape.png, id=43, 522.45187pt x 290.58563pt>
+File: ../Images/DonutShape.png Graphic file (type png)
 
+<use ../Images/DonutShape.png>
+Package pdftex.def Info: ../Images/DonutShape.png used on input line 6.
+(pdftex.def)             Requested size: 430.0pt x 239.16855pt.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-] [3
+ [2
+
 
 
 ]
-Appendix A.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <24.88> on input line 100.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <20.74> on input line 100.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 100.
-[4
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3 <C:/Users/safeeul/Google Drive/Thesis/FinalWritings/Images/DonutShape.png>]
+ [4]
+("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\Method.tex"
+Chapter 3.
+) [5
+
+
 
 ]
-Appendix B.
-[5
+("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\Results.tex"
+Chapter 4.
+) [6
+
+
+
+]
+("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\Conclusion.te
+x"
+Chapter 5.
+) [7
+
+
+
+]
+("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\Appendicies.t
+ex"
+Chapter 6.
+) [8
+
+
 
 ]
 ("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\template.aux"
@@ -145,28 +242,39 @@ Appendix B.
 ("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\Introduction.
 aux")
 ("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\Background.au
-x")) ) 
+x") ("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\Method.au
+x")
+("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\Results.aux")
+
+("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\Conclusion.au
+x")
+("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\Appendicies.a
+ux"))
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 371 strings out of 493921
- 5952 string characters out of 3144869
- 52553 words of memory out of 3000000
- 3711 multiletter control sequences out of 15000+200000
- 12835 words of font info for 44 fonts, out of 3000000 for 9000
+ 1300 strings out of 493921
+ 20131 string characters out of 3144869
+ 70044 words of memory out of 3000000
+ 4576 multiletter control sequences out of 15000+200000
+ 11342 words of font info for 39 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 24i,8n,24p,138b,197s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.
-pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb
-><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
-C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/
-Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Pro
-gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program F
-iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files
- (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (
-x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on template.pdf (13 pages, 123947 bytes).
+ 27i,8n,24p,1399b,246s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:
+/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program
+ Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files 
+(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files (x
+86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on template.pdf (17 pages, 142700 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
+ 98 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
