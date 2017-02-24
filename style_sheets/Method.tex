@@ -70,3 +70,22 @@ Detail of initial parameter settings of Genetic Algorithm for three different se
  \end{figure}
  For example, we have divided the whole time of the experiments into sliding windows. Where each sliding window represents the rate of collection of seeds for that time. The length of the sliding window is $60$ seconds for \textit{P. Rugosus}. And then we slided the window by $10$ seconds so that we can get the rate of collecting seeds by that window. So if the experiment is for $90$ minutes ($5400$ seconds), we kept the length of the sliding windows for $60$ seconds and slided it by $10$ seconds, we get total $540$ sets of data where we calculated their foraging rate for a particular pile. Once we have created the timeline for each experiment for a particular distribution of seeds we used Change point detection algorithm to detect the change in the rate of collection of seeds. Another method we have created the timeline is by taking into consideration the change in the rate of foraging. In this method for creating the timeline instead of foraging rate, we take into consideration the change in foraging rate.\\ 
  The length of the window and the sliding amount for the window is different for each species. We have systematically varied this two parameters to fine tune the change point detection algorithms. Values for each of the parameters will be discussed further in the result section. 
+ \begin{figure}[h]
+ 	\includegraphics[width=\textwidth]{ChangeInForagingRate.jpg}
+ 	\caption{An example of timeline and change in foraging rate. The change in foraging rate is calculated by measuring the difference between the timeline windows}
+ \end{figure}
+\section{\label{section:Change Point Detection Algorithm}Change Point Detection Algorithm}
+ The change point detection algorithm is divided into two parts. First part is the adding rate of collecting seeds to calculate the cumulative sum and detrend for smoothing. And the second part is applying the change point detection algorithm. We have used binary segmented cumulative sum method to determine the change points.
+ \subsection{\label{Calculating the Cumulative Sum}Calculating the Cumulative Sum}
+ The calculation of cumulative sum is basically adding the foraging rate in each window. The algorithm for how the cumulative sum is calculated is provided bellow.
+ \begin{algorithm}[H]
+ 	\begin{algorithmic}[1]
+ 		\State Sum=0
+ 		\For{i=1:Number of Sliding Window} 
+ 			\State Sum= Sum + window(i)
+ 			\State CumulativeSum(i)=Sum
+ 		\EndFor
+ 		\caption{Pseudo code for calculating cumulative sum.}
+ 		\label{Pseudo code for calculating cumulative sum.}
+ 	\end{algorithmic}
+ \end{algorithm}

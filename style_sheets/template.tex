@@ -12,6 +12,7 @@
 % \documentclass[fleqn]{unmeethesis}
 \usepackage{graphicx}
 \usepackage{caption}
+\usepackage[chapter]{algorithm}
 \usepackage{algorithm}
 \usepackage{algpseudocode}
 \usepackage{hyperref}
@@ -84,7 +85,8 @@
 \tableofcontents
 \listoffigures
 \listoftables
-
+\listofalgorithms
+\addtocontents{loa}{\def\string\figurename{Algorithm}}
 \begin{glossary}{Longest  string}
    \item[$a_{lm}$]
       Taylor series coefficients, where $l,m = \{0..2\}$

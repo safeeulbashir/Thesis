@@ -1,10 +1,11 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Distribution of Seeds in the field experiment for power law distribution with power rank 5. Red Pile indicates one large pile of 256 seeds. 4 purple piles represent 4 large piles of 64 seeds, Green color represents 16 piles of 16 seeds and blue seeds are 256 random seeds\relax }}{3}{figure.caption.5}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Distribution of Seeds in the field experiment for power law distribution with power rank 5. Red Pile indicates one large pile of 256 seeds. 4 purple piles represent 4 large piles of 64 seeds, Green color represents 16 piles of 16 seeds and blue seeds are 256 random seeds\relax }}{3}{figure.caption.6}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Steps of Change Point Analysis\relax }}{10}{figure.caption.7}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Example setup of a simulation environment for \textit {P. Rugosus} with total 1024 seeds. The setup showing three different types of piles. One large pile of $256$ seeds, Four piles of $64$ seeds and sixteen piles of $16$ seeds. $256$ random seeds are distributed uniformly inside the ring. \relax }}{12}{figure.caption.9}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces An example of a timeline for a distribution where numbers at the top represent the sliding window number. Values in the boxes are the rate of collection of seeds per window.\relax }}{16}{figure.caption.11}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Steps of Change Point Analysis\relax }}{10}{figure.caption.8}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Example setup of a simulation environment for \textit {P. Rugosus} with total 1024 seeds. The setup showing three different types of piles. One large pile of $256$ seeds, Four piles of $64$ seeds and sixteen piles of $16$ seeds. $256$ random seeds are distributed uniformly inside the ring. \relax }}{12}{figure.caption.10}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces An example of a timeline for a distribution where numbers at the top represent the sliding window number. Values in the boxes are the rate of collection of seeds per window.\relax }}{16}{figure.caption.12}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces An example of timeline and change in foraging rate. The change in foraging rate is calculated by measuring the difference between the timeline windows\relax }}{17}{figure.caption.13}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }

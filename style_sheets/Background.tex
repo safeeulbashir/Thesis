@@ -68,8 +68,9 @@ In Short, the GA Algorithm can be defined as bellow\\
 	 		\State Select elite population with the best fitness
 	 		\State Create a new population by crossover and mutation among the elite population
 	 		\State Evaluate fitness of the population
-		\caption{Genetic Algorithm at a glance.}
 		\EndWhile
+		\caption{Genetic Algorithm at a glance.}
+		\label{Genetic Algorithm at a glance.}
 	\end{algorithmic}
 \end{algorithm}
 Although GA is very effective in finding the solution in a large special domain, it has some drawbacks. If the length of the chromosome increases, the solution space may increase exponentially, which may increase the time to reach the solution domain. Also, GA mutation and crossover in an undesired region can produce useless genomes which can push the solution to some local maxima. Besides evaluating repeated genome in the same generation can increase the evaluation time. GA’s also can’t solve efficiently where the fitness function measure is a Boolean value. Evolving the GA fitness function in first come-first serve manner can increase the bottleneck of the problem.

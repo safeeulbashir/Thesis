@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.11.20)  23 FEB 2017 22:44
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.11.20)  24 FEB 2017 02:34
 entering extended mode
 **template.tex
 ("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\template.tex"
@@ -248,7 +248,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip54
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 23.
+Package hyperref Info: Option `colorlinks' set `true' on input line 24.
 
 ("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\template.aux"
 
@@ -274,20 +274,20 @@ ux"
 LaTeX Warning: Label `section:overview' multiply defined.
 
 ))
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count109
@@ -315,7 +315,7 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
 )
-Package hyperref Info: Link coloring ON on input line 26.
+Package hyperref Info: Link coloring ON on input line 27.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -325,9 +325,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count115
 )
-LaTeX Info: Redefining \ref on input line 26.
-LaTeX Info: Redefining \pageref on input line 26.
-LaTeX Info: Redefining \nameref on input line 26.
+LaTeX Info: Redefining \ref on input line 27.
+LaTeX Info: Redefining \pageref on input line 27.
+LaTeX Info: Redefining \nameref on input line 27.
 
 ("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\template.out"
 ) ("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\template.ou
@@ -340,13 +340,13 @@ t")
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 70.
+(Font)              <12> on input line 71.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 70.
+(Font)              <8> on input line 71.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 70.
+(Font)              <6> on input line 71.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 71.
+(Font)              <10.95> on input line 72.
  [3
 
 ] [4
@@ -371,7 +371,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@lot=\write6
  [8
 
-] [9
+]
+("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\template.loa"
+)
+\tf@loa=\write7
+ [9
+
+] [10
 
 ]
 ("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\Introduction.
@@ -385,7 +391,7 @@ Chapter 1.
 ("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\Background.te
 x"
 Chapter 2.
-<../Images/DonutShape.png, id=222, 522.45187pt x 290.58563pt>
+<../Images/DonutShape.png, id=245, 522.45187pt x 290.58563pt>
 File: ../Images/DonutShape.png Graphic file (type png)
 
 <use ../Images/DonutShape.png>
@@ -422,9 +428,9 @@ Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
  [6] [7]
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
-put line 71.
+put line 72.
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--74
+Underfull \hbox (badness 10000) in paragraph at lines 62--75
 
  []
 
@@ -437,14 +443,14 @@ Missing character: There is no ™ in font cmr12!
 ) [8] [9]
 ("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\Method.tex"
 Chapter 3.
-<../Images/ChangePoint.png, id=257, 591.20876pt x 270.00874pt>
+<../Images/ChangePoint.png, id=280, 591.20876pt x 270.00874pt>
 File: ../Images/ChangePoint.png Graphic file (type png)
 
 <use ../Images/ChangePoint.png>
 Package pdftex.def Info: ../Images/ChangePoint.png used on input line 3.
 (pdftex.def)             Requested size: 430.0pt x 196.38785pt.
 
-<../Images/ArGOS.jpg, id=259, 627.34375pt x 650.43pt>
+<../Images/ArGOS.jpg, id=282, 627.34375pt x 650.43pt>
 File: ../Images/ArGOS.jpg Graphic file (type jpg)
 
 <use ../Images/ArGOS.jpg>
@@ -505,17 +511,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--56
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [14]
-[15] <../Images/TimeLine.jpg, id=292, 649.42625pt x 168.63pt>
+[15] <../Images/TimeLine.jpg, id=315, 649.42625pt x 168.63pt>
 File: ../Images/TimeLine.jpg Graphic file (type jpg)
 
 <use ../Images/TimeLine.jpg>
 Package pdftex.def Info: ../Images/TimeLine.jpg used on input line 68.
 (pdftex.def)             Requested size: 430.0pt x 111.65636pt.
-) [16 <C:/Users/safeeul/Google Drive/Thesis/FinalWritings/Images/TimeLine.jpg>]
- [17]
+
+<../Images/ChangeInForagingRate.jpg, id=316, 659.46375pt x 375.4025pt>
+File: ../Images/ChangeInForagingRate.jpg Graphic file (type jpg)
+
+<use ../Images/ChangeInForagingRate.jpg>
+Package pdftex.def Info: ../Images/ChangeInForagingRate.jpg used on input line 
+74.
+(pdftex.def)             Requested size: 430.0pt x 244.78777pt.
+ [16 <C:/Users/safeeul/Google Drive/Thesis/FinalWritings/Images/TimeLine.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17 <C:/Users/safeeul/Google Drive/Thesis/FinalWritings/Images/ChangeInForagin
+gRate.jpg>]) [18]
 ("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\Results.tex"
 Chapter 4.
-) [18
+) [19
 
 
 
@@ -523,7 +540,7 @@ Chapter 4.
 ("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\Conclusion.te
 x"
 Chapter 5.
-) [19
+) [20
 
 
 
@@ -531,13 +548,13 @@ Chapter 5.
 ("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\Appendicies.t
 ex"
 Chapter 6.
-) [20
+) [21
 
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 108.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 108.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 110.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 110.
 
 ("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\template.aux"
 
@@ -552,15 +569,15 @@ x")
 x")
 ("C:\Users\safeeul\Google Drive\Thesis\FinalWritings\style_sheets\Appendicies.a
 ux"))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 108.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 108.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 110.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 110.
 Package rerunfilecheck Info: File `template.out' has not changed.
-(rerunfilecheck)             Checksum: E105AA9BEFB2047E358B841D6FB8AD55;1675.
+(rerunfilecheck)             Checksum: 990088E3939E3C55ED55A8CB226B832B;1840.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 108.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 110.
  )
 (\end occurred inside a group at level 3)
 
@@ -569,13 +586,13 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 108.
 ### simple group (level 1) entered at line 47 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 6891 strings out of 493921
- 108536 string characters out of 3144869
- 194231 words of memory out of 3000000
- 10017 multiletter control sequences out of 15000+200000
+ 6917 strings out of 493921
+ 109207 string characters out of 3144869
+ 195511 words of memory out of 3000000
+ 10032 multiletter control sequences out of 15000+200000
  11511 words of font info for 40 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 36i,11n,39p,1545b,586s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,11n,39p,1545b,623s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmbx8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
@@ -587,8 +604,8 @@ Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Pr
 ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Prog
 ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Progra
 m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on template.pdf (29 pages, 318536 bytes).
+Output written on template.pdf (31 pages, 362792 bytes).
 PDF statistics:
- 366 PDF objects out of 1000 (max. 8388607)
- 71 named destinations out of 1000 (max. 500000)
- 245 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 396 PDF objects out of 1000 (max. 8388607)
+ 78 named destinations out of 1000 (max. 500000)
+ 266 words of extra memory for PDF output out of 10000 (max. 10000000)
