@@ -12,9 +12,13 @@
 % \documentclass[fleqn]{unmeethesis}
 \usepackage{graphicx}
 \usepackage{caption}
+%\usepackage[linesnumbered,algoruled,boxed,lined]{algorithm2e}
 \usepackage[chapter]{algorithm}
+\usepackage{subcaption}
 \usepackage{algorithm}
 \usepackage{algpseudocode}
+\renewcommand{\algorithmicrequire}{\textbf{Input:}}
+\renewcommand{\algorithmicensure}{\textbf{Output:}}
 \usepackage{hyperref}
 \hypersetup{
 	colorlinks=true,

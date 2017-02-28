@@ -1,6 +1,6 @@
 \chapter{Method}
 \begin{figure}[h]
-	\includegraphics[width=\textwidth]{ChangePoint.png}
+	\includegraphics[width=\textwidth]{Method.png}
 	\caption{Steps of Change Point Analysis}
 \end{figure}
 \section{\label{section:Setting Simulation Environment}Setting Simulation Environment}
@@ -77,7 +77,12 @@ Detail of initial parameter settings of Genetic Algorithm for three different se
 \section{\label{section:Change Point Detection Algorithm}Change Point Detection Algorithm}
  The change point detection algorithm is divided into two parts. First part is the adding rate of collecting seeds to calculate the cumulative sum and detrend for smoothing. And the second part is applying the change point detection algorithm. We have used binary segmented cumulative sum method to determine the change points.
  \subsection{\label{Calculating the Cumulative Sum}Calculating the Cumulative Sum}
- The calculation of cumulative sum is basically adding the foraging rate in each window. The algorithm for how the cumulative sum is calculated is provided bellow.
+ The calculation of cumulative sum is basically adding the foraging rate in each window. The following figure and algorithm show how the cumulative sum is calculated.
+ \begin{figure}[h]
+ 	\includegraphics[width=\textwidth]{CumulativeSum.jpg}
+ 	\caption{This figure demonstrates how the cumulative sum is calculated from the timeline of foraging rate.}
+ \end{figure}
+
  \begin{algorithm}[H]
  	\begin{algorithmic}[1]
  		\State Sum=0
@@ -89,3 +94,76 @@ Detail of initial parameter settings of Genetic Algorithm for three different se
  		\label{Pseudo code for calculating cumulative sum.}
  	\end{algorithmic}
  \end{algorithm}
+ 
+ \subsection{\label{Detrending}Detrending}
+ In time series trend means a lazy and gradual change in properties over the whole interval of the event. It is sometimes implicitly defined as a long-term change in the mean. It can also be referred as a change in some statistical properties. Usually, periodic and seasonal components and abrupt fluctuations and other parts were studied separately. Modern analysis techniques frequently treat the series without such routine decomposition, it is still required to consider the trend separately. The removal of a trend in a statistical or mathematical operation of time series is called detrending. It is often applied to remove features which are obsolete or unimportant. In time series analysis, detrending is also used in preprocessing step to prepare data set for further analysis. There are several methods of detrending. Linear trends in mean can be truncated by subtracting a least-square-fit straight line. Different procedures are used for more complicated trend. For example, the cubic smoothing spline is commonly used in dendrochronology to fit and remove ring-width trend that might not be linear, or not even monotonically increasing or decreasing over time. It is important to understand the effect of detrending on spectral properties of time series before trying to remove the trend from the time series. Before applying the change point detection algorithm, we have applied detrending algorithm to remove the trend from the time series. We used linear detrending and constant detrending to observe the effect of detrending in our time series data. Linear detrending removes the linear trend from the data where constant detrending removes the mean from the data. Here is an example, which shows how linear and constant detrending affects the time series.
+ \begin{figure}[h]
+ 	\begin{subfigure}{\textwidth}
+ 		\centering
+ 		\includegraphics[width=\linewidth]{linearDetrending.jpg}
+ 		\caption{Linear Detrending}
+ 		\label{fig:Linear}
+ 	\end{subfigure}%
+ \\
+ 	\begin{subfigure}{\textwidth}
+ 		\centering
+ 		\includegraphics[width=\linewidth]{constantDetrending.jpg}
+ 		\caption{Constant Detrending}
+ 		\label{fig:Constant}
+ 	\end{subfigure}
+ 	\caption{An example of applying linear and constant detrending on the cumulative sum of a timeline from one simulated CPFA experiment.}
+ 	\label{fig:fig}
+ \end{figure}
+\section{\label{section:Binary-Segmented Cumulative Sum}Binary-Segmented Cumulative Sum}
+Binary Segmentation is one of the most established search method used for detecting the change point. This method extends any single change point method to multiple change points by iteratively repeating the method on different subsets of the sequence. 
+To perform binary segmentation, we ﬁrst apply the chosen single change point detection method to the entire data set, if no change point is found then we are done. If a change point is detected, call this τ, then the data is split into two segments, timeline$[1:t]$ and timeline$[t+1:n]$. We then apply the single change point method to the two segments and repeat iteratively. We stop when no more change points are detected. 
+\\Binary segmentation is a very fast algorithm with complexity $O(n\log n)$ to detect the changes. But the major disadvantage of its computational correctness is that it gives us only an approximation of changes. It is not guaranteed that the binary segmentation method will find us the optimum solution. Also due to iterative nature of this algorithm, it may not detect changes in small changes. Which is why to verify the how well this method is performing, we have verified the results with the simulated data. 
+The pseudo code for the binary segmentation algorithm is given in Algorithm $3.2$. 
+
+\begin{algorithm}[!h]
+	\begin{algorithmic}[1]
+		 \State \algorithmicrequire A set of data of the form ($value_1$,$value_2$,$value_3$...)\\
+		\qquad\quad\enspace A test statistic $\tau(.)$\\
+		\qquad\quad\enspace An estimator of the changepoint position $\tau(.)$\\
+		\qquad\quad\enspace A rejection threshold $\beta$
+		\State\textbf{Initialize:} Let $C=\phi$, and $S=[1:n]$
+		\While {$S\neq\phi$}
+			\State Choose an element of S
+			\State Denote this element as $[s,t]$
+			\If{$ \tau (ys:t)<\beta $}
+				\State remove$[s,t] from S$
+			\EndIf
+			\If {$\tau(ys:t)\geq\beta$}
+				\State remove$[s,t] from S$
+				\State calculate $ r=\tau(ys:t)+s-1 $, 
+				\State add r to C
+				\If {$r\neq s$}
+					\State add $[s,r]$ to $S$
+				\EndIf
+				\If {$r=t-1$}
+					\State $[r+1,t]$ to $S$
+				\EndIf
+			\EndIf
+		\EndWhile	
+		\caption{Pseudocode for Binary Segmented Mean Cumulative Sum}
+		\label{Pseudocode for Binary Segmented Mean Cumulative Sum}
+	\end{algorithmic}
+\end{algorithm}
+
+\section{\label{section:Verification of Change Points}Verification of Change Points}
+As we have simulated data, and we know when the pheromones and site fidelity are used in simulations we can certainly verify how efficient is our change points detection algorithms are. So to check how efficient is our algorithms to detect change points, we divided the detection of change points into 4 categories.
+\begin{itemize}
+	\item \textbf{Catagory A:} Change point detection within 10 seconds of pheromone laying events, 
+	\item \textbf{Catagory B:} Change point detections within 11-300 seconds of pheromone laying events, 
+	\item \textbf{Catagory C:} Change point detections after more than 300 seconds of pheromone laying events and 
+	\item \textbf{Catagory D:} Change point detected but no pheromone laying events has happened. 
+\end{itemize} 
+%So we have compared the results of four different methods based on this 4 categories using the data extracted from our simulation.
+\section{\label{section:Applying the Best method on Field Data}Applying the Best method on Field Data}
+We applied change point detection on 4 different types of the data set. This lead us to evaluate the performance of change point detection algorithm for four different methods.
+\begin{figure}[h]
+	\includegraphics[width=\textwidth]{ChangePoint.png}
+	\caption{Four Different Change point Detection Method}
+\end{figure}
+After validating four different methods that we have applied to simulation data. We select the best method for them based on the performance on four categories stated above. And apply the best method in our field data.   
+
