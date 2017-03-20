@@ -1,4 +1,4 @@
 \def \figurename {Algorithm}
-\contentsline {algorithm}{\numberline {2.1}{\ignorespaces Genetic Algorithm at a glance.\relax }}{12}{algorithm.2.1}
-\contentsline {algorithm}{\numberline {3.1}{\ignorespaces Pseudo code for calculating cumulative sum.\relax }}{22}{algorithm.3.1}
-\contentsline {algorithm}{\numberline {3.2}{\ignorespaces Pseudocode for Binary Segmented Mean Cumulative Sum\relax }}{25}{algorithm.3.2}
+\contentsline {algorithm}{\numberline {2.1}{\ignorespaces Genetic Algorithm at a glance.\relax }}{13}{algorithm.2.1}
+\contentsline {algorithm}{\numberline {3.1}{\ignorespaces Pseudo code for calculating cumulative sum.\relax }}{23}{algorithm.3.1}
+\contentsline {algorithm}{\numberline {3.2}{\ignorespaces Pseudocode for Binary Segmented Mean Cumulative Sum\relax }}{26}{algorithm.3.2}
