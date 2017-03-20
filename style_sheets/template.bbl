@@ -1,0 +1,126 @@
+\begin{thebibliography}{10}
+
+\bibitem{SocialInsect}
+Social insect.
+\newblock \url{https://www.britannica.com/animal/social-insect}.
+
+\bibitem{anderson2001individual}
+Carl Anderson and Daniel~W McShea.
+\newblock Individual versus social complexity, with particular reference to ant
+  colonies.
+\newblock {\em Biological reviews}, 76(2):211--237, 2001.
+
+\bibitem{beshers2001models}
+Samuel~N Beshers and Jennifer~H Fewell.
+\newblock Models of division of labor in social insects.
+\newblock {\em Annual review of entomology}, 46(1):413--440, 2001.
+
+\bibitem{bonabeau2000inspiration}
+Eric Bonabeau, Marco Dorigo, and Guy Theraulaz.
+\newblock Inspiration for optimization from social insect behaviour.
+\newblock {\em Nature}, 406(6791):39--42, 2000.
+
+\bibitem{collett2010desert}
+Matthew Collett.
+\newblock How desert ants use a visual landmark for guidance along a habitual
+  route.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  107(25):11638--11643, 2010.
+
+\bibitem{dorigo1997ant}
+Marco Dorigo and Luca~Maria Gambardella.
+\newblock Ant colony system: a cooperative learning approach to the traveling
+  salesman problem.
+\newblock {\em IEEE Transactions on evolutionary computation}, 1(1):53--66,
+  1997.
+
+\bibitem{flanagan2012quantifying}
+Tatiana~P Flanagan, Kenneth Letendre, William~R Burnside, G~Matthew Fricke, and
+  Melanie~E Moses.
+\newblock Quantifying the effect of colony size and food distribution on
+  harvester ant foraging.
+\newblock {\em PloS one}, 7(7):e39427, 2012.
+
+\bibitem{fryzlewicz2014wild}
+Piotr Fryzlewicz et~al.
+\newblock Wild binary segmentation for multiple change-point detection.
+\newblock {\em The Annals of Statistics}, 42(6):2243--2281, 2014.
+
+\bibitem{gordon1996founding}
+Deborah~M Gordon and Alan~W Kulig.
+\newblock Founding, foraging, and fighting: colony size and the spatial
+  distribution of harvester ant nests.
+\newblock {\em Ecology}, 77(8):2393--2409, 1996.
+
+\bibitem{he2011ant}
+Dongxiao He, Jie Liu, Dayou Liu, Di~Jin, and Zhengxue Jia.
+\newblock Ant colony optimization for community detection in large-scale
+  complex networks.
+\newblock In {\em Natural Computation (ICNC), 2011 Seventh International
+  Conference on}, volume~2, pages 1151--1155. IEEE, 2011.
+
+\bibitem{hecker2015beyond}
+Joshua~P Hecker and Melanie~E Moses.
+\newblock Beyond pheromones: evolving error-tolerant, flexible, and scalable
+  ant-inspired robot swarms.
+\newblock {\em Swarm Intelligence}, 9(1):43--70, 2015.
+
+\bibitem{hobbs1985harvester}
+Richard~J Hobbs.
+\newblock Harvester ant foraging and plant species distribution in annual
+  grassland.
+\newblock {\em Oecologia}, 67(4):519--523, 1985.
+
+\bibitem{jackson2006communication}
+Duncan~E Jackson and Francis~LW Ratnieks.
+\newblock Communication in ants.
+\newblock {\em Current biology}, 16(15):R570--R574, 2006.
+
+\bibitem{kukulski2000normal}
+Tomasz Kukulski, Laila H{\"u}bbert, Martina Arnold, Bengt Wranne, Liv Hatle,
+  and George~R Sutherland.
+\newblock Normal regional right ventricular function and its change with age: a
+  doppler myocardial imaging study.
+\newblock {\em Journal of the American Society of Echocardiography},
+  13(3):194--204, 2000.
+
+\bibitem{narzt2010self}
+W~Narzt, U~Wilflingseder, G~Pomberger, D~Kolb, and H~H{\"o}rtner.
+\newblock Self-organising congestion evasion strategies using ant-based
+  pheromones.
+\newblock {\em IET Intelligent Transport Systems}, 4(1):93--102, 2010.
+
+\bibitem{scott1974cluster}
+ANDREW~JHON Scott and M~Knott.
+\newblock A cluster analysis method for grouping means in the analysis of
+  variance.
+\newblock {\em Biometrics}, pages 507--512, 1974.
+
+\bibitem{tarasewich2002swarm}
+Peter Tarasewich and Patrick~R McMullen.
+\newblock Swarm intelligence: power in numbers.
+\newblock {\em Communications of the ACM}, 45(8):62--67, 2002.
+
+\bibitem{traniello1989foraging}
+James~FA Traniello.
+\newblock Foraging strategies of ants.
+\newblock {\em Annual review of entomology}, 34(1):191--210, 1989.
+
+\bibitem{whitford1978foraging}
+Walter~G Whitford.
+\newblock Foraging in seed-harvester ants progonomyrmex spp.
+\newblock {\em Ecology}, 59(1):185--189, 1978.
+
+\bibitem{whitford1975factors}
+Walter~G Whitford and George Ettershank.
+\newblock Factors affecting foraging activity in chihuahuan desert harvester
+  ants.
+\newblock {\em Environmental Entomology}, 4(5):689--696, 1975.
+
+\bibitem{wilson2005eusociality}
+Edward~O Wilson and Bert H{\"o}lldobler.
+\newblock Eusociality: origin and consequences.
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 102(38):13367--13371, 2005.
+
+\end{thebibliography}

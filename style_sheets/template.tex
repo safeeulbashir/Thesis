@@ -12,6 +12,10 @@
 % \documentclass[fleqn]{unmeethesis}
 \usepackage{graphicx}
 \usepackage{caption}
+\usepackage{lscape}
+\usepackage{rotating}
+\usepackage{multirow}
+\usepackage{textcomp}
 %\usepackage[linesnumbered,algoruled,boxed,lined]{algorithm2e}
 \usepackage[chapter]{algorithm}
 \usepackage{subcaption}
@@ -39,21 +43,19 @@
 % \setlength{\parskip}{0.30cm}
 
 
-\title{An Awesome Thesis That Will Prove \\ to the Universe
-       That I Really Deserve This Honorable Degree}
+\title{Detection of Pheromone Laying Event in Foraging Data of Harvester Ants Using Change Point Analysis Method}
 
-\author{Albert Richard Einstein, III}
+\author{Safeeul Bashir Safee}
 
-\degreesubject{M.S., Mathematics}
+\degreesubject{M.S., Computer Science}
 
-\degree{Master of Science \\ Mathematics}
+\degree{Master of Science \\ Computer Science}
 
 \documenttype{Thesis}
 
-\previousdegrees{A.A.S., University of Southern Swampland, 1988 \\
-                 M.S., Art Therapy, University of New Mexico, 1991}
+\previousdegrees{B.Sc., Chittagong University of Engineering \& Technology, 2011}
 
-\date{December, \thisyear}
+\date{May, \thisyear}
 
 \maketitle
 
@@ -61,28 +63,22 @@
 %Copyright page is no longer necessary D. Murrell
 
 \begin{dedication}
-   To my parents, Albert II and Gladys, for their support,
+   To my parents and my elder brother for their support,
    encouragement and the Corvette they're giving me for graduation. \\[3ex]
-   ``A bird in hand is worth two in the bush''
-         -- Anonymous
 \end{dedication}
 
 \begin{acknowledgments}
    \vspace{1.1in}
-   I would like to thank my advisor, Professor Martin Sheen, for his support
-   and some great action movies.  I would also like to thank my dog, Spot,
-   who only ate my homework two or three times.  I have several other people
-   I would like to thank, as well.\footnote{To my brother and sister, who
-   are really cool.}
+  I would like to thank my thesis supervisor Professor Dr. Melanie E. Moses, for her enormous support for selecting the topic to study. Without her guidance, it would have been a tough journey for me in this field. I would also like to thank Dr. Tatiana P. Flanagan for her initial guidance to me for this topic. My heart full of gratitude to Professor Dr. Abdullah Mueen for his guidance towards my degree. 
+  I am thankful to all the members of Moses Biological Computation Lab for their suggestions towards my research. 
 \end{acknowledgments}
 
 \maketitleabstract %(required even though there's no abstract title anymore)
 
 \begin{abstract}
-   The theory of relativity is a real ``toughie'' to prove, but with the
-   help of my family and my great grandpa Al, this paper presents the
-   proof in its entirety.  Most of the math is correct, and the
-   part about ``warp speed'' and ``parallel universe'' sounds very high-tech.
+ Communication is an important factor in the foraging performance of
+ social insects, like ants. During foraging, ants keep track of the food
+ sources by using memory (site fidelity) or communicating it through pheromones. Previous field experiments showed that the rate of seed collection depends on the distribution of food in the environment. If food is spatially clustered, then ants recruit nest mates to collect from large clusters. However, we don't know when the recruitment occur. To explore this question, we analyzed foraging rates on different sizes of piles in the simulation.  Using a power law distribution to arrange seeds in piles of different sizes, we observed that for significantly large piles of seeds, the ants take more time to discover a pile, but once discovered, seeds are collected at an increased rate from that pile. We also observed that ants may repeatedly lose track of found piles and then re-find them. Using change point analysis on seed intake time series, we were able to trace the discovery of piles by detecting changes in the foraging rate.  We use simulations to determine how to correlate change points with recruitment events, and then use that relationship to infer when recruitment occurs in field data.
 \clearpage %(required for 1-page abstract)
 \end{abstract}
 
@@ -91,15 +87,6 @@
 \listoftables
 \listofalgorithms
 \addtocontents{loa}{\def\string\figurename{Algorithm}}
-\begin{glossary}{Longest  string}
-   \item[$a_{lm}$]
-      Taylor series coefficients, where $l,m = \{0..2\}$
-   \item[$A_{\bf{p}}$]
-      Complex-valued scalar denoting the amplitude and phase.
-   \item[$A^T$]
-      Transpose of some relativity matrix.
-\end{glossary}
-
 \mainmatter
 \include{Introduction}
 \include{Background}
@@ -108,7 +95,7 @@
 \include{Conclusion}
 \include{Appendicies}
 
-%\bibliographystyle{AMS}
-%\bibliography{bibfile_name}
+\bibliographystyle{plain}
+\bibliography{bibfile_name}
 
 \end{document}
