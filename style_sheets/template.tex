@@ -10,6 +10,7 @@
                  % OR
 % Use the following specification for TOP page numbering:
 % \documentclass[fleqn]{unmeethesis}
+\usepackage[final]{pdfpages}
 \usepackage{graphicx}
 \usepackage{caption}
 \usepackage{lscape}
@@ -42,7 +43,7 @@
 
 % \setlength{\parskip}{0.30cm}
 
-
+\includepdf{ThesisApprovalSafeeulBashirSafee.pdf}
 \title{Detection of Pheromone Laying Event in Foraging Data of Harvester Ants Using Change Point Analysis Method}
 
 \author{Safeeul Bashir Safee}
@@ -69,7 +70,7 @@
 
 \begin{acknowledgments}
    \vspace{1.1in}
-  I would like to thank my thesis supervisor Professor Dr. Melanie E. Moses, for her enormous support for selecting the topic to study. Without her guidance, it would have been a tough journey for me in this field. I would also like to thank Dr. Tatiana P. Flanagan for her initial guidance to me for this topic. My heart full of gratitude to Professor Dr. Abdullah Mueen for his guidance towards my degree. 
+  I would like to thank my thesis supervisor Professor Dr. Melanie E. Moses, for her enormous support for selecting the topic to study. Without her guidance, it would have been a tough journey for me in this field. I also would like to thank Dr. Tatiana P. Flanagan for her initial guidance for this topic. My heart full of gratitude to Professor Dr. Abdullah Mueen for his guidance towards my degree. 
   I am thankful to all the members of Moses Biological Computation Lab for their suggestions towards my research. 
 \end{acknowledgments}
 
@@ -77,8 +78,8 @@
 
 \begin{abstract}
  Communication is an important factor in the foraging performance of
- social insects, like ants. During foraging, ants keep track of the food
- sources by using memory (site fidelity) or communicating it through pheromones. Previous field experiments showed that the rate of seed collection depends on the distribution of food in the environment. If food is spatially clustered, then ants recruit nest mates to collect from large clusters. However, we don't know when the recruitment occur. To explore this question, we analyzed foraging rates on different sizes of piles in the simulation.  Using a power law distribution to arrange seeds in piles of different sizes, we observed that for significantly large piles of seeds, the ants take more time to discover a pile, but once discovered, seeds are collected at an increased rate from that pile. We also observed that ants may repeatedly lose track of found piles and then re-find them. Using change point analysis on seed intake time series, we were able to trace the discovery of piles by detecting changes in the foraging rate.  We use simulations to determine how to correlate change points with recruitment events, and then use that relationship to infer when recruitment occurs in field data.
+ social insects, such as ants. During foraging, ants keep track of the food
+ sources by using memory (site fidelity) or by communicating it through pheromones. Previous field experiments showed that the rate of seed collection depends on the distribution of food in the environment. If food is spatially clustered, then ants recruit nest mates to collect seeds from large clusters. However, we do not know when the recruitment occurs. To explore this question, we analyzed foraging rates on different sizes of piles in the simulation.  Using a power law distribution to arrange seeds in piles of different sizes, we observed that for significantly large piles of seeds, the ants take more time to discover a pile, but once discovered, seeds are collected at an increased rate from that pile. We also observed that ants may repeatedly lose track of found piles and then re-find them. Using change point analysis on seed intake time series, we were able to trace the discovery of piles by detecting changes in the foraging rate.  We use simulations to determine how to correlate change points with recruitment events, and then use that relationship to infer the recruitment event in in field data.
 \clearpage %(required for 1-page abstract)
 \end{abstract}
 \tableofcontents
