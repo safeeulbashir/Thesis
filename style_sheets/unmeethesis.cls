@@ -492,7 +492,7 @@
     \setcounter{page}{1}%
   \else
     \setcounter{page}{1}%
-    %\setcounter{page}{2}%
+    \setcounter{page}{2}%
     %Rolled back counter from 2 to 1 to correct a page error D. Murrell
   \fi
   \null\vfil%

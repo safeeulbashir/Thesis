@@ -41,16 +41,17 @@ Tatiana~P Flanagan, Kenneth Letendre, William~R Burnside, G~Matthew Fricke, and
   harvester ant foraging.
 \newblock {\em PloS one}, 7(7):e39427, 2012.
 
+\bibitem{flanagan2011ants}
+Tatiana~Paz Flanagan, Kenneth Letendre, William Burnside, G~Matthew Fricke, and
+  Melanie Moses.
+\newblock How ants turn information into food.
+\newblock In {\em Artificial Life (ALIFE), 2011 IEEE Symposium on}, pages
+  178--185. IEEE, 2011.
+
 \bibitem{fryzlewicz2014wild}
 Piotr Fryzlewicz et~al.
 \newblock Wild binary segmentation for multiple change-point detection.
 \newblock {\em The Annals of Statistics}, 42(6):2243--2281, 2014.
-
-\bibitem{gordon1996founding}
-Deborah~M Gordon and Alan~W Kulig.
-\newblock Founding, foraging, and fighting: colony size and the spatial
-  distribution of harvester ant nests.
-\newblock {\em Ecology}, 77(8):2393--2409, 1996.
 
 \bibitem{he2011ant}
 Dongxiao He, Jie Liu, Dayou Liu, Di~Jin, and Zhengxue Jia.
@@ -83,6 +84,13 @@ Tomasz Kukulski, Laila H{\"u}bbert, Martina Arnold, Bengt Wranne, Liv Hatle,
   doppler myocardial imaging study.
 \newblock {\em Journal of the American Society of Echocardiography},
   13(3):194--204, 2000.
+
+\bibitem{letendre2013synergy}
+Kenneth Letendre and Melanie~E Moses.
+\newblock Synergy in ant foraging strategies: memory and communication alone
+  and in combination.
+\newblock In {\em Proceedings of the 15th annual conference on Genetic and
+  evolutionary computation}, pages 41--48. ACM, 2013.
 
 \bibitem{narzt2010self}
 W~Narzt, U~Wilflingseder, G~Pomberger, D~Kolb, and H~H{\"o}rtner.

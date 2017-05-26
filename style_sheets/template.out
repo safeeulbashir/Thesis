@@ -3,30 +3,25 @@
 \BOOKMARK [0][-]{chapter*.5}{Glossary}{}% 3
 \BOOKMARK [0][-]{chapter.1}{Introduction}{}% 4
 \BOOKMARK [1][-]{section.1.1}{Contribution and Organization}{chapter.1}% 5
-\BOOKMARK [0][-]{chapter.2}{Background Study}{}% 6
+\BOOKMARK [0][-]{chapter.2}{Background}{}% 6
 \BOOKMARK [1][-]{section.2.1}{Power Law}{chapter.2}% 7
-\BOOKMARK [1][-]{section.2.2}{Field Observation}{chapter.2}% 8
-\BOOKMARK [1][-]{section.2.3}{CPFA}{chapter.2}% 9
-\BOOKMARK [1][-]{section.2.4}{Genetic Algorithm}{chapter.2}% 10
-\BOOKMARK [2][-]{subsection.2.4.1}{Selection}{section.2.4}% 11
-\BOOKMARK [2][-]{subsection.2.4.2}{Crossover}{section.2.4}% 12
-\BOOKMARK [2][-]{subsection.2.4.3}{Mutation}{section.2.4}% 13
-\BOOKMARK [0][-]{chapter.3}{Method}{}% 14
-\BOOKMARK [1][-]{section.3.1}{Setting Simulation Environment}{chapter.3}% 15
-\BOOKMARK [1][-]{section.3.2}{Tuning Parameters using Genetic Algorithm}{chapter.3}% 16
-\BOOKMARK [1][-]{section.3.3}{Generating Data Set for Analysis}{chapter.3}% 17
-\BOOKMARK [1][-]{section.3.4}{Analyzing The Foraging Data}{chapter.3}% 18
-\BOOKMARK [2][-]{subsection.3.4.1}{Creating Timeline for each type of distribution}{section.3.4}% 19
-\BOOKMARK [1][-]{section.3.5}{Change Point Detection Algorithm}{chapter.3}% 20
-\BOOKMARK [2][-]{subsection.3.5.1}{Calculating the Cumulative Sum}{section.3.5}% 21
-\BOOKMARK [2][-]{subsection.3.5.2}{Detrending}{section.3.5}% 22
-\BOOKMARK [2][-]{subsection.3.5.3}{Binary-Segmented Cumulative Sum}{section.3.5}% 23
-\BOOKMARK [1][-]{section.3.6}{Verification of Change Points}{chapter.3}% 24
-\BOOKMARK [1][-]{section.3.7}{Applying the best method on Field Data}{chapter.3}% 25
-\BOOKMARK [0][-]{chapter.4}{Results}{}% 26
-\BOOKMARK [1][-]{section.4.1}{Parameter setup for Change Point Detection Methods}{chapter.4}% 27
-\BOOKMARK [1][-]{section.4.2}{Results from Simulation}{chapter.4}% 28
-\BOOKMARK [1][-]{section.4.3}{Results from Field Data}{chapter.4}% 29
-\BOOKMARK [0][-]{chapter.5}{Conclusion}{}% 30
-\BOOKMARK [0][-]{chapter.6}{Appendicies}{}% 31
-\BOOKMARK [0][-]{chapter*.68}{References}{}% 32
+\BOOKMARK [1][-]{section.2.2}{CPFA}{chapter.2}% 8
+\BOOKMARK [1][-]{section.2.3}{Genetic Algorithm}{chapter.2}% 9
+\BOOKMARK [0][-]{chapter.3}{Method}{}% 10
+\BOOKMARK [1][-]{section.3.1}{Setting Simulation Environment}{chapter.3}% 11
+\BOOKMARK [1][-]{section.3.2}{Tuning Parameters using Genetic Algorithm}{chapter.3}% 12
+\BOOKMARK [1][-]{section.3.3}{Generating Data Set for Analysis}{chapter.3}% 13
+\BOOKMARK [1][-]{section.3.4}{Analyzing The Foraging Data}{chapter.3}% 14
+\BOOKMARK [2][-]{subsection.3.4.1}{Creating Timeline for each type of distribution}{section.3.4}% 15
+\BOOKMARK [1][-]{section.3.5}{Change Point Detection Algorithm}{chapter.3}% 16
+\BOOKMARK [2][-]{subsection.3.5.1}{Calculating the Cumulative Sum}{section.3.5}% 17
+\BOOKMARK [2][-]{subsection.3.5.2}{Detrending}{section.3.5}% 18
+\BOOKMARK [2][-]{subsection.3.5.3}{Binary-Segmented Cumulative Sum}{section.3.5}% 19
+\BOOKMARK [1][-]{section.3.6}{Verification of Change Points}{chapter.3}% 20
+\BOOKMARK [1][-]{section.3.7}{Applying the best method on Field Data}{chapter.3}% 21
+\BOOKMARK [0][-]{chapter.4}{Results}{}% 22
+\BOOKMARK [1][-]{section.4.1}{Results from Simulation}{chapter.4}% 23
+\BOOKMARK [1][-]{section.4.2}{Results from Field Data}{chapter.4}% 24
+\BOOKMARK [0][-]{chapter.5}{Conclusion}{}% 25
+\BOOKMARK [0][-]{chapter.6}{Appendicies}{}% 26
+\BOOKMARK [0][-]{chapter*.94}{References}{}% 27

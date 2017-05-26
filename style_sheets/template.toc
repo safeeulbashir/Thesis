@@ -1,32 +1,27 @@
-\contentsline {chapter}{List of Figures}{viii}{chapter*.2}
-\contentsline {chapter}{List of Tables}{xiv}{chapter*.3}
-\contentsline {chapter}{Glossary}{xvi}{chapter*.5}
+\contentsline {chapter}{List of Figures}{ix}{chapter*.2}
+\contentsline {chapter}{List of Tables}{xviii}{chapter*.3}
+\contentsline {chapter}{Glossary}{xx}{chapter*.5}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Contribution and Organization}{4}{section.1.1}
-\contentsline {chapter}{\numberline {2}Background Study}{5}{chapter.2}
+\contentsline {chapter}{\numberline {2}Background}{5}{chapter.2}
 \contentsline {section}{\numberline {2.1}Power Law}{6}{section.2.1}
-\contentsline {section}{\numberline {2.2}Field Observation}{7}{section.2.2}
-\contentsline {section}{\numberline {2.3}CPFA}{7}{section.2.3}
-\contentsline {section}{\numberline {2.4}Genetic Algorithm}{10}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Selection}{11}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}Crossover}{11}{subsection.2.4.2}
-\contentsline {subsection}{\numberline {2.4.3}Mutation}{12}{subsection.2.4.3}
-\contentsline {chapter}{\numberline {3}Method}{14}{chapter.3}
-\contentsline {section}{\numberline {3.1}Setting Simulation Environment}{14}{section.3.1}
-\contentsline {section}{\numberline {3.2}Tuning Parameters using Genetic Algorithm}{15}{section.3.2}
-\contentsline {section}{\numberline {3.3}Generating Data Set for Analysis}{19}{section.3.3}
-\contentsline {section}{\numberline {3.4}Analyzing The Foraging Data}{19}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}Creating Timeline for each type of distribution}{20}{subsection.3.4.1}
-\contentsline {section}{\numberline {3.5}Change Point Detection Algorithm}{22}{section.3.5}
-\contentsline {subsection}{\numberline {3.5.1}Calculating the Cumulative Sum}{22}{subsection.3.5.1}
-\contentsline {subsection}{\numberline {3.5.2}Detrending}{23}{subsection.3.5.2}
-\contentsline {subsection}{\numberline {3.5.3}Binary-Segmented Cumulative Sum}{25}{subsection.3.5.3}
-\contentsline {section}{\numberline {3.6}Verification of Change Points}{25}{section.3.6}
-\contentsline {section}{\numberline {3.7}Applying the best method on Field Data}{27}{section.3.7}
-\contentsline {chapter}{\numberline {4}Results}{28}{chapter.4}
-\contentsline {section}{\numberline {4.1}Parameter setup for Change Point Detection Methods}{28}{section.4.1}
-\contentsline {section}{\numberline {4.2}Results from Simulation}{29}{section.4.2}
-\contentsline {section}{\numberline {4.3}Results from Field Data}{36}{section.4.3}
-\contentsline {chapter}{\numberline {5}Conclusion}{39}{chapter.5}
-\contentsline {chapter}{\numberline {6}Appendicies}{41}{chapter.6}
-\contentsline {chapter}{References}{61}{chapter*.68}
+\contentsline {section}{\numberline {2.2}CPFA}{7}{section.2.2}
+\contentsline {section}{\numberline {2.3}Genetic Algorithm}{9}{section.2.3}
+\contentsline {chapter}{\numberline {3}Method}{11}{chapter.3}
+\contentsline {section}{\numberline {3.1}Setting Simulation Environment}{11}{section.3.1}
+\contentsline {section}{\numberline {3.2}Tuning Parameters using Genetic Algorithm}{12}{section.3.2}
+\contentsline {section}{\numberline {3.3}Generating Data Set for Analysis}{15}{section.3.3}
+\contentsline {section}{\numberline {3.4}Analyzing The Foraging Data}{16}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Creating Timeline for each type of distribution}{16}{subsection.3.4.1}
+\contentsline {section}{\numberline {3.5}Change Point Detection Algorithm}{18}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}Calculating the Cumulative Sum}{19}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.5.2}Detrending}{20}{subsection.3.5.2}
+\contentsline {subsection}{\numberline {3.5.3}Binary-Segmented Cumulative Sum}{22}{subsection.3.5.3}
+\contentsline {section}{\numberline {3.6}Verification of Change Points}{24}{section.3.6}
+\contentsline {section}{\numberline {3.7}Applying the best method on Field Data}{25}{section.3.7}
+\contentsline {chapter}{\numberline {4}Results}{26}{chapter.4}
+\contentsline {section}{\numberline {4.1}Results from Simulation}{26}{section.4.1}
+\contentsline {section}{\numberline {4.2}Results from Field Data}{38}{section.4.2}
+\contentsline {chapter}{\numberline {5}Conclusion}{41}{chapter.5}
+\contentsline {chapter}{\numberline {6}Appendicies}{43}{chapter.6}
+\contentsline {chapter}{References}{72}{chapter*.94}
